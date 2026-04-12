@@ -94,17 +94,29 @@
             "greek": "Είμαι πρώτος και είσαι τελευταίος.",
             "english": "I am first and you are last."
           },
-          {
-            "greek": "Πόσων χρονών είσαι;",
-            "english": "How old are you?"
-          },
-          {
+        {
             "greek": "Αυτές είναι οι τελικές ερωτήσεις.",
             "english": "These are the final questions."
           },
           {
             "greek": "Είναι ζωντανός.",
             "english": "He is alive."
+          },
+          {
+            "greek": "Ένα λεπτό είναι εξήντα δευτερόλεπτα.",
+            "english": "One minute is sixty seconds."
+          },
+          {
+            "greek": "Είναι Μάρτιος.",
+            "english": "It is March."
+          },
+          {
+            "greek": "Τι ημέρα είναι σήμερα;",
+            "english": "What day is today?"
+          },
+          {
+            "greek": "Είναι δώδεκα και πέντε.",
+            "english": "It's five past twelve."
           }
         ]
       },
@@ -176,6 +188,14 @@
           {
             "greek": "Έχουμε μια γκρίζα γάτα και έναν άσπρο σκύλο.",
             "english": "We have a gray cat and a white dog."
+          },
+          {
+            "greek": "Ο μήνας έχει τέσσερις εβδομάδες.",
+            "english": "The month has four weeks."
+          },
+          {
+            "greek": "Το παλτό μου έχει τσέπες.",
+            "english": "My coat has pockets."
           }
         ]
       },
@@ -219,6 +239,10 @@
           {
             "greek": "Το κορίτσι δεν τρώει αυγά.",
             "english": "The girl does not eat eggs."
+          },
+          {
+            "greek": "Εμείς τρώμε καρπούζι και πεπόνι το καλοκαίρι.",
+            "english": "We eat watermelon and melon in the summer."
           }
         ]
       },
@@ -309,6 +333,10 @@
           {
             "greek": "Η γυναίκα μου διαβάζει το βιβλίο.",
             "english": "My wife reads the book."
+          },
+          {
+            "greek": "Διαβάζεις τη νύχτα;",
+            "english": "Do you read at night?"
           }
         ]
       },
@@ -324,6 +352,14 @@
           {
             "greek": "Ο άντρας μιλάει ελληνικά.",
             "english": "The man speaks Greek."
+          },
+          {
+            "greek": "Αυτός μιλάει με τον φύλακα.",
+            "english": "He speaks with the guard."
+          },
+          {
+            "greek": "Ο δικηγόρος μιλάει με τον δικαστή.",
+            "english": "The lawyer talks with the judge."
           }
         ]
       },
@@ -339,6 +375,58 @@
           {
             "greek": "Η γυναίκα φοράει το ροζ φόρεμα.",
             "english": "The woman wears the pink dress."
+          },
+          {
+            "greek": "Ο άντρας φοράει καφέ παπούτσια.",
+            "english": "The man wears brown shoes."
+          },
+          {
+            "greek": "Αυτή φοράει τα παπούτσια μου.",
+            "english": "She wears my shoes."
+          },
+          {
+            "greek": "Φοράω το μάλλινό μου κασκόλ.",
+            "english": "I wear my wool scarf."
+          },
+          {
+            "greek": "Φοράω το παλτό μου.",
+            "english": "I wear my coat."
+          },
+          {
+            "greek": "Φοράει αυτή κουστούμι;",
+            "english": "Does she wear a suit?"
+          },
+          {
+            "greek": "Φοράς καπέλο;",
+            "english": "Do you wear a hat?"
+          },
+          {
+            "greek": "Φοράς στολή;",
+            "english": "Do you wear a uniform?"
+          },
+          {
+            "greek": "Φοράμε τα μάλλινα παλτά και τα δερμάτινα γάντια μας.",
+            "english": "We wear our wool coats and our leather gloves."
+          },
+          {
+            "greek": "Αυτή φοράει πουκάμισο και φούστα.",
+            "english": "She wears a shirt and a skirt."
+          },
+          {
+            "greek": "Φοράω παπούτσια.",
+            "english": "I wear shoes."
+          },
+          {
+            "greek": "Φοράω το φόρεμά μου και το παλτό μου.",
+            "english": "I wear my dress and my coat."
+          },
+          {
+            "greek": "Αυτή φοράει φούστα.",
+            "english": "She wears a skirt."
+          },
+          {
+            "greek": "Οι αστυνομικοί φοράνε μπλε στολές.",
+            "english": "The officers wear blue uniforms."
           }
         ]
       },
@@ -437,6 +525,10 @@
           {
             "greek": "Βρέχει και κάνει κρύο.",
             "english": "It is raining and it is cold."
+          },
+          {
+            "greek": "Τι κάνουν οι αξιωματικοί;",
+            "english": "What do the officers do?"
           }
         ]
       },
@@ -480,11 +572,7 @@
             "greek": "Βλέπω τον ήλιο.",
             "english": "I see the sun."
           },
-          {
-            "greek": "Η γυναίκα βλέπει το παιδί.",
-            "english": "The woman sees the child."
-          },
-          {
+        {
             "greek": "Βλέπω οκτακόσιους σκύλους.",
             "english": "I see eight hundred dogs."
           }
@@ -562,11 +650,7 @@
             "greek": "Δεν ξέρω.",
             "english": "I do not know."
           },
-          {
-            "greek": "Εμείς δεν ξέρουμε ελληνικά.",
-            "english": "We do not know Greek."
-          },
-          {
+         {
             "greek": "Αυτή ξέρει αγγλικά.",
             "english": "She knows English."
           },
@@ -652,6 +736,10 @@
           {
             "greek": "Εσείς δείχνετε τα καπέλα.",
             "english": "You show the hats."
+          },
+          {
+            "greek": "Το ημερολόγιο δείχνει τις ημέρες.",
+            "english": "The calendar shows the days."
           }
         ]
       },
@@ -667,6 +755,26 @@
           {
             "greek": "Τα παιδιά δε δουλεύουν.",
             "english": "The children do not work."
+          },
+          {
+            "greek": "Ο συντάκτης δουλεύει για την εφημερίδα.",
+            "english": "The editor works for the newspaper."
+          },
+          {
+            "greek": "Δουλεύω ως σερβιτόρα.",
+            "english": "I work as a waitress."
+          },
+          {
+            "greek": "Ο Πέτρος δουλεύει ως σερβιτόρος.",
+            "english": "Petros works as a waiter."
+          },
+          {
+            "greek": "Δεκαπέντε οικοδόμοι δουλεύουν ημέρα και νύχτα.",
+            "english": "Fifteen builders work day and night."
+          },
+          {
+            "greek": "Δουλεύω ως παπάς.",
+            "english": "I work as a priest."
           }
         ]
       }
@@ -696,6 +804,14 @@
           {
             "greek": "Αυτός τρέχει προς το αγόρι.",
             "english": "He runs toward the boy."
+          },
+          {
+            "greek": "Εμείς τρέχουμε τον Μάιο.",
+            "english": "We run in May."
+          },
+          {
+            "greek": "Οι φύλακες τρέχουν πίσω από τον άντρα.",
+            "english": "The guards are running after the man."
           }
         ]
       },
@@ -804,6 +920,10 @@
           {
             "greek": "Φέρνω το μήλο.",
             "english": "I bring the apple."
+          },
+          {
+            "greek": "Οι σερβιτόροι φέρνουν το μενού.",
+            "english": "The waiters bring the menu."
           }
         ]
       },
@@ -848,6 +968,14 @@
           {
             "greek": "Με αγαπάς;",
             "english": "Do you love me?"
+          },
+          {
+            "greek": "Αγαπώ τις Κυριακές!",
+            "english": "I love Sundays!"
+          },
+          {
+            "greek": "Αγαπάω τα Σάββατα!",
+            "english": "I love Saturdays!"
           }
         ]
       },
@@ -878,6 +1006,18 @@
           {
             "greek": "Βρέχει και κάνει κρύο.",
             "english": "It is raining and it is cold."
+          },
+          {
+            "greek": "Τον Νοέμβριο βρέχει.",
+            "english": "In November it rains."
+          },
+          {
+            "greek": "Βρέχει και κάνει κρύο.",
+            "english": "It's raining and it's cold."
+          },
+          {
+            "greek": "Έχει αέρα και βρέχει.",
+            "english": "It's windy and it's raining."
           }
         ]
       },
@@ -927,6 +1067,10 @@
           {
             "greek": "Οι γυναίκες σχεδιάζουν ρούχα.",
             "english": "The women design clothes."
+          },
+          {
+            "greek": "Οι αρχιτέκτονες σχεδιάζουν πολύ καλά.",
+            "english": "Architects design very well."
           }
         ]
       },
@@ -964,6 +1108,10 @@
           {
             "greek": "Χιονίζει και κάνει κρύο.",
             "english": "It is snowing and it is cold."
+          },
+          {
+            "greek": "Δε βρέχει, χιονίζει.",
+            "english": "It's not raining, it's snowing."
           }
         ]
       },

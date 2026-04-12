@@ -208,7 +208,19 @@ document.getElementById('next-question').onclick = () => {
 
 document.getElementById('instructions-btn').onclick = () => {
     const instructions = document.getElementById('instructions');
-    instructions.style.display = instructions.style.display === 'none' ? 'block' : 'none';
+    instructions.classList.toggle('show');
+};
+
+document.getElementById('close-instructions').onclick = () => {
+    const instructions = document.getElementById('instructions');
+    instructions.classList.remove('show');
+};
+
+document.getElementById('instructions').onclick = (e) => {
+    // Close when clicking on the backdrop (outside the content box)
+    if (e.target.id === 'instructions') {
+        e.target.classList.remove('show');
+    }
 };
 
 window.onload = async () => {
