@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Greek Verbs Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Greek Verbs Quiz</h1>
+        <button id="instructions-btn">Instructions</button>
+        <div id="instructions" style="display: none;">
+            <h2>How to Use the App</h2>
+            <p>This app helps you learn Greek verbs through multiple-choice quizzes and sentence practice.</p>
+            <ul>
+                <li><strong>Quiz Questions:</strong> You'll see a Greek verb and need to choose its English meaning from the options.</li>
+                <li><strong>Correct Answers:</strong> Get 3 correct in a row to level up. Wrong answers drop you a level.</li>
+                <li><strong>Sentence Practice:</strong> After a correct answer, practice by saying a sentence or viewing examples.</li>
+                <li><strong>Final Level:</strong> At level 4, enjoy varied questions and keep your streak going!</li>
+                <li><strong>Progress:</strong> Track your current level and correct streak.</li>
+            </ul>
+            <p>Click "Instructions" again to hide this.</p>
+        </div>
+        <div id="level-display">Level: <span id="current-level">1</span></div>
+        <div id="streak-display">Correct in a row: <span id="streak">0</span></div>
+        <div id="question-container">
+            <div id="question">What does "<span id="greek-verb"></span>" mean?</div>
+            <div id="options"></div>
+        </div>
+        <div id="feedback" style="display: none;">
+            <div id="result"></div>
+            <div id="sentence-prompt" style="display: none;">
+                <p>Now, say a sentence using this verb.</p>
+                <button id="show-example">Show me an example</button>
+                <button id="said-sentence">I said a sentence</button>
+            </div>
+            <div id="sample-sentence" style="display: none;">
+                <p id="sentence-text"></p>
+                <button id="new-sentence">New sentence</button>
+                <button id="next-question">Next question</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
