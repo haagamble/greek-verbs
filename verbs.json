@@ -247,6 +247,10 @@
           {
             "greek": "Εμείς τρώμε καρπούζι και πεπόνι το καλοκαίρι.",
             "english": "We eat watermelon and melon in the summer."
+          },
+          {
+            "greek": "Εμείς τρώμε πρωινό και διαβάζουμε εφημερίδα.",
+            "english": "We eat breakfast and read a newspaper."
           }
         ]
       },
@@ -306,6 +310,14 @@
           {
             "greek": "Πίνω τον καφέ με το καλαμάκι.",
             "english": "I drink the coffee with a straw."
+          },
+          {
+            "greek": "Εμείς πίνουμε χυμό.",
+            "english": "We drink juice."
+          },
+          {
+            "greek": "Πίνουμε πολύ καφέ.",
+            "english": "We drink a lot of coffee."
           }
         ]
       },
@@ -349,6 +361,14 @@
           {
             "greek": "Διαβάζεις τη νύχτα;",
             "english": "Do you read at night?"
+          },
+          {
+            "greek": "Εσύ παίζεις και εγώ διαβάζω.",
+            "english": "You play and I read."
+          },
+          {
+            "greek": "Εμείς τρώμε πρωινό και διαβάζουμε εφημερίδα.",
+            "english": "We eat breakfast and read a newspaper."
           }
         ]
       },
@@ -372,6 +392,22 @@
           {
             "greek": "Ο δικηγόρος μιλάει με τον δικαστή.",
             "english": "The lawyer talks with the judge."
+          },
+          {
+            "greek": "Μιλάει καλά ελληνικά και λίγο αγγλικά.",
+            "english": "He/She speaks Greek well and a little English."
+          },
+          {
+            "greek": "Μιλάς ελληνικά!",
+            "english": "You speak Greek!"
+          },
+          {
+            "greek": "Μιλάτε ελληνικά και αγγλικά;",
+            "english": "Do you speak Greek and English?"
+          },
+          {
+            "greek": "Μιλάω καλά ελληνικά.",
+            "english": "I speak Greek well."
           }
         ]
       },
@@ -498,6 +534,10 @@
           {
             "greek": "Θέλω τριάντα πέντε γάτες.",
             "english": "I want thirty-five cats."
+          },
+          {
+            "greek": "Εγώ θέλω το πουκάμισο.",
+            "english": "I want the shirt."
           }
         ]
       },
@@ -545,6 +585,10 @@
           {
             "greek": "Το κάνω μόνη μου.",
             "english": "I do it by myself."
+          },
+          {
+            "greek": "Εγώ κάνω καφέ και μπισκότα.",
+            "english": "I make coffee and cookies."
           }
         ]
       },
@@ -620,6 +664,10 @@
           {
             "greek": "Ακούς τι λένε αυτοί;",
             "english": "Do you hear what they are saying?"
+          },
+          {
+            "greek": "Ακούς το τηλέφωνο;",
+            "english": "Do you hear the phone?"
           }
         ]
       },
@@ -643,6 +691,14 @@
           {
             "greek": "Δε γράφω βιβλίο.",
             "english": "I do not write a book."
+          },
+          {
+            "greek": "Δε γράφεις;",
+            "english": "Don't you write?"
+          },
+          {
+            "greek": "Γράφετε βιβλίο;",
+            "english": "Are you writing a book?"
           }
         ]
       },
@@ -662,6 +718,10 @@
           {
             "greek": "Δεν ξέρουμε πού πηγαίνεις.",
             "english": "We do not know where you are going."
+          },
+          {
+            "greek": "Πού πηγαίνετε;",
+            "english": "Where are you going?"
           }
         ]
       },
@@ -701,6 +761,10 @@
           {
             "greek": "Ξέρω τα βασικά Αγγλικά.",
             "english": "I know basic English."
+          },
+          {
+            "greek": "Ξέρεις πού είναι το πορτοφόλι μου;",
+            "english": "Do you know where my wallet is?"
           }
         ]
       },
@@ -712,6 +776,26 @@
           {
             "greek": "Το μωρό παίζει με τη γάτα.",
             "english": "The baby plays with the cat."
+          },
+          {
+            "greek": "Εγώ παίζω και νικάω.",
+            "english": "I play and I win."
+          },
+          {
+            "greek": "Η κόρη τους παίζει με το μωρό.",
+            "english": "Their daughter plays with the baby."
+          },
+          {
+            "greek": "Εσύ παίζεις και εγώ διαβάζω.",
+            "english": "You play and I read."
+          },
+          {
+            "greek": "Εσείς παίζετε και εμείς καθαρίζουμε.",
+            "english": "You play and we clean."
+          },
+          {
+            "greek": "Τα παιδιά παίζουν.",
+            "english": "The children play."
           }
         ]
       },
@@ -723,6 +807,18 @@
           {
             "greek": "Δεν μένω στην Ασία.",
             "english": "I do not live in Asia."
+          },
+          {
+            "greek": "Μένω στην Αμερική, στην Καλιφόρνια.",
+            "english": "I live in America, in California."
+          },
+          {
+            "greek": "Εσύ μένεις στην Ευρώπη;",
+            "english": "Do you live in Europe?"
+          },
+          {
+            "greek": "Μένω στην Ιταλία όχι στην Αμερική.",
+            "english": "I live in Italy, not in America."
           }
         ]
       },
@@ -757,6 +853,10 @@
           {
             "greek": "Βρίσκουμε το πουκάμισο.",
             "english": "We find the shirt."
+          },
+          {
+            "greek": "Βρίσκω τα πιάτα.",
+            "english": "I find the dishes."
           }
         ]
       },
@@ -874,6 +974,10 @@
           {
             "greek": "Αυτοί κολυμπάνε.",
             "english": "They swim."
+          },
+          {
+            "greek": "Δεν κολυμπάτε;",
+            "english": "Don't you swim?"
           }
         ]
       },
@@ -908,6 +1012,10 @@
           {
             "greek": "Εμείς αγοράζουμε και εσείς πληρώνετε.",
             "english": "We buy and you pay."
+          },
+          {
+            "greek": "Ποιος πληρώνει;",
+            "english": "Who pays?"
           }
         ]
       },
@@ -960,6 +1068,14 @@
           {
             "greek": "Οι σερβιτόροι φέρνουν το μενού.",
             "english": "The waiters bring the menu."
+          },
+          {
+            "greek": "Αυτός φέρνει το ποτήρι.",
+            "english": "He brings the glass."
+          },
+          {
+            "greek": "Τα παιδιά φέρνουν τα πιάτα.",
+            "english": "The children bring the dishes."
           }
         ]
       },
@@ -1016,6 +1132,22 @@
           {
             "greek": "Ο πατέρας αγαπάει τον υιό.",
             "english": "The father loves the son."
+          },
+          {
+            "greek": "Ποιαν αγαπάμε;",
+            "english": "Whom do we love?"
+          },
+          {
+            "greek": "Αγαπώ τα γλυκά!",
+            "english": "I love sweets!"
+          },
+          {
+            "greek": "Αυτή αγαπά τον άντρα.",
+            "english": "She loves the man."
+          },
+          {
+            "greek": "Αυτή αγαπά τους σκύλους.",
+            "english": "She loves the dogs."
           }
         ]
       },
@@ -1126,6 +1258,10 @@
           {
             "greek": "Εγώ τραγουδώ και αυτοί χορεύουν.",
             "english": "I sing and they dance."
+          },
+          {
+            "greek": "Γιατί τραγουδάτε;",
+            "english": "Why are you singing?"
           }
         ]
       },
