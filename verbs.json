@@ -616,6 +616,10 @@
           {
             "greek": "Τι ακούει;",
             "english": "What does he or she hear?"
+          },
+          {
+            "greek": "Ακούς τι λένε αυτοί;",
+            "english": "Do you hear what they are saying?"
           }
         ]
       },
@@ -650,6 +654,14 @@
           {
             "greek": "Τα παιδιά δεν πηγαίνουν.",
             "english": "The children do not go."
+          },
+          {
+            "greek": "Πού πηγαίνεις;",
+            "english": "Where are you going?"
+          },
+          {
+            "greek": "Δεν ξέρουμε πού πηγαίνεις.",
+            "english": "We do not know where you are going."
           }
         ]
       },
@@ -661,6 +673,10 @@
           {
             "greek": "Εμείς δεν ξέρουμε ελληνικά.",
             "english": "We do not know Greek."
+          },
+          {
+            "greek": "Δεν ξέρουμε πού πηγαίνεις.",
+            "english": "We do not know where you are going."
           },
           {
             "greek": "Δεν ξέρω.",
@@ -715,11 +731,7 @@
         "lemma": "βάζω",
         "english": "put",
         "sentences": [
-          {
-            "greek": "Εγώ δε βάζω.",
-            "english": "I do not put."
-          },
-          {
+         {
             "greek": "Αυτός βάζει νερό στο ποτήρι του.",
             "english": "He puts water in his glass."
           },
@@ -772,11 +784,7 @@
         "lemma": "δουλεύω",
         "english": "work",
         "sentences": [
-          {
-            "greek": "Εγώ δουλεύω.",
-            "english": "I work."
-          },
-          {
+      {
             "greek": "Τα παιδιά δε δουλεύουν.",
             "english": "The children do not work."
           },
@@ -1004,6 +1012,10 @@
           {
             "greek": "Αγαπάω τα Σάββατα!",
             "english": "I love Saturdays!"
+          },
+          {
+            "greek": "Ο πατέρας αγαπάει τον υιό.",
+            "english": "The father loves the son."
           }
         ]
       },
