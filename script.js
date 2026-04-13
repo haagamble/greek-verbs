@@ -146,7 +146,7 @@ function checkAnswer(isCorrect, selectedOption) {
             }
         }
     } else {
-        result.textContent = `Wrong! The correct answer is: ${currentVerb.english}`;
+        result.textContent = `The correct answer is: ${currentVerb.english}`;
         showSampleSentence();
         streak = 0;
         pendingLevelChange = Math.max(currentLevel - 1, 1);
