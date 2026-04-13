@@ -196,6 +196,10 @@
           {
             "greek": "Το παλτό μου έχει τσέπες.",
             "english": "My coat has pockets."
+          },
+          {
+            "greek": "Το σπίτι μας έχει τρία υπνοδωμάτια.",
+            "english": "Our house has three bedrooms."
           }
         ]
       },
@@ -294,6 +298,14 @@
           {
             "greek": "Πίνει τον καφέ της σκέτο.",
             "english": "She drinks her coffee black."
+          },
+          {
+            "greek": "Πίνει από τη βρύση.",
+            "english": "He/She drinks from the tap."
+          },
+          {
+            "greek": "Πίνω τον καφέ με το καλαμάκι.",
+            "english": "I drink the coffee with a straw."
           }
         ]
       },
@@ -529,6 +541,10 @@
           {
             "greek": "Τι κάνουν οι αξιωματικοί;",
             "english": "What do the officers do?"
+          },
+          {
+            "greek": "Το κάνω μόνη μου.",
+            "english": "I do it by myself."
           }
         ]
       },
@@ -704,12 +720,20 @@
             "english": "I do not put."
           },
           {
-            "greek": "Βάζουμε το ροζ καράβι.",
-            "english": "We put the pink boat."
-          },
-          {
             "greek": "Αυτός βάζει νερό στο ποτήρι του.",
             "english": "He puts water in his glass."
+          },
+          {
+            "greek": "Βάζω τα πράγματά μου στην τσέπη μου.",
+            "english": "I put my things in my pocket."
+          },
+          {
+            "greek": "Βάζω τα κομμάτια κοτόπουλου στο τηγάνι.",
+            "english": "I put the pieces of chicken in the pan."
+          },
+          {
+            "greek": "Πού βάζεις το κίτρινο τετράδιο;",
+            "english": "Where do you put the yellow notebook?"
           }
         ]
       },
@@ -857,6 +881,10 @@
           {
             "greek": "Δεν αγοράζουμε ψάρι",
             "english": "We do not buy fish."
+          },
+          {
+            "greek": "Αυτοί αγοράζουν κατσαρόλες.",
+            "english": "They buy pots."
           }
         ]
       },
