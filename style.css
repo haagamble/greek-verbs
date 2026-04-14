@@ -6,6 +6,7 @@ body {
     background-color: #f5f5f5;
     min-height: 100vh;
     overflow-x: hidden;
+    overscroll-behavior-y: none;
 }
 
 #app {
@@ -19,6 +20,8 @@ body {
     padding-top: 14px;
     padding-bottom: calc(32px + env(safe-area-inset-bottom, 0px));
     position: relative;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
 }
 
 h1 {
@@ -326,11 +329,12 @@ button:hover {
 @media (max-width: 600px) {
     body {
         padding: 8px;
+        min-height: 100dvh;
     }
     #app {
         padding: 10px 10px calc(40px + env(safe-area-inset-bottom, 0px));
-        min-height: calc(100vh - 16px);
-        max-height: calc(100vh - 16px);
+        min-height: calc(100dvh - 16px);
+        max-height: calc(100dvh - 16px);
     }
     h1 {
         font-size: 18px;
