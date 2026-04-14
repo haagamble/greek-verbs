@@ -5,7 +5,6 @@ let currentVerb;
 let currentSentenceIndex = 0;
 let remainingVerbsByLevel = {};
 let pendingLevelChange = null;
-let pendingStreakReset = false;
 let sentenceOrder = [];
 let finalLevel = 1;
 let finalLevelQuestionsCount = 0;
@@ -203,18 +202,12 @@ function checkAnswer(isCorrect, selectedOption) {
         streak++;
         if (streak >= 3) {
             pendingLevelChange = Math.min(currentLevel + 1, finalLevel);
-            if (pendingLevelChange === finalLevel && currentLevel < finalLevel) {
-                pendingStreakReset = true;
-            } else {
-                pendingStreakReset = (pendingLevelChange < finalLevel);
-            }
         }
     } else {
         result.textContent = `The correct answer is: ${currentVerb.english}`;
         showSampleSentence();
         streak = 0;
         pendingLevelChange = Math.max(currentLevel - 1, 1);
-        pendingStreakReset = true;
     }
     document.getElementById('streak').textContent = streak;
 }
@@ -286,11 +279,6 @@ function prepareNextQuestion() {
         } else if (currentLevel !== finalLevel) {
             finalLevelQuestionsCount = 0;
             finalReviewRecentVerbIds = [];
-        }
-
-        if (pendingStreakReset) {
-            streak = 0;
-            pendingStreakReset = false;
         }
     }
     document.getElementById('current-level').textContent = currentLevel;
