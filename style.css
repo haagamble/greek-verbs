@@ -116,6 +116,19 @@ button:hover {
     -webkit-tap-highlight-color: transparent;
 }
 
+#play-audio {
+    background-color: #1565C0;
+}
+
+#play-audio:hover:not(:disabled) {
+    background-color: #0D47A1;
+}
+
+#play-audio:disabled {
+    background-color: #90A4AE;
+    cursor: not-allowed;
+}
+
 @media (hover: hover) and (pointer: fine) {
     #new-sentence:hover:not(:active) {
         background-color: #2E7D32;

@@ -9,6 +9,9 @@ let pendingStreakReset = false;
 let sentenceOrder = [];
 let finalLevel = 1;
 let finalLevelQuestionsCount = 0;
+let currentSampleSentence = null;
+
+const speechSupported = 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
 
 async function loadVerbs() {
     // Loads the verbs data from verbs.json
@@ -174,10 +177,38 @@ function checkAnswer(isCorrect, selectedOption) {
 function showSampleSentence() {
     // Displays a sample sentence for the current verb
     const sentenceText = document.getElementById('sentence-text');
-    const sentence = getNextSentence();
-    sentenceText.innerHTML = `<strong>${sentence.greek}</strong> - ${sentence.english}`;
+    currentSampleSentence = getNextSentence();
+    sentenceText.innerHTML = `<strong>${currentSampleSentence.greek}</strong> - ${currentSampleSentence.english}`;
     document.getElementById('sentence-prompt').style.display = 'none';
     document.getElementById('sample-sentence').style.display = 'block';
+    updateAudioButtonState();
+}
+
+function updateAudioButtonState() {
+    const playAudioButton = document.getElementById('play-audio');
+
+    if (!speechSupported) {
+        playAudioButton.disabled = true;
+        playAudioButton.textContent = 'Audio unavailable';
+        return;
+    }
+
+    playAudioButton.disabled = !currentSampleSentence;
+    playAudioButton.textContent = 'Play audio';
+}
+
+function speakGreek(text) {
+    if (!speechSupported || !text) {
+        return;
+    }
+
+    window.speechSynthesis.cancel();
+
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = 'el-GR';
+    utterance.rate = 0.9;
+
+    window.speechSynthesis.speak(utterance);
 }
 
 document.getElementById('said-sentence').onclick = () => {
@@ -192,6 +223,12 @@ document.getElementById('show-example').onclick = () => {
 
 function prepareNextQuestion() {
     // Applies any pending level changes and generates the next question
+    if (speechSupported) {
+        window.speechSynthesis.cancel();
+    }
+
+    currentSampleSentence = null;
+
     if (pendingLevelChange !== null) {
         currentLevel = pendingLevelChange;
         pendingLevelChange = null;
@@ -213,6 +250,12 @@ newSentenceButton.onclick = () => {
     setTimeout(() => {
         newSentenceButton.classList.remove('animate-click');
     }, 200);
+};
+
+document.getElementById('play-audio').onclick = () => {
+    if (currentSampleSentence) {
+        speakGreek(currentSampleSentence.greek);
+    }
 };
 
 document.getElementById('next-question').onclick = () => {
@@ -240,6 +283,7 @@ document.getElementById('instructions').onclick = (e) => {
 };
 
 window.onload = async () => {
+    updateAudioButtonState();
     await loadVerbs();
     generateQuestion();
 };
