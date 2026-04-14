@@ -7,24 +7,40 @@ let remainingVerbsByLevel = {};
 let pendingLevelChange = null;
 let pendingStreakReset = false;
 let sentenceOrder = [];
-const FINAL_LEVEL = 4;
+let finalLevel = 1;
 let finalLevelQuestionsCount = 0;
 
 async function loadVerbs() {
     // Loads the verbs data from verbs.json
     const response = await fetch('verbs.json');
     verbsData = await response.json();
+    finalLevel = Math.max(...Object.keys(verbsData.levels).map(Number));
+}
+
+function getWeightedFinalLevelPool() {
+    // Build a weighted pool of levels, favoring higher levels after the final level opens.
+    const levels = Object.keys(verbsData.levels).map(Number).sort((a, b) => a - b);
+    const pool = [];
+
+    levels.forEach(level => {
+        const weight = Math.max(1, level);
+        for (let i = 0; i < weight; i++) {
+            pool.push(level);
+        }
+    });
+
+    return pool;
 }
 
 function generateQuestion() {
     // Generates and displays a new quiz question with options
-    if (currentLevel === FINAL_LEVEL) {
+    if (currentLevel === finalLevel) {
         if (finalLevelQuestionsCount < 3) {
-            currentVerb = getRandomVerb(FINAL_LEVEL);
+            currentVerb = getRandomVerb(finalLevel);
             finalLevelQuestionsCount++;
         } else {
-            // Random level with higher weight for higher levels
-            const levelWeights = [1, 1, 2, 2, 3, 3, 3, 4, 4, 4, 4]; // more 4s
+            // Random level with higher weight for higher levels.
+            const levelWeights = getWeightedFinalLevelPool();
             const randomIndex = Math.floor(Math.random() * levelWeights.length);
             const selectedLevel = levelWeights[randomIndex];
             currentVerb = getRandomVerb(selectedLevel);
@@ -35,7 +51,7 @@ function generateQuestion() {
     const greek = currentVerb.lemma;
 
      document.getElementById('greek-verb').textContent = greek;
-    document.getElementById('current-level').textContent = currentLevel === FINAL_LEVEL ? `${currentLevel} (Final Level!)` : currentLevel;
+    document.getElementById('current-level').textContent = currentLevel === finalLevel ? `${currentLevel} (Final Level!)` : currentLevel;
     document.getElementById('streak').textContent = streak;
 
     const optionsContainer = document.getElementById('options');
@@ -138,11 +154,11 @@ function checkAnswer(isCorrect, selectedOption) {
         sentencePrompt.style.display = 'block';
         streak++;
         if (streak >= 3) {
-            pendingLevelChange = Math.min(currentLevel + 1, FINAL_LEVEL);
-            if (pendingLevelChange === FINAL_LEVEL && currentLevel < FINAL_LEVEL) {
+            pendingLevelChange = Math.min(currentLevel + 1, finalLevel);
+            if (pendingLevelChange === finalLevel && currentLevel < finalLevel) {
                 pendingStreakReset = true;
             } else {
-                pendingStreakReset = (pendingLevelChange < FINAL_LEVEL);
+                pendingStreakReset = (pendingLevelChange < finalLevel);
             }
         }
     } else {

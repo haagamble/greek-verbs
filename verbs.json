@@ -1,4 +1,4 @@
-{
+﻿{
   "levels": {
     "1": [
       {
@@ -94,7 +94,7 @@
             "greek": "Είμαι πρώτος και είσαι τελευταίος.",
             "english": "I am first and you are last."
           },
-        {
+          {
             "greek": "Αυτές είναι οι τελικές ερωτήσεις.",
             "english": "These are the final questions."
           },
@@ -540,81 +540,9 @@
             "english": "I want the shirt."
           }
         ]
-      },
-      {
-        "id": "do-kano",
-        "lemma": "κάνω",
-        "english": "do",
-        "sentences": [
-          {
-            "greek": "Εγώ κάνω καφέ.",
-            "english": "I make coffee."
-          },
-          {
-            "greek": "Αυτοί κάνουν το φαγητό.",
-            "english": "They make the food."
-          },
-          {
-            "greek": "Το κάνω κι εγώ.",
-            "english": "I do it too."
-          },
-          {
-            "greek": "Το κάνουμε κι εμείς.",
-            "english": "We do it too."
-          },
-          {
-            "greek": "Κάνει πολύ ζέστη.",
-            "english": "It is very hot."
-          },
-          {
-            "greek": "Έχει ήλιο και κάνει ζέστη.",
-            "english": "It is sunny and hot."
-          },
-          {
-            "greek": "Χιονίζει και κάνει κρύο.",
-            "english": "It is snowing and it is cold."
-          },
-          {
-            "greek": "Βρέχει και κάνει κρύο.",
-            "english": "It is raining and it is cold."
-          },
-          {
-            "greek": "Τι κάνουν οι αξιωματικοί;",
-            "english": "What do the officers do?"
-          },
-          {
-            "greek": "Το κάνω μόνη μου.",
-            "english": "I do it by myself."
-          },
-          {
-            "greek": "Εγώ κάνω καφέ και μπισκότα.",
-            "english": "I make coffee and cookies."
-          }
-        ]
-      },
-      {
-        "id": "say-leo",
-        "lemma": "λέω",
-        "english": "say",
-        "sentences": [
-          {
-            "greek": "Τι λες.",
-            "english": "What are you saying?"
-          },
-          {
-            "greek": "Λέω την αλήθεια.",
-            "english": "I tell the truth."
-          },
-          {
-            "greek": "Εμείς λέμε ναι.",
-            "english": "We say yes."
-          },
-          {
-            "greek": "Τι λέει;",
-            "english": "What is he or she saying?"
-          }
-        ]
-      },
+      }
+    ],
+    "2": [
       {
         "id": "see-vlepo",
         "lemma": "βλέπω",
@@ -632,14 +560,12 @@
             "greek": "Βλέπω τον ήλιο.",
             "english": "I see the sun."
           },
-        {
+          {
             "greek": "Βλέπω οκτακόσιους σκύλους.",
             "english": "I see eight hundred dogs."
           }
         ]
-      }
-    ],
-    "2": [
+      },
       {
         "id": "hear-akoyo",
         "lemma": "ακούω",
@@ -742,7 +668,7 @@
             "greek": "Δεν ξέρω.",
             "english": "I do not know."
           },
-         {
+          {
             "greek": "Αυτή ξέρει αγγλικά.",
             "english": "She knows English."
           },
@@ -823,11 +749,44 @@
         ]
       },
       {
+        "id": "work-doyleyo",
+        "lemma": "δουλεύω",
+        "english": "work",
+        "sentences": [
+          {
+            "greek": "Τα παιδιά δε δουλεύουν.",
+            "english": "The children do not work."
+          },
+          {
+            "greek": "Ο συντάκτης δουλεύει για την εφημερίδα.",
+            "english": "The editor works for the newspaper."
+          },
+          {
+            "greek": "Δουλεύω ως σερβιτόρα.",
+            "english": "I work as a waitress."
+          },
+          {
+            "greek": "Ο Πέτρος δουλεύει ως σερβιτόρος.",
+            "english": "Petros works as a waiter."
+          },
+          {
+            "greek": "Δεκαπέντε οικοδόμοι δουλεύουν ημέρα και νύχτα.",
+            "english": "Fifteen builders work day and night."
+          },
+          {
+            "greek": "Δουλεύω ως παπάς.",
+            "english": "I work as a priest."
+          }
+        ]
+      }
+    ],
+    "3": [
+      {
         "id": "put-vazo",
         "lemma": "βάζω",
         "english": "put",
         "sentences": [
-         {
+          {
             "greek": "Αυτός βάζει νερό στο ποτήρι του.",
             "english": "He puts water in his glass."
           },
@@ -880,38 +839,79 @@
         ]
       },
       {
-        "id": "work-doyleyo",
-        "lemma": "δουλεύω",
-        "english": "work",
+        "id": "do-kano",
+        "lemma": "κάνω",
+        "english": "do",
         "sentences": [
-      {
-            "greek": "Τα παιδιά δε δουλεύουν.",
-            "english": "The children do not work."
+          {
+            "greek": "Εγώ κάνω καφέ.",
+            "english": "I make coffee."
           },
           {
-            "greek": "Ο συντάκτης δουλεύει για την εφημερίδα.",
-            "english": "The editor works for the newspaper."
+            "greek": "Αυτοί κάνουν το φαγητό.",
+            "english": "They make the food."
           },
           {
-            "greek": "Δουλεύω ως σερβιτόρα.",
-            "english": "I work as a waitress."
+            "greek": "Το κάνω κι εγώ.",
+            "english": "I do it too."
           },
           {
-            "greek": "Ο Πέτρος δουλεύει ως σερβιτόρος.",
-            "english": "Petros works as a waiter."
+            "greek": "Το κάνουμε κι εμείς.",
+            "english": "We do it too."
           },
           {
-            "greek": "Δεκαπέντε οικοδόμοι δουλεύουν ημέρα και νύχτα.",
-            "english": "Fifteen builders work day and night."
+            "greek": "Κάνει πολύ ζέστη.",
+            "english": "It is very hot."
           },
           {
-            "greek": "Δουλεύω ως παπάς.",
-            "english": "I work as a priest."
+            "greek": "Έχει ήλιο και κάνει ζέστη.",
+            "english": "It is sunny and hot."
+          },
+          {
+            "greek": "Χιονίζει και κάνει κρύο.",
+            "english": "It is snowing and it is cold."
+          },
+          {
+            "greek": "Βρέχει και κάνει κρύο.",
+            "english": "It is raining and it is cold."
+          },
+          {
+            "greek": "Τι κάνουν οι αξιωματικοί;",
+            "english": "What do the officers do?"
+          },
+          {
+            "greek": "Το κάνω μόνη μου.",
+            "english": "I do it by myself."
+          },
+          {
+            "greek": "Εγώ κάνω καφέ και μπισκότα.",
+            "english": "I make coffee and cookies."
           }
         ]
-      }
-    ],
-    "3": [
+      },
+      {
+        "id": "say-leo",
+        "lemma": "λέω",
+        "english": "say",
+        "sentences": [
+          {
+            "greek": "Τι λες.",
+            "english": "What are you saying?"
+          },
+          {
+            "greek": "Λέω την αλήθεια.",
+            "english": "I tell the truth."
+          },
+          {
+            "greek": "Εμείς λέμε ναι.",
+            "english": "We say yes."
+          },
+          {
+            "greek": "Τι λέει;",
+            "english": "What is he or she saying?"
+          }
+        ]
+      },
       {
         "id": "run-trecho",
         "lemma": "τρέχω",
@@ -980,7 +980,183 @@
             "english": "Don't you swim?"
           }
         ]
+      }
+    ],
+    "4": [
+      {
+        "id": "love-agapao",
+        "lemma": "αγαπάω",
+        "english": "love",
+        "sentences": [
+          {
+            "greek": "Αγαπάμε τους σκύλους.",
+            "english": "We love the dogs."
+          },
+          {
+            "greek": "Αγαπώ τα γλυκά.",
+            "english": "I love sweets."
+          },
+          {
+            "greek": "Ποιον αγαπάς;",
+            "english": "Who do you love?"
+          },
+          {
+            "greek": "Αγαπάω όλα τα ζώα.",
+            "english": "I love all the animals."
+          },
+          {
+            "greek": "Με αγαπάς;",
+            "english": "Do you love me?"
+          },
+          {
+            "greek": "Αγαπώ τις Κυριακές!",
+            "english": "I love Sundays!"
+          },
+          {
+            "greek": "Αγαπάω τα Σάββατα!",
+            "english": "I love Saturdays!"
+          },
+          {
+            "greek": "Ο πατέρας αγαπάει τον υιό.",
+            "english": "The father loves the son."
+          },
+          {
+            "greek": "Ποιαν αγαπάμε;",
+            "english": "Whom do we love?"
+          },
+          {
+            "greek": "Αγαπώ τα γλυκά!",
+            "english": "I love sweets!"
+          },
+          {
+            "greek": "Αυτή αγαπά τον άντρα.",
+            "english": "She loves the man."
+          },
+          {
+            "greek": "Αυτή αγαπά τους σκύλους.",
+            "english": "She loves the dogs."
+          }
+        ]
       },
+      {
+        "id": "give-dino",
+        "lemma": "δίνω",
+        "english": "give",
+        "sentences": [
+          {
+            "greek": "Δίνω τη σοκολάτα στη γυναίκα.",
+            "english": "I give the chocolate to the woman."
+          },
+          {
+            "greek": "Δίνω το πουκάμισο στις γυναίκες.",
+            "english": "I give the shirt to the women."
+          }
+        ]
+      },
+      {
+        "id": "sing-tragoydao",
+        "lemma": "τραγουδάω",
+        "english": "sing",
+        "sentences": [
+          {
+            "greek": "Το παιδί τραγουδά.",
+            "english": "The child sings."
+          },
+          {
+            "greek": "Εγώ τραγουδώ και αυτοί χορεύουν.",
+            "english": "I sing and they dance."
+          },
+          {
+            "greek": "Γιατί τραγουδάτε;",
+            "english": "Why are you singing?"
+          }
+        ]
+      },
+      {
+        "id": "dance-choreyo",
+        "lemma": "χορεύω",
+        "english": "dance",
+        "sentences": [
+          {
+            "greek": "Δεν χορεύω.",
+            "english": "I do not dance."
+          },
+          {
+            "greek": "Δε χορεύω.",
+            "english": "I do not dance."
+          },
+          {
+            "greek": "Εγώ τραγουδώ και αυτοί χορεύουν.",
+            "english": "I sing and they dance."
+          }
+        ]
+      },
+      {
+        "id": "help-voethao",
+        "lemma": "βοηθάω",
+        "english": "help",
+        "sentences": [
+          {
+            "greek": "Εγώ δε βοηθώ.",
+            "english": "I do not help."
+          },
+          {
+            "greek": "Δε με βοηθάς.",
+            "english": "You are not helping me."
+          }
+        ]
+      },
+      {
+        "id": "fall-pefto",
+        "lemma": "πέφτω",
+        "english": "fall",
+        "sentences": [
+          {
+            "greek": "Τα παιδιά τρέχουν και πέφτουν.",
+            "english": "The children run and fall."
+          }
+        ]
+      },
+      {
+        "id": "draw-schediazo",
+        "lemma": "σχεδιάζω",
+        "english": "draw",
+        "sentences": [
+          {
+            "greek": "Τι σχεδιάζεις;",
+            "english": "What are you drawing?"
+          },
+          {
+            "greek": "Αυτή σχεδιάζει μια γάτα.",
+            "english": "She draws a cat."
+          },
+          {
+            "greek": "Βλέπεις τι σχεδιάζω;",
+            "english": "Do you see what I am drawing?"
+          },
+          {
+            "greek": "Οι γυναίκες σχεδιάζουν ρούχα.",
+            "english": "The women design clothes."
+          },
+          {
+            "greek": "Οι αρχιτέκτονες σχεδιάζουν πολύ καλά.",
+            "english": "Architects design very well."
+          }
+        ]
+      },
+      {
+        "id": "cut-kovo",
+        "lemma": "κόβω",
+        "english": "cut",
+        "sentences": [
+          {
+            "greek": "Μας κόβουν το νερό.",
+            "english": "They cut off our water."
+          }
+        ]
+      }
+    ],
+    "5": [
       {
         "id": "buy-agorazo",
         "lemma": "αγοράζω",
@@ -1046,17 +1222,6 @@
         ]
       },
       {
-        "id": "win-nikao",
-        "lemma": "νικάω",
-        "english": "win",
-        "sentences": [
-          {
-            "greek": "Ποιος νικάει;",
-            "english": "Who wins?"
-          }
-        ]
-      },
-      {
         "id": "bring-ferno",
         "lemma": "φέρνω",
         "english": "bring",
@@ -1093,78 +1258,6 @@
             "english": "He touches the water."
           }
         ]
-      }
-    ],
-    "4": [
-      {
-        "id": "love-agapao",
-        "lemma": "αγαπάω",
-        "english": "love",
-        "sentences": [
-          {
-            "greek": "Αγαπάμε τους σκύλους.",
-            "english": "We love the dogs."
-          },
-          {
-            "greek": "Αγαπώ τα γλυκά.",
-            "english": "I love sweets."
-          },
-          {
-            "greek": "Ποιον αγαπάς;",
-            "english": "Who do you love?"
-          },
-          {
-            "greek": "Αγαπάω όλα τα ζώα.",
-            "english": "I love all the animals."
-          },
-          {
-            "greek": "Με αγαπάς;",
-            "english": "Do you love me?"
-          },
-          {
-            "greek": "Αγαπώ τις Κυριακές!",
-            "english": "I love Sundays!"
-          },
-          {
-            "greek": "Αγαπάω τα Σάββατα!",
-            "english": "I love Saturdays!"
-          },
-          {
-            "greek": "Ο πατέρας αγαπάει τον υιό.",
-            "english": "The father loves the son."
-          },
-          {
-            "greek": "Ποιαν αγαπάμε;",
-            "english": "Whom do we love?"
-          },
-          {
-            "greek": "Αγαπώ τα γλυκά!",
-            "english": "I love sweets!"
-          },
-          {
-            "greek": "Αυτή αγαπά τον άντρα.",
-            "english": "She loves the man."
-          },
-          {
-            "greek": "Αυτή αγαπά τους σκύλους.",
-            "english": "She loves the dogs."
-          }
-        ]
-      },
-      {
-        "id": "help-voethao",
-        "lemma": "βοηθάω",
-        "english": "help",
-        "sentences": [
-          {
-            "greek": "Εγώ δε βοηθώ.",
-            "english": "I do not help."
-          },
-          {
-            "greek": "Δε με βοηθάς.",
-            "english": "You are not helping me."
-          }
-        ]
       },
       {
         "id": "rain-vrechei",
@@ -1194,89 +1287,6 @@
         ]
       },
       {
-        "id": "give-dino",
-        "lemma": "δίνω",
-        "english": "give",
-        "sentences": [
-          {
-            "greek": "Δίνω τη σοκολάτα στη γυναίκα.",
-            "english": "I give the chocolate to the woman."
-          },
-          {
-            "greek": "Δίνω το πουκάμισο στις γυναίκες.",
-            "english": "I give the shirt to the women."
-          }
-        ]
-      },
-      {
-        "id": "cut-kovo",
-        "lemma": "κόβω",
-        "english": "cut",
-        "sentences": [
-          {
-            "greek": "Μας κόβουν το νερό.",
-            "english": "They cut off our water."
-          }
-        ]
-      },
-      {
-        "id": "draw-schediazo",
-        "lemma": "σχεδιάζω",
-        "english": "draw",
-        "sentences": [
-          {
-            "greek": "Τι σχεδιάζεις;",
-            "english": "What are you drawing?"
-          },
-          {
-            "greek": "Αυτή σχεδιάζει μια γάτα.",
-            "english": "She draws a cat."
-          },
-          {
-            "greek": "Βλέπεις τι σχεδιάζω;",
-            "english": "Do you see what I am drawing?"
-          },
-          {
-            "greek": "Οι γυναίκες σχεδιάζουν ρούχα.",
-            "english": "The women design clothes."
-          },
-          {
-            "greek": "Οι αρχιτέκτονες σχεδιάζουν πολύ καλά.",
-            "english": "Architects design very well."
-          }
-        ]
-      },
-      {
-        "id": "sing-tragoydao",
-        "lemma": "τραγουδάω",
-        "english": "sing",
-        "sentences": [
-          {
-            "greek": "Το παιδί τραγουδά.",
-            "english": "The child sings."
-          },
-          {
-            "greek": "Εγώ τραγουδώ και αυτοί χορεύουν.",
-            "english": "I sing and they dance."
-          },
-          {
-            "greek": "Γιατί τραγουδάτε;",
-            "english": "Why are you singing?"
-          }
-        ]
-      },
-      {
-        "id": "fall-pefto",
-        "lemma": "πέφτω",
-        "english": "fall",
-        "sentences": [
-          {
-            "greek": "Τα παιδιά τρέχουν και πέφτουν.",
-            "english": "The children run and fall."
-          }
-        ]
-      },
-      {
         "id": "snow-chionizei",
         "lemma": "χιονίζει",
         "english": "snow",
@@ -1292,21 +1302,13 @@
         ]
       },
       {
-        "id": "dance-choreyo",
-        "lemma": "χορεύω",
-        "english": "dance",
+        "id": "win-nikao",
+        "lemma": "νικάω",
+        "english": "win",
         "sentences": [
           {
-            "greek": "Δεν χορεύω.",
-            "english": "I do not dance."
-          },
-          {
-            "greek": "Δε χορεύω.",
-            "english": "I do not dance."
-          },
-          {
-            "greek": "Εγώ τραγουδώ και αυτοί χορεύουν.",
-            "english": "I sing and they dance."
+            "greek": "Ποιος νικάει;",
+            "english": "Who wins?"
           }
         ]
       }
