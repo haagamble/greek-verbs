@@ -10,6 +10,10 @@ let sentenceOrder = [];
 let finalLevel = 1;
 let finalLevelQuestionsCount = 0;
 let currentSampleSentence = null;
+let currentQuestionLevel = 1;
+let finalReviewRecentVerbIds = [];
+
+const FINAL_REVIEW_NO_REPEAT_COUNT = 20;
 
 const speechSupported = 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
 
@@ -35,25 +39,66 @@ function getWeightedFinalLevelPool() {
     return pool;
 }
 
+function addFinalReviewHistory(verbId) {
+    finalReviewRecentVerbIds.push(verbId);
+
+    if (finalReviewRecentVerbIds.length > FINAL_REVIEW_NO_REPEAT_COUNT) {
+        finalReviewRecentVerbIds.shift();
+    }
+}
+
+function getWeightedFinalReviewPool(excludedIds = new Set()) {
+    const levelWeights = getWeightedFinalLevelPool();
+    const pool = [];
+
+    levelWeights.forEach(level => {
+        const verbs = verbsData.levels[level.toString()] || [];
+
+        verbs.forEach(verb => {
+            if (!excludedIds.has(verb.id)) {
+                pool.push({ level, verb });
+            }
+        });
+    });
+
+    return pool;
+}
+
+function getFinalReviewVerb() {
+    const recentIds = new Set(finalReviewRecentVerbIds);
+    let pool = getWeightedFinalReviewPool(recentIds);
+
+    if (pool.length === 0) {
+        pool = getWeightedFinalReviewPool();
+    }
+
+    const randomIndex = Math.floor(Math.random() * pool.length);
+    return pool[randomIndex];
+}
+
 function generateQuestion() {
     // Generates and displays a new quiz question with options
     if (currentLevel === finalLevel) {
         if (finalLevelQuestionsCount < 3) {
+            currentQuestionLevel = finalLevel;
             currentVerb = getRandomVerb(finalLevel);
             finalLevelQuestionsCount++;
         } else {
-            // Random level with higher weight for higher levels.
-            const levelWeights = getWeightedFinalLevelPool();
-            const randomIndex = Math.floor(Math.random() * levelWeights.length);
-            const selectedLevel = levelWeights[randomIndex];
-            currentVerb = getRandomVerb(selectedLevel);
+            // Weighted mixed review with a rolling no-repeat window.
+            const finalReviewQuestion = getFinalReviewVerb();
+            currentQuestionLevel = finalReviewQuestion.level;
+            currentVerb = finalReviewQuestion.verb;
         }
+
+        addFinalReviewHistory(currentVerb.id);
     } else {
+        currentQuestionLevel = currentLevel;
         currentVerb = getRandomVerb(currentLevel);
     }
+
     const greek = currentVerb.lemma;
 
-     document.getElementById('greek-verb').textContent = greek;
+    document.getElementById('greek-verb').textContent = greek;
     document.getElementById('current-level').textContent = currentLevel === finalLevel ? `${currentLevel} (Final Level!)` : currentLevel;
     document.getElementById('streak').textContent = streak;
 
@@ -61,7 +106,7 @@ function generateQuestion() {
     optionsContainer.innerHTML = '';
 
     const correctAnswer = currentVerb.english;
-    const wrongOptions = getWrongOptions(currentVerb, currentLevel);
+    const wrongOptions = getWrongOptions(currentVerb, currentQuestionLevel);
 
     const allOptions = [correctAnswer, ...wrongOptions].sort(() => 0.5 - Math.random());
 
@@ -230,9 +275,19 @@ function prepareNextQuestion() {
     currentSampleSentence = null;
 
     if (pendingLevelChange !== null) {
+        const enteringFinalLevel = pendingLevelChange === finalLevel && currentLevel < finalLevel;
+
         currentLevel = pendingLevelChange;
         pendingLevelChange = null;
-        finalLevelQuestionsCount = 0;
+
+        if (enteringFinalLevel) {
+            finalLevelQuestionsCount = 0;
+            finalReviewRecentVerbIds = [];
+        } else if (currentLevel !== finalLevel) {
+            finalLevelQuestionsCount = 0;
+            finalReviewRecentVerbIds = [];
+        }
+
         if (pendingStreakReset) {
             streak = 0;
             pendingStreakReset = false;
