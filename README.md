@@ -4,6 +4,8 @@ A simple browser-based quiz app for practicing Greek verbs.
 
 The app shows a Greek verb, asks the learner to choose the English meaning, and then offers sample sentences for speaking practice.
 
+It currently includes 125 verbs organized across 16 levels.
+
 ## Features
 
 - Multiple-choice Greek verb quiz
