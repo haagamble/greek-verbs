@@ -11,6 +11,7 @@ let finalLevelQuestionsCount = 0;
 let currentSampleSentence = null;
 let currentQuestionLevel = 1;
 let finalReviewRecentVerbIds = [];
+let finalLevelCelebrationTimeout = null;
 
 const FINAL_REVIEW_NO_REPEAT_COUNT = 20;
 
@@ -73,6 +74,27 @@ function getFinalReviewVerb() {
 
     const randomIndex = Math.floor(Math.random() * pool.length);
     return pool[randomIndex];
+}
+
+function showFinalLevelCelebration() {
+    const banner = document.getElementById('final-level-banner');
+    const levelDisplay = document.getElementById('level-display');
+
+    banner.classList.remove('show');
+    levelDisplay.classList.remove('final-level-glow');
+
+    // Force reflow so the animation can replay each time the user re-enters the final level.
+    void banner.offsetWidth;
+    void levelDisplay.offsetWidth;
+
+    banner.classList.add('show');
+    levelDisplay.classList.add('final-level-glow');
+
+    clearTimeout(finalLevelCelebrationTimeout);
+    finalLevelCelebrationTimeout = setTimeout(() => {
+        banner.classList.remove('show');
+        levelDisplay.classList.remove('final-level-glow');
+    }, 1800);
 }
 
 function generateQuestion() {
@@ -276,6 +298,7 @@ function prepareNextQuestion() {
         if (enteringFinalLevel) {
             finalLevelQuestionsCount = 0;
             finalReviewRecentVerbIds = [];
+            showFinalLevelCelebration();
         } else if (currentLevel !== finalLevel) {
             finalLevelQuestionsCount = 0;
             finalReviewRecentVerbIds = [];
