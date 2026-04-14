@@ -700,14 +700,6 @@
           {
             "greek": "Ξέρεις πού είναι το πορτοφόλι μου;",
             "english": "Do you know where my wallet is?"
-          },
-          {
-            "greek": "Γνωρίζετε την απάντηση;",
-            "english": "Do you know the answer?"
-          },
-          {
-            "greek": "Πόσο καλά τον γνωρίζεις;",
-            "english": "How well do you know him?"
           }
         ]
       },

@@ -12,6 +12,7 @@ let currentSampleSentence = null;
 let currentQuestionLevel = 1;
 let finalReviewRecentVerbIds = [];
 let finalLevelCelebrationTimeout = null;
+let questionAnswered = false;
 
 const FINAL_REVIEW_NO_REPEAT_COUNT = 20;
 
@@ -99,6 +100,8 @@ function showFinalLevelCelebration() {
 
 function generateQuestion() {
     // Generates and displays a new quiz question with options
+    questionAnswered = false;
+
     if (currentLevel === finalLevel) {
         if (finalLevelQuestionsCount < 3) {
             currentQuestionLevel = finalLevel;
@@ -196,6 +199,12 @@ function getNextSentence() {
 
 function checkAnswer(isCorrect, selectedOption) {
     // Processes the user's answer, updates UI and game state
+    if (questionAnswered) {
+        return;
+    }
+
+    questionAnswered = true;
+
     const feedback = document.getElementById('feedback');
     const result = document.getElementById('result');
     const sentencePrompt = document.getElementById('sentence-prompt');

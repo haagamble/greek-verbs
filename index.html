@@ -14,7 +14,7 @@
         <div id="level-display">Level: <span id="current-level">1</span></div>
         <div id="streak-display">Correct in a row: <span id="streak">0</span></div>
         <div id="question-container">
-            <div id="question">What does "<span id="greek-verb"></span>" mean?</div>
+            <div id="question"><span id="greek-verb"></span></div>
             <div id="options"></div>
         </div>
         <div id="feedback" style="display: none;">
@@ -26,9 +26,11 @@
             </div>
             <div id="sample-sentence" style="display: none;">
                 <p id="sentence-text"></p>
-                <button id="play-audio" type="button">Play audio</button>
-                <button id="new-sentence">New sentence</button>
-                <button id="next-question">Next question</button>
+                <div id="sample-actions">
+                    <button id="play-audio" type="button">Play audio</button>
+                    <button id="new-sentence">New sentence</button>
+                    <button id="next-question">Next question</button>
+                </div>
             </div>
         </div>
     </div>
