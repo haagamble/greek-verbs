@@ -1312,6 +1312,114 @@
           }
         ]
       }
+    ],
+    "6": [
+      {
+        "id": "offer-prosfero",
+        "lemma": "προσφέρω",
+        "english": "offer",
+        "sentences": [
+          {
+            "greek": "Προσφέρω νερό.",
+            "english": "I offer water."
+          },
+          {
+            "greek": "Μου προσφέρει καφέ.",
+            "english": "He is offering me coffee."
+          },
+          {
+            "greek": "Αυτοί προσφέρουν καφέ.",
+            "english": "They offer coffee."
+          }
+        ]
+      },
+      {
+        "id": "change-allazo",
+        "lemma": "αλλάζω",
+        "english": "change",
+        "sentences": [
+          {
+            "greek": "Αλλάζετε τα παπούτσια;",
+            "english": "Are you changing the shoes?"
+          },
+          {
+            "greek": "Αλλάζουμε τα πιάτα.",
+            "english": "We change the dishes."
+          },
+          {
+            "greek": "Αλλάζω τα παπούτσια μου.",
+            "english": "I change my shoes."
+          }
+        ]
+      },
+      {
+        "id": "cook-mageirevo",
+        "lemma": "μαγειρεύω",
+        "english": "cook",
+        "sentences": [
+          {
+            "greek": "Ο μάγειρας μαγειρεύει τα ψάρια.",
+            "english": "The cook cooks the fish."
+          },
+          {
+            "greek": "Αυτή μαγειρεύει φαγητό.",
+            "english": "She cooks food."
+          }
+        ]
+      },
+      {
+        "id": "make-ftiachno",
+        "lemma": "φτιάχνω",
+        "english": "make",
+        "sentences": [
+          {
+            "greek": "Η μαμά μου φτιάχνει γλυκά τον Δεκέμβριο.",
+            "english": "My mom makes sweets in December."
+          },
+          {
+            "greek": "Εμείς φτιάχνουμε γλυκά.",
+            "english": "We make sweets."
+          },
+          {
+            "greek": "Τι φτιάχνετε;",
+            "english": "What are you making?"
+          }
+        ]
+      },
+      {
+        "id": "believe-pistevo",
+        "lemma": "πιστεύω",
+        "english": "believe",
+        "sentences": [
+          {
+            "greek": "Γιατί το πιστεύουν;",
+            "english": "Why do they believe it?"
+          },
+          {
+            "greek": "Το πιστεύεις αυτό;",
+            "english": "Do you believe this?"
+          },
+          {
+            "greek": "Δε σε πιστεύω!",
+            "english": "I don’t believe you!"
+          }
+        ]
+      },
+      {
+        "id": "use-chrisimopoio",
+        "lemma": "χρησιμοποιώ",
+        "english": "use",
+        "sentences": [
+          {
+            "greek": "Χρησιμοποιώ ροζ κλωστή.",
+            "english": "I use pink thread."
+          },
+          {
+            "greek": "Εμείς χρησιμοποιούμε το ποτήρι.",
+            "english": "We use the glass."
+          }
+        ]
+      }
     ]
   }
 }
