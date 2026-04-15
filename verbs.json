@@ -43,10 +43,6 @@
             "english": "They are friends."
           },
           {
-            "greek": "Αυτή είναι μία γυναίκα.",
-            "english": "She is a woman."
-          },
-          {
             "greek": "Αυτά τα ζώα είναι άλογα.",
             "english": "These animals are horses."
           },
@@ -59,16 +55,8 @@
             "english": "You are a child."
           },
           {
-            "greek": "Αυτοί είναι άντρες.",
-            "english": "They are men."
-          },
-          {
             "greek": "Αυτές είναι γάτες.",
             "english": "They are cats."
-          },
-          {
-            "greek": "Εγώ είμαι άντρας.",
-            "english": "I am a man."
           },
           {
             "greek": "Είσαι κουρασμένος.",
@@ -101,6 +89,14 @@
           {
             "greek": "Είναι ζωντανός.",
             "english": "He is alive."
+          },
+          {
+            "greek": "Το μαγαζί είναι κλειστό τις Κυριακές.",
+            "english": "The shop is closed on Sundays."
+          },
+          {
+            "greek": "Η Ελλάδα είναι μια χώρα.",
+            "english": "Greece is a country."
           },
           {
             "greek": "Ένα λεπτό είναι εξήντα δευτερόλεπτα.",
@@ -154,10 +150,6 @@
             "english": "How many cats do you have?"
           },
           {
-            "greek": "Εμείς έχουμε ένα καρπούζι.",
-            "english": "We have a watermelon."
-          },
-          {
             "greek": "Αυτοί έχουν ένα παλτό.",
             "english": "They have a coat."
           },
@@ -168,14 +160,6 @@
           {
             "greek": "Αυτές έχουν μήλα.",
             "english": "They have apples."
-          },
-          {
-            "greek": "Το κορίτσι έχει φούστες.",
-            "english": "The girl has skirts."
-          },
-          {
-            "greek": "Εμείς έχουμε ένα μήλο.",
-            "english": "We have an apple."
           },
           {
             "greek": "Αυτός δεν έχει παπούτσια.",
@@ -196,6 +180,14 @@
           {
             "greek": "Το παλτό μου έχει τσέπες.",
             "english": "My coat has pockets."
+          },
+          {
+            "greek": "Η πόλη έχει εννέα ζώνες.",
+            "english": "The city has nine zones."
+          },
+          {
+            "greek": "Αυτό το εστιατόριο είναι πορτοκαλί.",
+            "english": "This restaurant is orange."
           },
           {
             "greek": "Το σπίτι μας έχει τρία υπνοδωμάτια.",
@@ -698,6 +690,14 @@
             "english": "I know basic English."
           },
           {
+            "greek": "Εγώ ξέρω αυτό το μέρος.",
+            "english": "I know this place."
+          },
+          {
+            "greek": "Δεν ξέρω γιατί δεν τον εμπιστεύονται.",
+            "english": "I don’t know why they don’t trust him."
+          },
+          {
             "greek": "Ξέρεις πού είναι το πορτοφόλι μου;",
             "english": "Do you know where my wallet is?"
           }
@@ -733,6 +733,10 @@
             "english": "The children play."
           },
           {
+            "greek": "Τι παίζει στον κινηματογράφο;",
+            "english": "What is playing at the cinema?"
+          },
+          {
             "greek": "Παίζουμε μπάσκετ.",
             "english": "We play basketball."
           }
@@ -758,6 +762,14 @@
           {
             "greek": "Μένω στην Ιταλία όχι στην Αμερική.",
             "english": "I live in Italy, not in America."
+          },
+          {
+            "greek": "Σε ποια πόλη μένεις;",
+            "english": "In which city do you live?"
+          },
+          {
+            "greek": "Εμείς μένουμε σε μία ωραία γειτονιά.",
+            "english": "We live in a nice neighborhood."
           },
           {
             "greek": "Μένω στην Ελλάδα.",
@@ -793,6 +805,10 @@
           {
             "greek": "Δουλεύω ως παπάς.",
             "english": "I work as a priest."
+          },
+          {
+            "greek": "Οι αστυνομικοί δουλεύουν στο αστυνομικό τμήμα.",
+            "english": "Police officers work at the police station."
           },
           {
             "greek": "Δουλεύω κάθε Τρίτη.",
@@ -852,6 +868,18 @@
           {
             "greek": "Εσείς δείχνετε τα καπέλα.",
             "english": "You show the hats."
+          },
+          {
+            "greek": "Η πυξίδα δείχνει βόρεια.",
+            "english": "The compass points north."
+          },
+          {
+            "greek": "Οι οδηγίες δείχνουν τον προορισμό.",
+            "english": "The directions show the destination."
+          },
+          {
+            "greek": "Αυτός μου δείχνει τον δρόμο για το αεροδρόμιο.",
+            "english": "He shows me the way to the airport."
           },
           {
             "greek": "Το ημερολόγιο δείχνει τις ημέρες.",
@@ -1061,8 +1089,8 @@
             "english": "Whom do we love?"
           },
           {
-            "greek": "Αγαπώ τα γλυκά!",
-            "english": "I love sweets!"
+            "greek": "Αγαπώ την περιοχή του κέντρου.",
+            "english": "I love the downtown area."
           },
           {
             "greek": "Αυτή αγαπά τον άντρα.",
@@ -1090,6 +1118,10 @@
           {
             "greek": "Δίνω τη σοκολάτα στη γυναίκα.",
             "english": "I give the chocolate to the woman."
+          },
+          {
+            "greek": "Μου δίνεις το νούμερο του ηλεκτρολόγου;",
+            "english": "Do you give me the electrician’s number?"
           },
           {
             "greek": "Δίνω το πουκάμισο στις γυναίκες.",
@@ -1219,6 +1251,10 @@
             "english": "We do not buy fish."
           },
           {
+            "greek": "Αγοράζω κρέας από το σούπερμάρκετ.",
+            "english": "I buy meat from the supermarket."
+          },
+          {
             "greek": "Αυτοί αγοράζουν κατσαρόλες.",
             "english": "They buy pots."
           }
@@ -1289,6 +1325,10 @@
           {
             "greek": "Αυτός φέρνει το ποτήρι.",
             "english": "He brings the glass."
+          },
+          {
+            "greek": "Φέρε μου την πυξίδα.",
+            "english": "Bring me the compass."
           },
           {
             "greek": "Τα παιδιά φέρνουν τα πιάτα.",
@@ -1489,6 +1529,10 @@
             "english": "I use pink thread."
           },
           {
+            "greek": "Δε χρησιμοποιώ τη συσκευή πλοήγησης.",
+            "english": "I don’t use the navigation device."
+          },
+          {
             "greek": "Εμείς χρησιμοποιούμε το ποτήρι.",
             "english": "We use the glass."
           }
@@ -1521,6 +1565,10 @@
           {
             "greek": "Δεν απαντούμε.",
             "english": "We do not answer."
+          },
+          {
+            "greek": "Γιατί δεν απαντάς στο γράμμα της;",
+            "english": "Why don’t you answer her letter?"
           }
         ]
       },
@@ -1892,8 +1940,36 @@
             "english": "We do not know where you are going."
           },
           {
+            "greek": "Πήγαινε μπροστά!",
+            "english": "Go forward!"
+          },
+          {
             "greek": "Πού πηγαίνετε;",
             "english": "Where are you going?"
+          },
+          {
+            "greek": "Εμείς πάμε στην εκκλησία κάθε Κυριακή.",
+            "english": "We go to church every Sunday."
+          },
+          {
+            "greek": "Πάω στη δουλειά μου το απόγευμα.",
+            "english": "I go to my work in the afternoon."
+          },
+          {
+            "greek": "Πώς πάμε στην παραλία;",
+            "english": "How do we go to the beach?"
+          },
+          {
+            "greek": "Αυτή πηγαίνει στην πλατεία.",
+            "english": "She goes to the square."
+          },
+          {
+            "greek": "Εμείς πάμε στην αγορά κάθε μήνα.",
+            "english": "We go to the market every month."
+          },
+          {
+            "greek": "Αυτή πάει στο γυμναστήριο.",
+            "english": "She goes to the gym."
           }
         ]
       },
@@ -1924,6 +2000,10 @@
           {
             "greek": "Με πιάνεις;",
             "english": "Do you catch me?"
+          },
+          {
+            "greek": "Αυτοί πιάνουν τις τσάντες.",
+            "english": "They grab the bags."
           }
         ]
       }
@@ -1973,6 +2053,10 @@
             "english": "Are you looking at the menu?"
           },
           {
+            "greek": "Αυτός κοιτάζει μπροστά.",
+            "english": "He looks ahead."
+          },
+          {
             "greek": "Ο ψηλός άντρας μάς κοιτάζει.",
             "english": "The tall man looks at us."
           }
@@ -2001,6 +2085,10 @@
           {
             "greek": "Αυτή κλείνει το κουτί.",
             "english": "She closes the box."
+          },
+          {
+            "greek": "Τι ώρα κλείνει η αγορά;",
+            "english": "What time does the market close?"
           }
         ]
       },
@@ -2088,6 +2176,14 @@
           {
             "greek": "Τους εμποδίζουμε να το κάνουν.",
             "english": "We prevent them from doing it."
+          },
+          {
+            "greek": "Τα πράγματα στην πόρτα εμποδίζουν.",
+            "english": "The things at the door are blocking."
+          },
+          {
+            "greek": "Ποιος σε εμποδίζει;",
+            "english": "Who is stopping you?"
           }
         ]
       },
@@ -2120,6 +2216,50 @@
           {
             "greek": "Δεν υπάρχεις;",
             "english": "Do you not exist?"
+          },
+          {
+            "greek": "Υπάρχουν πολλές διαφορετικές διαδρομές για το κέντρο της πόλης.",
+            "english": "There are many different routes to the city center."
+          },
+          {
+            "greek": "Υπάρχουν μεγάλα μαγαζιά στο κέντρο της πόλης.",
+            "english": "There are big shops in the city center."
+          },
+          {
+            "greek": "Υπάρχουν ξενοδοχεία στο νησί;",
+            "english": "Are there hotels on the island?"
+          },
+          {
+            "greek": "Υπάρχει μια καμηλοπάρδαλη στον ζωολογικό κήπο.",
+            "english": "There is a giraffe in the zoo."
+          },
+          {
+            "greek": "Υπάρχει σούπερ μάρκετ στη γειτονιά;",
+            "english": "Is there a supermarket in the neighborhood?"
+          },
+          {
+            "greek": "Υπάρχει μια ωραία καφετέρια μέσα στο πάρκο.",
+            "english": "There is a nice café inside the park."
+          },
+          {
+            "greek": "Δεν υπάρχουν μαγαζιά σε αυτόν τον δρόμο.",
+            "english": "There are no shops on this street."
+          },
+          {
+            "greek": "Η χώρα μου έχει υπέροχες παραλίες.",
+            "english": "My country has wonderful beaches."
+          },
+          {
+            "greek": "Έξω από το κάστρο υπάρχει μια καφετέρια.",
+            "english": "Outside the castle there is a café."
+          },
+          {
+            "greek": "Σκέφτομαι, άρα υπάρχω.",
+            "english": "I think, therefore I am."
+          },
+          {
+            "greek": "Τι υπάρχει σε αυτή την περιοχή;",
+            "english": "What is in this area?"
           }
         ]
       },
@@ -2302,6 +2442,22 @@
           {
             "greek": "Σε χρειάζομαι.",
             "english": "I need you."
+          },
+          {
+            "greek": "Χρειάζομαι τη διεύθυνση του σπιτιού της.",
+            "english": "I need the address of her house."
+          },
+          {
+            "greek": "Μια πόλη χρειάζεται περισσότερα πάρκα.",
+            "english": "A city needs more parks."
+          },
+          {
+            "greek": "Τι άλλο χρειαζόμαστε;",
+            "english": "What else do we need?"
+          },
+          {
+            "greek": "Το ρολόι χρειάζεται μπαταρίες.",
+            "english": "The watch needs batteries."
           }
         ]
       },
@@ -2363,6 +2519,10 @@
           {
             "greek": "Μου φαίνεται καλός.",
             "english": "He seems good to me."
+          },
+          {
+            "greek": "Αυτός δεν είναι όπως φαίνεται.",
+            "english": "He is not as he seems."
           }
         ]
       },
@@ -2439,6 +2599,21 @@
             "english": "No, I refuse!"
           }
         ]
+      },
+      {
+        "id": "think-skeftomai",
+        "lemma": "σκέφτομαι",
+        "english": "think",
+        "sentences": [
+          {
+            "greek": "Αυτός τη σκέφτεται κάθε ώρα και στιγμή.",
+            "english": "He thinks about her all the time."
+          },
+          {
+            "greek": "Σκέφτομαι, άρα υπάρχω.",
+            "english": "I think, therefore I am."
+          }
+        ]
       }
     ],
     "16": [
@@ -2454,6 +2629,14 @@
           {
             "greek": "Δε σου ανήκω.",
             "english": "I do not belong to you."
+          },
+          {
+            "greek": "Σε ποιο τμήμα ανήκεις;",
+            "english": "Which department do you belong to?"
+          },
+          {
+            "greek": "Σε ποια περιφέρεια ανήκει αυτός ο αριθμός;",
+            "english": "Which region does this number belong to?"
           },
           {
             "greek": "Εμείς ανήκουμε στην οικογένειά μας.",
