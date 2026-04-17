@@ -417,6 +417,10 @@
           {
             "greek": "Γράφω και μετά διαβάζω.",
             "english": "I write and then read."
+          },
+          {
+            "greek": "Το κορίτσι του διαβάζει ένα βιβλίο.",
+            "english": "The girl reads him a book."
           }
         ]
       },
@@ -484,6 +488,10 @@
           {
             "greek": "Αυτός μιλάει για την καριέρα του.",
             "english": "He speaks about his career."
+          },
+          {
+            "greek": "Οι αριθμοί μιλούν από μόνοι τους.",
+            "english": "The numbers speak for themselves."
           }
         ]
       },
@@ -816,6 +824,10 @@
           {
             "greek": "Την ξέρουμε.",
             "english": "We know her."
+          },
+          {
+            "greek": "Δεν ξέρω τι σημαίνει αυτό.",
+            "english": "I don’t know what this means."
           }
         ]
       },
@@ -1197,6 +1209,10 @@
           {
             "greek": "Αυτός τρέχει χωρίς παπούτσια.",
             "english": "He runs without shoes."
+          },
+          {
+            "greek": "Τρέχουμε και σταματάμε.",
+            "english": "We run and stop."
           }
         ]
       },
@@ -1246,6 +1262,10 @@
           {
             "greek": "Αυτοί αφήνουν τα βιβλία τους.",
             "english": "They leave their books."
+          },
+          {
+            "greek": "Αφήνει το πιάτο.",
+            "english": "He leaves the plate."
           }
         ]
       },
@@ -1273,6 +1293,10 @@
           {
             "greek": "Ψάχνω μια δουλειά.",
             "english": "I look for a job."
+          },
+          {
+            "greek": "Ψάχνουν τους άντρες τους.",
+            "english": "They look for their husbands."
           }
         ]
       },
@@ -1465,6 +1489,10 @@
           {
             "greek": "Δε με βοηθάς.",
             "english": "You are not helping me."
+          },
+          {
+            "greek": "Αυτός βοηθά τα πουλιά.",
+            "english": "He helps the birds."
           }
         ]
       },
@@ -1491,6 +1519,10 @@
           {
             "greek": "Τα παιδιά τρέχουν και πέφτουν.",
             "english": "The children run and fall."
+          },
+          {
+            "greek": "Πέφτω και χτυπάω το χέρι μου.",
+            "english": "I fall and hit my hand."
           }
         ]
       },
@@ -1577,6 +1609,14 @@
           {
             "greek": "Ποιος πληρώνει;",
             "english": "Who pays?"
+          },
+          {
+            "greek": "Με πληρώνει.",
+            "english": "She pays me."
+          },
+          {
+            "greek": "Η γυναίκα μας πληρώνει.",
+            "english": "The woman pays us."
           }
         ]
       },
@@ -1783,7 +1823,7 @@
           },
           {
             "greek": "Αυτοί προσφέρουν καφέ.",
-            "english": "They offer coffee."
+            "english": "They are offering coffee."
           }
         ]
       },
@@ -1803,6 +1843,10 @@
           {
             "greek": "Αλλάζω τα παπούτσια μου.",
             "english": "I change my shoes."
+          },
+          {
+            "greek": "Αυτοί αλλάζουν;",
+            "english": "Do they change?"
           }
         ]
       },
@@ -1868,6 +1912,10 @@
           {
             "greek": "Δε σε πιστεύω!",
             "english": "I don’t believe you!"
+          },
+          {
+            "greek": "Είσαι εξήντα χρονών; Δεν το πιστεύω.",
+            "english": "Are you sixty years old? I don’t believe it."
           }
         ]
       },
@@ -1971,6 +2019,10 @@
           {
             "greek": "Ευχαριστούμε για τον χρόνο σας.",
             "english": "Thank you for your time."
+          },
+          {
+            "greek": "Σας ευχαριστούμε για το δείπνο.",
+            "english": "Thank you for the dinner."
           }
         ]
       },
@@ -1999,6 +2051,10 @@
           {
             "greek": "Τι νομίζεις;",
             "english": "What do you think?"
+          },
+          {
+            "greek": "Τι νομίζουν αυτοί;",
+            "english": "What do they think?"
           }
         ]
       },
@@ -2037,6 +2093,10 @@
           {
             "greek": "Ελπίζω πως όχι!",
             "english": "I hope not!"
+          },
+          {
+            "greek": "Το ελπίζω!",
+            "english": "I hope so!"
           }
         ]
       },
@@ -2075,6 +2135,10 @@
           {
             "greek": "Γιατί αμφιβάλλεις;",
             "english": "Why do you doubt?"
+          },
+          {
+            "greek": "Δεν αμφιβάλλω για αυτόν.",
+            "english": "I don’t doubt him."
           }
         ]
       },
@@ -2097,6 +2161,10 @@
           {
             "greek": "Μελετάτε ελληνικά;",
             "english": "Do you study Greek?"
+          },
+          {
+            "greek": "Μελετάμε αγγλικά.",
+            "english": "We study English."
           }
         ]
       },
@@ -2123,6 +2191,10 @@
           {
             "greek": "Εσείς παίζετε και εμείς καθαρίζουμε.",
             "english": "You play and we clean."
+          },
+          {
+            "greek": "Τι καθαρίζουν;",
+            "english": "What are they cleaning?"
           }
         ]
       },
@@ -2196,6 +2268,10 @@
           {
             "greek": "Τι συμπεριλαμβάνει το μενού;",
             "english": "What does the menu include?"
+          },
+          {
+            "greek": "Αυτοί συμπεριλαμβάνουν τα παιδιά τους στο γεύμα.",
+            "english": "They include their children in the meal."
           }
         ]
       },
@@ -2210,7 +2286,7 @@
           },
           {
             "greek": "Αυτός σηκώνει την τσάντα.",
-            "english": "He lifts the bag."
+            "english": "He's lifting the bag."
           }
         ]
       },
@@ -2256,6 +2332,10 @@
           {
             "greek": "Εμείς παρουσιάζουμε τη δουλειά μας.",
             "english": "We present our work."
+          },
+          {
+            "greek": "Παρουσιάζουν το μενού.",
+            "english": "They present the menu."
           }
         ]
       }
@@ -2269,6 +2349,10 @@
           {
             "greek": "Αυτοί σταματούν το παιχνίδι.",
             "english": "They stop the game."
+          },
+          {
+            "greek": "Τρέχουμε και σταματάμε.",
+            "english": "We run and stop."
           }
         ]
       },
@@ -2353,7 +2437,7 @@
           },
           {
             "greek": "Το χάνουμε!",
-            "english": "We lose it!"
+            "english": "We're missing it!"
           }
         ]
       },
@@ -2384,6 +2468,10 @@
           {
             "greek": "Τι ώρα κλείνει η αγορά;",
             "english": "What time does the market close?"
+          },
+          {
+            "greek": "Κλείνουμε ένα ταξί.",
+            "english": "We book a taxi."
           }
         ]
       },
@@ -2395,6 +2483,14 @@
           {
             "greek": "Το γλυκό δεν περιέχει ζάχαρη.",
             "english": "The dessert does not contain sugar."
+          },
+          {
+            "greek": "Τα μπουκάλια περιέχουν κρασί.",
+            "english": "The bottles contain wine."
+          },
+          {
+            "greek": "Τι περιέχει το μικρό κουτί;",
+            "english": "What does the small box contain?"
           }
         ]
       },
@@ -2435,9 +2531,9 @@
         ]
       },
       {
-        "id": "deserve-axizo",
+        "id": "beworth-axizo",
         "lemma": "αξίζω",
-        "english": "deserve",
+        "english": "be worh",
         "sentences": [
           {
             "greek": "Το αξίζεις!",
@@ -2617,6 +2713,14 @@
           {
             "greek": "Τι νιώθεις;",
             "english": "What do you feel?"
+          },
+          {
+            "greek": "Πώς νιώθουν αυτοί;",
+            "english": "How do they feel?"
+          },
+          {
+            "greek": "Με βλέπει, το νιώθω.",
+            "english": "He sees me, I feel it."
           }
         ]
       },
@@ -2665,12 +2769,16 @@
         "english": "call",
         "sentences": [
           {
-            "greek": "Κλείνουμε ένα ταξί.",
-            "english": "We call a taxi."
-          },
-          {
             "greek": "Εμείς καλούμε αυτό το νούμερο.",
             "english": "We call this number."
+          },
+          {
+            "greek": "Ποιον καλείς;",
+            "english": "Who are you calling?"
+          },
+          {
+            "greek": "Εσείς καλείτε.",
+            "english": "You (plural) call."
           }
         ]
       },
@@ -2701,6 +2809,10 @@
           {
             "greek": "Ποιος υπογράφει το γράμμα;",
             "english": "Who signs the letter?"
+          },
+          {
+            "greek": "Δεν το υπογράφουν αν δεν τους αρέσει.",
+            "english": "They don’t sign it if they don’t like it."
           }
         ]
       }
@@ -2898,6 +3010,10 @@
           {
             "greek": "Το αποδέχομαι και συνεχίζω.",
             "english": "I accept it and continue."
+          },
+          {
+            "greek": "Όλοι τον αποδέχονται.",
+            "english": "Everyone accepts him."
           }
         ]
       },
@@ -2973,6 +3089,10 @@
           {
             "greek": "Σου ευχόμαστε καληνύχτα.",
             "english": "We wish you good night."
+          },
+          {
+            "greek": "Σου εύχομαι καλό καλοκαίρι!",
+            "english": "I wish you a good summer!"
           }
         ]
       },
@@ -3070,6 +3190,14 @@
           {
             "greek": "Συγγνώμη, τι εννοείτε;",
             "english": "Sorry, what do you mean?"
+          },
+          {
+            "greek": "Δεν το εννοώ.",
+            "english": "I don’t mean it."
+          },
+          {
+            "greek": "Το εννοεί;",
+            "english": "Does he mean it?"
           }
         ]
       },
@@ -3110,11 +3238,15 @@
         "sentences": [
           {
             "greek": "Σώζει το παιδί του.",
-            "english": "He saves his child."
+            "english": "He is saving his child."
           },
           {
             "greek": "Σώζουν τα παιδιά τους.",
-            "english": "They save their children."
+            "english": "They are saving their children."
+          },
+          {
+            "greek": "Με σώζεις!",
+            "english": "You save me!"
           }
         ]
       },
@@ -3126,6 +3258,10 @@
           {
             "greek": "Ανατρέφεις το παιδί σου.",
             "english": "You raise your child."
+          },
+          {
+            "greek": "Ανατρέφω το παιδί μου.",
+            "english": "I raise my child."
           }
         ]
       },
@@ -3287,6 +3423,10 @@
           {
             "greek": "Ακολούθησέ με!",
             "english": "Follow me!"
+          },
+          {
+            "greek": "Αυτοί ακολουθούν τους γονείς τους.",
+            "english": "They follow their parents."
           }
         ]
       }
