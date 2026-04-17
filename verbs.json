@@ -1096,6 +1096,52 @@
             "english": "They leave their books."
           }
         ]
+      },
+      {
+        "id": "lookfor-psachno",
+        "lemma": "ψάχνω",
+        "english": "look for",
+        "sentences": [
+          {
+            "greek": "Τι ψάχνεις;",
+            "english": "What are you looking for?"
+          },
+          {
+            "greek": "Ψάχνει το βιβλίο του.",
+            "english": "He looks for his book."
+          },
+          {
+            "greek": "Ψάχνω το βιβλίο μου.",
+            "english": "I look for my book."
+          },
+          {
+            "greek": "Τους ψάχνετε.",
+            "english": "You are looking for them."
+          },
+          {
+            "greek": "Ψάχνω μια δουλειά.",
+            "english": "I look for a job."
+          }
+        ]
+      },
+      {
+        "id": "lookat-koitazo",
+        "lemma": "κοιτάζω",
+        "english": "look at",
+        "sentences": [
+          {
+            "greek": "Κοιτάζεις το μενού;",
+            "english": "Are you looking at the menu?"
+          },
+          {
+            "greek": "Αυτός κοιτάζει μπροστά.",
+            "english": "He looks ahead."
+          },
+          {
+            "greek": "Ο ψηλός άντρας μάς κοιτάζει.",
+            "english": "The tall man looks at us."
+          }
+        ]
       }
     ],
     "4": [
@@ -1700,6 +1746,21 @@
             "english": "Thank you for your time."
           }
         ]
+      },
+      {
+        "id": "start-xekinao",
+        "lemma": "ξεκινάω",
+        "english": "start",
+        "sentences": [
+          {
+            "greek": "Δεν ξεκινώ.",
+            "english": "I do not start."
+          },
+          {
+            "greek": "Πότε ξεκινάς;",
+            "english": "When do you start?"
+          }
+        ]
       }
     ],
     "7": [
@@ -1839,13 +1900,24 @@
         ]
       },
       {
-        "id": "comb-chtenizo",
-        "lemma": "χτενίζω",
-        "english": "comb",
+        "id": "spend-pernao",
+        "lemma": "περνάω",
+        "english": "spend",
         "sentences": [
           {
-            "greek": "Αυτή χτενίζει την κόρη της.",
-            "english": "She combs her daughter."
+            "greek": "Πώς περνάτε τα βράδια σας;",
+            "english": "How do you spend your evenings?"
+          }
+        ]
+      },
+      {
+        "id": "try-prospatho",
+        "lemma": "προσπαθώ",
+        "english": "try",
+        "sentences": [
+          {
+            "greek": "Εμείς προσπαθούμε αλλά είναι δύσκολο.",
+            "english": "We try but it is difficult."
           }
         ]
       }
@@ -1974,21 +2046,6 @@
         ]
       },
       {
-        "id": "goout-vgaino",
-        "lemma": "βγαίνω",
-        "english": "go out",
-        "sentences": [
-          {
-            "greek": "Βγαίνουμε έξω το Σάββατο.",
-            "english": "We go out on Saturday."
-          },
-          {
-            "greek": "Εμείς μπαίνουμε κι εσείς βγαίνετε.",
-            "english": "We go in and you go out."
-          }
-        ]
-      },
-      {
         "id": "return-epistrefo",
         "lemma": "επιστρέφω",
         "english": "return",
@@ -2019,84 +2076,6 @@
           {
             "greek": "Φεύγω την Παρασκευή.",
             "english": "I leave on Friday."
-          }
-        ]
-      },
-      {
-        "id": "enter-baino",
-        "lemma": "μπαίνω",
-        "english": "enter",
-        "sentences": [
-          {
-            "greek": "Η γάτα μπαίνει στο κουτί.",
-            "english": "The cat goes into the box."
-          },
-          {
-            "greek": "Μπες στο μπροστινό κτίριο.",
-            "english": "Enter the front building."
-          },
-          {
-            "greek": "Εμείς μπαίνουμε κι εσείς βγαίνετε.",
-            "english": "We go in and you go out."
-          }
-        ]
-      },
-      {
-        "id": "go-pegaino",
-        "lemma": "πηγαίνω",
-        "english": "go",
-        "sentences": [
-          {
-            "greek": "Τα παιδιά δεν πηγαίνουν.",
-            "english": "The children do not go."
-          },
-          {
-            "greek": "Πού πηγαίνεις;",
-            "english": "Where are you going?"
-          },
-          {
-            "greek": "Δεν ξέρουμε πού πηγαίνεις.",
-            "english": "We do not know where you are going."
-          },
-          {
-            "greek": "Πήγαινε μπροστά!",
-            "english": "Go forward!"
-          },
-          {
-            "greek": "Πού πηγαίνετε;",
-            "english": "Where are you going?"
-          },
-          {
-            "greek": "Εμείς πάμε στην εκκλησία κάθε Κυριακή.",
-            "english": "We go to church every Sunday."
-          },
-          {
-            "greek": "Πάω στη δουλειά μου το απόγευμα.",
-            "english": "I go to my work in the afternoon."
-          },
-          {
-            "greek": "Πώς πάμε στην παραλία;",
-            "english": "How do we go to the beach?"
-          },
-          {
-            "greek": "Αυτή πηγαίνει στην πλατεία.",
-            "english": "She goes to the square."
-          },
-          {
-            "greek": "Εμείς πάμε στην αγορά κάθε μήνα.",
-            "english": "We go to the market every month."
-          },
-          {
-            "greek": "Πηγαίνω στα νοτιοδυτικά του χωριού.",
-            "english": "I go to the southwest of the village."
-          },
-          {
-            "greek": "Πάω βορειοδυτικά.",
-            "english": "I go northwest."
-          },
-          {
-            "greek": "Αυτή πάει στο γυμναστήριο.",
-            "english": "She goes to the gym."
           }
         ]
       },
@@ -2137,33 +2116,6 @@
     ],
     "10": [
       {
-        "id": "lookfor-psachno",
-        "lemma": "ψάχνω",
-        "english": "look for",
-        "sentences": [
-          {
-            "greek": "Τι ψάχνεις;",
-            "english": "What are you looking for?"
-          },
-          {
-            "greek": "Ψάχνει το βιβλίο του.",
-            "english": "He looks for his book."
-          },
-          {
-            "greek": "Ψάχνω το βιβλίο μου.",
-            "english": "I look for my book."
-          },
-          {
-            "greek": "Τους ψάχνετε.",
-            "english": "You are looking for them."
-          },
-          {
-            "greek": "Ψάχνω μια δουλειά.",
-            "english": "I look for a job."
-          }
-        ]
-      },
-      {
         "id": "lose-chano",
         "lemma": "χάνω",
         "english": "lose",
@@ -2175,25 +2127,6 @@
           {
             "greek": "Το χάνουμε!",
             "english": "We lose it!"
-          }
-        ]
-      },
-      {
-        "id": "lookat-koitazo",
-        "lemma": "κοιτάζω",
-        "english": "look at",
-        "sentences": [
-          {
-            "greek": "Κοιτάζεις το μενού;",
-            "english": "Are you looking at the menu?"
-          },
-          {
-            "greek": "Αυτός κοιτάζει μπροστά.",
-            "english": "He looks ahead."
-          },
-          {
-            "greek": "Ο ψηλός άντρας μάς κοιτάζει.",
-            "english": "The tall man looks at us."
           }
         ]
       },
@@ -2290,21 +2223,6 @@
         ]
       },
       {
-        "id": "recognize-anagnorizo",
-        "lemma": "αναγνωρίζω",
-        "english": "recognize",
-        "sentences": [
-          {
-            "greek": "Αυτός αναγνωρίζει την αδελφή του.",
-            "english": "He recognizes his sister."
-          },
-          {
-            "greek": "Δεν τον αναγνωρίζω.",
-            "english": "I do not recognize him."
-          }
-        ]
-      },
-      {
         "id": "continue-synechizo",
         "lemma": "συνεχίζω",
         "english": "continue",
@@ -2366,6 +2284,25 @@
           {
             "greek": "Ποιο προτιμάτε;",
             "english": "Which do you prefer?"
+          }
+        ]
+      },
+      {
+        "id": "improve-veltiono",
+        "lemma": "βελτιώνω",
+        "english": "improve",
+        "sentences": [
+          {
+            "greek": "Αυτός βελτιώνει τον υπολογιστή.",
+            "english": "He improves the computer."
+          },
+          {
+            "greek": "Βελτιώνω τα ελληνικά μου.",
+            "english": "I improve my Greek."
+          },
+          {
+            "greek": "Εμείς βελτιώνουμε τη δουλειά μας.",
+            "english": "We improve our work."
           }
         ]
       }
@@ -2431,36 +2368,6 @@
         ]
       },
       {
-        "id": "improve-veltiono",
-        "lemma": "βελτιώνω",
-        "english": "improve",
-        "sentences": [
-          {
-            "greek": "Αυτός βελτιώνει τον υπολογιστή.",
-            "english": "He improves the computer."
-          },
-          {
-            "greek": "Βελτιώνω τα ελληνικά μου.",
-            "english": "I improve my Greek."
-          },
-          {
-            "greek": "Εμείς βελτιώνουμε τη δουλειά μας.",
-            "english": "We improve our work."
-          }
-        ]
-      },
-      {
-        "id": "feel-niotho",
-        "lemma": "νιώθω",
-        "english": "feel",
-        "sentences": [
-          {
-            "greek": "Τι νιώθεις;",
-            "english": "What do you feel?"
-          }
-        ]
-      },
-      {
         "id": "happen-symvaino",
         "lemma": "συμβαίνω",
         "english": "happen",
@@ -2476,39 +2383,13 @@
         ]
       },
       {
-        "id": "care-noiazo",
-        "lemma": "νοιάζω",
-        "english": "care",
+        "id": "feel-niotho",
+        "lemma": "νιώθω",
+        "english": "feel",
         "sentences": [
           {
-            "greek": "Με νοιάζει πολύ.",
-            "english": "I care a lot."
-          },
-          {
-            "greek": "Δεν τους νοιάζει πολύ.",
-            "english": "They do not care much."
-          }
-        ]
-      },
-      {
-        "id": "try-prospatho",
-        "lemma": "προσπαθώ",
-        "english": "try",
-        "sentences": [
-          {
-            "greek": "Εμείς προσπαθούμε αλλά είναι δύσκολο.",
-            "english": "We try but it is difficult."
-          }
-        ]
-      },
-      {
-        "id": "live-zo",
-        "lemma": "ζω",
-        "english": "live",
-        "sentences": [
-          {
-            "greek": "Πού ζεις;",
-            "english": "Where do you live?"
+            "greek": "Τι νιώθεις;",
+            "english": "What do you feel?"
           }
         ]
       },
@@ -2520,6 +2401,17 @@
           {
             "greek": "Αυτές κερδίζουν στο παιχνίδι.",
             "english": "They (feminine) win in the game."
+          }
+        ]
+      },
+      {
+        "id": "live-zo",
+        "lemma": "ζω",
+        "english": "live",
+        "sentences": [
+          {
+            "greek": "Πού ζεις;",
+            "english": "Where do you live?"
           }
         ]
       }
@@ -2556,24 +2448,9 @@
         ]
       },
       {
-        "id": "meet-synanto",
-        "lemma": "συναντώ",
-        "english": "meet",
-        "sentences": [
-          {
-            "greek": "Εγώ τον συναντώ στο σπίτι του.",
-            "english": "I meet him at his house."
-          },
-          {
-            "greek": "Αυτοί συναντούν τα αδέλφια τους.",
-            "english": "They meet their siblings."
-          }
-        ]
-      },
-      {
         "id": "introduce-systino",
         "lemma": "συστήνω",
-        "english": "introduce",
+        "english": "recommend/introduce",
         "sentences": [
           {
             "greek": "Γιατί δε με συστήνεις στην οικογένειά σου;",
@@ -2582,6 +2459,10 @@
           {
             "greek": "Αυτή μου συστήνει τους γονείς της.",
             "english": "She introduces me to her parents."
+          },
+          {
+            "greek": "Μας συστήνουν ένα καλό βιβλίο.",
+            "english": "They recommend us a good book."
           }
         ]
       },
@@ -3022,13 +2903,151 @@
         ]
       },
       {
-        "id": "spend-pernao",
-        "lemma": "περνάω",
-        "english": "spend",
+        "id": "comb-chtenizo",
+        "lemma": "χτενίζω",
+        "english": "comb",
         "sentences": [
           {
-            "greek": "Πώς περνάτε τα βράδια σας;",
-            "english": "How do you spend your evenings?"
+            "greek": "Αυτή χτενίζει την κόρη της.",
+            "english": "She combs her daughter."
+          },
+          {
+            "greek": "Χτενίζουμε το σπίτι για το πορτοφόλι.",
+            "english": "We search the house for the wallet."
+          }
+        ]
+      }
+    ],
+    "17": [
+      {
+        "id": "go-pegaino",
+        "lemma": "πηγαίνω",
+        "english": "go",
+        "sentences": [
+          {
+            "greek": "Τα παιδιά δεν πηγαίνουν.",
+            "english": "The children do not go."
+          },
+          {
+            "greek": "Πού πηγαίνεις;",
+            "english": "Where are you going?"
+          },
+          {
+            "greek": "Δεν ξέρουμε πού πηγαίνεις.",
+            "english": "We do not know where you are going."
+          },
+          {
+            "greek": "Πήγαινε μπροστά!",
+            "english": "Go forward!"
+          },
+          {
+            "greek": "Πού πηγαίνετε;",
+            "english": "Where are you going?"
+          },
+          {
+            "greek": "Εμείς πάμε στην εκκλησία κάθε Κυριακή.",
+            "english": "We go to church every Sunday."
+          },
+          {
+            "greek": "Πάω στη δουλειά μου το απόγευμα.",
+            "english": "I go to my work in the afternoon."
+          },
+          {
+            "greek": "Πώς πάμε στην παραλία;",
+            "english": "How do we go to the beach?"
+          },
+          {
+            "greek": "Αυτή πηγαίνει στην πλατεία.",
+            "english": "She goes to the square."
+          },
+          {
+            "greek": "Εμείς πάμε στην αγορά κάθε μήνα.",
+            "english": "We go to the market every month."
+          },
+          {
+            "greek": "Πηγαίνω στα νοτιοδυτικά του χωριού.",
+            "english": "I go to the southwest of the village."
+          },
+          {
+            "greek": "Πάω βορειοδυτικά.",
+            "english": "I go northwest."
+          },
+          {
+            "greek": "Αυτή πάει στο γυμναστήριο.",
+            "english": "She goes to the gym."
+          }
+        ]
+      },
+      {
+        "id": "head-katefthynomai",
+        "lemma": "κατευθύνομαι",
+        "english": "head",
+        "sentences": [
+          {
+            "greek": "Κατευθυνθείτε ανατολικά.",
+            "english": "Head east."
+          },
+          {
+            "greek": "Κατευθυνόμαστε βόρεια.",
+            "english": "We are heading north."
+          },
+          {
+            "greek": "Κατευθύνομαι προς το σπίτι σου.",
+            "english": "I am heading toward your house."
+          },
+          {
+            "greek": "Κατευθυνθείτε βορειοανατολικά.",
+            "english": "Head northeast."
+          },
+          {
+            "greek": "Πού κατευθύνεστε;",
+            "english": "Where are you heading?"
+          }
+        ]
+      },
+      {
+        "id": "turn-strivo",
+        "lemma": "στρίβω",
+        "english": "turn",
+        "sentences": [
+          {
+            "greek": "Στρίψε νότια!",
+            "english": "Turn south!"
+          },
+          {
+            "greek": "Στρίψτε εδώ.",
+            "english": "Turn here."
+          },
+          {
+            "greek": "Στρίβω εκεί.",
+            "english": "I turn there."
+          }
+        ]
+      },
+      {
+        "id": "follow-akoloutho",
+        "lemma": "ακολουθώ",
+        "english": "follow",
+        "sentences": [
+          {
+            "greek": "Ακολουθώ την ευθεία.",
+            "english": "I follow the straight line."
+          },
+          {
+            "greek": "Ακολουθήστε τον!",
+            "english": "Follow him!"
+          },
+          {
+            "greek": "Ακολούθησε το μονοπάτι νοτιοανατολικά.",
+            "english": "Follow the path southeast."
+          },
+          {
+            "greek": "Το επιδόρπιο ακολούθησε το δείπνο.",
+            "english": "Dessert followed dinner."
+          },
+          {
+            "greek": "Ακολούθησέ με!",
+            "english": "Follow me!"
           }
         ]
       }
