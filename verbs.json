@@ -248,6 +248,18 @@
           {
             "greek": "Δεν έχεις καθόλου ενδιαφέροντα.",
             "english": "You have no interests at all."
+          },
+          {
+            "greek": "Η φέτα έχει πολύ αλάτι.",
+            "english": "Feta has a lot of salt."
+          },
+          {
+            "greek": "Ο Γιώργος έχει ένα πρόβλημα.",
+            "english": "George has a problem."
+          },
+          {
+            "greek": "Δεν έχει φίλους.",
+            "english": "He does not have friends."
           }
         ]
       },
@@ -912,6 +924,10 @@
           {
             "greek": "Ξέρω πόσο δύσκολο είναι.",
             "english": "I know how difficult it is."
+          },
+          {
+            "greek": "Δεν ξέρω πώς να χορεύω συρτάκι.",
+            "english": "I do not know how to dance syrtaki."
           }
         ]
       },
@@ -959,6 +975,18 @@
           {
             "greek": "Δεν παίζω, διαβάζω ένα βιβλίο.",
             "english": "I don’t play, I read a book."
+          },
+          {
+            "greek": "Του αρέσει να παίζει ποδόσφαιρο.",
+            "english": "He likes to play football."
+          },
+          {
+            "greek": "Δεν του αρέσει να παίζει ποδόσφαιρο.",
+            "english": "He does not like to play football."
+          },
+          {
+            "greek": "Το δελφίνι παίζει μαζί μας.",
+            "english": "The dolphin plays with us."
           }
         ]
       },
@@ -1367,13 +1395,17 @@
           {
             "greek": "Κολυμπάει στην πισίνα.",
             "english": "He/She swims in the pool."
+          },
+          {
+            "greek": "Τα δελφίνια κολυμπούν μαζί μας.",
+            "english": "The dolphins swim with us."
           }
         ]
       },
       {
         "id": "leave-afino",
         "lemma": "αφήνω",
-        "english": "leave",
+        "english": "leave (behind)",
         "sentences": [
           {
             "greek": "Αυτοί αφήνουν τα βιβλία τους.",
@@ -1440,6 +1472,10 @@
           {
             "greek": "Ο ψηλός άντρας μάς κοιτάζει.",
             "english": "The tall man looks at us."
+          },
+          {
+            "greek": "Κοιτάξτε το δελφίνι.",
+            "english": "Look at the dolphin."
           }
         ]
       }
@@ -1608,12 +1644,20 @@
             "english": "I do not dance."
           },
           {
-            "greek": "Δε χορεύω.",
-            "english": "I do not dance."
-          },
-          {
             "greek": "Εγώ τραγουδώ και αυτοί χορεύουν.",
             "english": "I sing and they dance."
+          },
+          {
+            "greek": "Δεν ξέρω πώς να χορεύω συρτάκι.",
+            "english": "I do not know how to dance syrtaki."
+          },
+          {
+            "greek": "Χορεύουμε συρτάκι κάθε Κυριακή.",
+            "english": "We dance syrtaki every Sunday."
+          },
+          {
+            "greek": "Κάθε Έλληνας ξέρει πώς να χορεύει συρτάκι.",
+            "english": "Every Greek knows how to dance syrtaki."
           }
         ]
       },
@@ -1999,6 +2043,10 @@
           {
             "greek": "Αυτοί αλλάζουν;",
             "english": "Do they change?"
+          },
+          {
+            "greek": "Πώς αλλάζουν οι καιροί!",
+            "english": "How times change!"
           }
         ]
       },
@@ -2076,6 +2124,10 @@
           {
             "greek": "Είσαι εξήντα χρονών; Δεν το πιστεύω.",
             "english": "Are you sixty years old? I don’t believe it."
+          },
+          {
+            "greek": "Πιστεύουμε ότι αυτός είναι πολύ καλός.",
+            "english": "We believe that he is very good."
           }
         ]
       },
@@ -2265,6 +2317,10 @@
           {
             "greek": "Το ελπίζω!",
             "english": "I hope so!"
+          },
+          {
+            "greek": "Ελπίζω να μην βρέχει.",
+            "english": "I hope it is not raining."
           }
         ]
       },
@@ -2550,7 +2606,7 @@
       {
         "id": "leave-fevgo",
         "lemma": "φεύγω",
-        "english": "leave",
+        "english": "leave / depart",
         "sentences": [
           {
             "greek": "Φεύγετε σήμερα;",
@@ -2563,6 +2619,10 @@
           {
             "greek": "Φεύγω την Παρασκευή.",
             "english": "I leave on Friday."
+          },
+          {
+            "greek": "Ο εμπορικός στόλος φεύγει από την Αθήνα.",
+            "english": "The merchant fleet leaves Athens."
           }
         ]
       },
@@ -2629,6 +2689,10 @@
           {
             "greek": "Ανοίγει το μπουκάλι.",
             "english": "He/She opens the bottle."
+          },
+          {
+            "greek": "Τι ώρα ανοίγουν οι τράπεζες;",
+            "english": "What time do the banks open?"
           }
         ]
       },
@@ -2717,7 +2781,7 @@
       {
         "id": "beworth-axizo",
         "lemma": "αξίζω",
-        "english": "be worh",
+        "english": "be worth",
         "sentences": [
           {
             "greek": "Το αξίζεις!",
@@ -2726,6 +2790,10 @@
           {
             "greek": "Πόσο αξίζει το βάζο;",
             "english": "How much is the vase worth?"
+          },
+          {
+            "greek": "Όχι, δεν αξίζουν.",
+            "english": "No, they are not worth it."
           }
         ]
       },
@@ -2745,6 +2813,10 @@
           {
             "greek": "Αυτός συνεχίζει.",
             "english": "He continues."
+          },
+          {
+            "greek": "Πάμε να συνεχίσουμε την ιστορία.",
+            "english": "Let's go continue the story."
           }
         ]
       },
@@ -2935,6 +3007,10 @@
           {
             "greek": "Πού ζεις;",
             "english": "Where do you live?"
+          },
+          {
+            "greek": "Σε ποια περιοχή της πόλης ζεις;",
+            "english": "In which area of the city do you live?"
           }
         ]
       }
@@ -2989,7 +3065,7 @@
           },
           {
             "greek": "Μας συστήνουν ένα καλό βιβλίο.",
-            "english": "They recommend us a good book."
+            "english": "They recommend to us a good book."
           },
           {
             "greek": "Αυτός με συστήνει στους φίλους του.",
@@ -3037,6 +3113,10 @@
           {
             "greek": "Η γυναίκα κοιμάται το πρωί.",
             "english": "The woman sleeps in the morning."
+          },
+          {
+            "greek": "Του αρέσει να κοιμάται.",
+            "english": "He likes to sleep."
           }
         ]
       },
@@ -3161,6 +3241,14 @@
           {
             "greek": "Αυτός δεν είναι όπως φαίνεται.",
             "english": "He is not as he seems."
+          },
+          {
+            "greek": "Ο Γιώργος φαίνεται κανονικός άνθρωπος.",
+            "english": "George seems like a normal person."
+          },
+          {
+            "greek": "Δεν φαίνεται παράξενος άνθρωπος.",
+            "english": "He does not seem like a strange person."
           }
         ]
       },
@@ -3331,6 +3419,10 @@
           {
             "greek": "Σκέφτομαι, άρα υπάρχω.",
             "english": "I think, therefore I am."
+          },
+          {
+            "greek": "Τι σκέφτεσαι για τη νέα σου δουλειά;",
+            "english": "What do you think about your new job?"
           }
         ]
       },
@@ -3398,13 +3490,17 @@
           {
             "greek": "Το εννοεί;",
             "english": "Does he mean it?"
+          },
+          {
+            "greek": "Στην Ελλάδα όταν λέμε λάδι εννοούμε ελαιόλαδο.",
+            "english": "In Greece when we say oil, we mean olive oil."
           }
         ]
       },
       {
         "id": "takecare-prosecho",
         "lemma": "προσέχω",
-        "english": "take care of",
+        "english": "pay attention",
         "sentences": [
           {
             "greek": "Αυτή προσέχει παιδιά.",
@@ -3413,6 +3509,10 @@
           {
             "greek": "Προσέχεις τι σου λέω;",
             "english": "Do you pay attention to what I say?"
+          },
+          {
+            "greek": "Οι μαθητές δεν προσέχουν.",
+            "english": "The students don’t pay attention."
           }
         ]
       },
@@ -3550,6 +3650,18 @@
           {
             "greek": "Αυτή πηγαίνει προς το παιδί.",
             "english": "She goes toward the child."
+          },
+          {
+            "greek": "Τα παιδιά πηγαίνουν στον κήπο.",
+            "english": "The children go to the garden."
+          },
+          {
+            "greek": "Πηγαίνω την Πέμπτη το πρωί.",
+            "english": "I go on Thursday morning."
+          },
+          {
+            "greek": "Πού πηγαίνετε το καλοκαίρι;",
+            "english": "Where do you go in the summer?"
           }
         ]
       },
@@ -3627,6 +3739,87 @@
           {
             "greek": "Αυτοί ακολουθούν τους γονείς τους.",
             "english": "They follow their parents."
+          }
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "know-gnorizo",
+        "lemma": "γνωρίζω",
+        "english": "know",
+        "sentences": [
+          {
+            "greek": "Γνωρίζετε την απάντηση;",
+            "english": "Do you know the answer?"
+          },
+          {
+            "greek": "Πόσο καλά τον γνωρίζεις;",
+            "english": "How well do you know him?"
+          }
+        ]
+      },
+      {
+        "id": "support-ypostirizo",
+        "lemma": "υποστηρίζω",
+        "english": "support",
+        "sentences": [
+          {
+            "greek": "Οι γονείς μου με υποστηρίζουν.",
+            "english": "My parents support me."
+          },
+          {
+            "greek": "Σας υποστηρίζω και το ξέρετε.",
+            "english": "I support you and you know it."
+          },
+          {
+            "greek": "Γιατί δεν τον υποστηρίζεις;",
+            "english": "Why don’t you support him?"
+          }
+        ]
+      },
+      {
+        "id": "recognize-anagnorizo",
+        "lemma": "αναγνωρίζω",
+        "english": "recognize",
+        "sentences": [
+          {
+            "greek": "Αυτός αναγνωρίζει την αδελφή του.",
+            "english": "He recognizes his sister."
+          },
+          {
+            "greek": "Δεν τον αναγνωρίζω.",
+            "english": "I do not recognize him."
+          },
+          {
+            "greek": "Αναγνωρίζουμε τη δουλειά της.",
+            "english": "We recognize her work."
+          }
+        ]
+      },
+      {
+        "id": "meet-synanto",
+        "lemma": "συναντώ",
+        "english": "meet",
+        "sentences": [
+          {
+            "greek": "Εγώ τον συναντώ στο σπίτι του.",
+            "english": "I meet him at his house."
+          },
+          {
+            "greek": "Αυτοί συναντούν τα αδέλφια τους.",
+            "english": "They meet their siblings."
+          }
+        ]
+      },
+      {
+        "id": "forbid-apagorevo",
+        "lemma": "απαγορεύω",
+        "english": "forbid",
+        "sentences": [
+          {
+            "greek": "Γιατί το απαγορεύεις;",
+            "english": "Why do you forbid it?"
           }
         ]
       }
