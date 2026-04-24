@@ -327,6 +327,10 @@
           {
             "greek": "Οι Γάλλοι τρώνε καλό τυρί.",
             "english": "The French eat good cheese."
+          },
+          {
+            "greek": "Αυτοί τρώνε για περίπου μία ώρα.",
+            "english": "They eat for about one hour."
           }
         ]
       },
@@ -584,6 +588,14 @@
           {
             "greek": "Οι αριθμοί μιλούν από μόνοι τους.",
             "english": "The numbers speak for themselves."
+          },
+          {
+            "greek": "Σε ποιον μιλάς;",
+            "english": "Who are you speaking to?"
+          },
+          {
+            "greek": "Μιλάμε με τα παιδιά μας.",
+            "english": "We speak with our children."
           }
         ]
       },
@@ -655,6 +667,10 @@
           {
             "greek": "Η αρχιτέκτονας φοράει ένα κουστούμι.",
             "english": "The architect wears a suit."
+          },
+          {
+            "greek": "Φοράω χοντρά ρούχα γιατί είναι χειμώνας.",
+            "english": "I wear thick clothes because it is winter."
           }
         ]
       },
@@ -799,6 +815,10 @@
           {
             "greek": "Γιώργος βλέπει πολλούς ανθρώπους.",
             "english": "George sees many people."
+          },
+          {
+            "greek": "Δες το φανάρι!",
+            "english": "Look at the traffic light!"
           }
         ]
       },
@@ -893,6 +913,10 @@
           {
             "greek": "Γράψε τον αριθμό σωστά!",
             "english": "Write the number correctly!"
+          },
+          {
+            "greek": "Πόσο δημιουργικά γράφει αυτός ο συγγραφέας.",
+            "english": "How creatively this writer writes."
           }
         ]
       },
@@ -972,6 +996,18 @@
           {
             "greek": "Δεν ξέρει τι να κάνει.",
             "english": "He does not know what to do."
+          },
+          {
+            "greek": "Πες μου κάτι που δεν ξέρω.",
+            "english": "Tell me something I do not know."
+          },
+          {
+            "greek": "Δεν ξέρεις ό,τι δεν ξέρεις.",
+            "english": "You do not know what you do not know."
+          },
+          {
+            "greek": "Είμαι πάντα διαθέσιμος και το ξέρεις.",
+            "english": "I am always available and you know it."
           }
         ]
       },
@@ -1133,6 +1169,10 @@
           {
             "greek": "Συνήθως δουλεύω το πρωί.",
             "english": "I usually work in the morning."
+          },
+          {
+            "greek": "Σήμερα το πρωί δουλεύω.",
+            "english": "This morning I work."
           }
         ]
       }
@@ -1228,6 +1268,10 @@
           {
             "greek": "Της δείχνω τα παπούτσια.",
             "english": "I show her the shoes."
+          },
+          {
+            "greek": "Η συσκευή πλοήγησης μού δείχνει πού είναι το σπίτι σου.",
+            "english": "The navigation device shows me where your house is."
           }
         ]
       },
@@ -1323,6 +1367,10 @@
           {
             "greek": "Κάνει κρύο στη Γερμανία;",
             "english": "Is it cold in Germany?"
+          },
+          {
+            "greek": "Άρα τι κάνουμε;",
+            "english": "So what do we do?"
           }
         ]
       },
@@ -1362,6 +1410,10 @@
           {
             "greek": "Ποιος λέει τι είναι νόμιμο και τι όχι;",
             "english": "Who says what is legal and what is not?"
+          },
+          {
+            "greek": "Πες μου κάτι που δεν ξέρω.",
+            "english": "Tell me something I do not know."
           }
         ]
       },
@@ -1471,6 +1523,10 @@
           {
             "greek": "Τα δελφίνια κολυμπούν μαζί μας.",
             "english": "The dolphins swim with us."
+          },
+          {
+            "greek": "Εμείς κολυμπάμε μέχρι τη βάρκα.",
+            "english": "We swim to the boat."
           }
         ]
       },
@@ -1525,6 +1581,10 @@
           {
             "greek": "Ψάξε στην τσέπη σου!",
             "english": "Look in your pocket!"
+          },
+          {
+            "greek": "Ψάχνω το διαβατήριό μου!",
+            "english": "I am looking for my passport!"
           }
         ]
       },
@@ -1653,6 +1713,10 @@
           {
             "greek": "Οι Ισπανοί αγαπούν το καλό φαγητό.",
             "english": "The Spanish love good food."
+          },
+          {
+            "greek": "Εγώ αγαπώ όλα τα ζώα γενικά.",
+            "english": "I love all animals in general."
           }
         ]
       },
@@ -1684,6 +1748,10 @@
           {
             "greek": "Δίνω το πουκάμισο στις γυναίκες.",
             "english": "I give the shirt to the women."
+          },
+          {
+            "greek": "Λοιπόν, τι μου δίνεις;",
+            "english": "So, what are you giving me?"
           }
         ]
       },
@@ -1765,6 +1833,10 @@
           {
             "greek": "Οι γειτόνισσές μου με βοηθάνε πολύ.",
             "english": "My female neighbors help me a lot."
+          },
+          {
+            "greek": "Οι αεροσυνοδοί βοηθούν τους επιβάτες.",
+            "english": "The flight attendants help the passengers."
           }
         ]
       },
@@ -1780,6 +1852,10 @@
           {
             "greek": "Εμείς πλένουμε τα πιάτα.",
             "english": "We wash the dishes."
+          },
+          {
+            "greek": "Πρώτα πλένουμε τα χέρια και μετά τρώμε.",
+            "english": "First we wash our hands and then we eat."
           }
         ]
       },
@@ -1908,6 +1984,14 @@
           {
             "greek": "Πόσο κοστίζει;",
             "english": "How much does it cost?"
+          },
+          {
+            "greek": "Πόσο κοστίζει ένα ταξίδι με τρένο;",
+            "english": "How much does a trip by train cost?"
+          },
+          {
+            "greek": "Πόσο κοστίζει ένα λίτρο βενζίνης;",
+            "english": "How much does a litre of petrol cost?"
           }
         ]
       },
@@ -1985,6 +2069,14 @@
           {
             "greek": "Αυτή παίρνει τη δικηγόρο της.",
             "english": "She calls her lawyer."
+          },
+          {
+            "greek": "Γιατί δεν παίρνεις το μετρό να πας στο λιμάνι;",
+            "english": "Why don’t you take the metro to go to the port?"
+          },
+          {
+            "greek": "Παίρνω το λεωφορείο κάθε μέρα.",
+            "english": "I take the bus every day."
           }
         ]
       },
@@ -2170,6 +2262,10 @@
           {
             "greek": "Αυτός μαγειρεύει τέλεια.",
             "english": "He cooks perfectly."
+          },
+          {
+            "greek": "Σε ποιον μαγειρεύεις;",
+            "english": "Who are you cooking for?"
           }
         ]
       },
@@ -2263,6 +2359,10 @@
           {
             "greek": "Χρησιμοποιούμε κουβέρτες τον χειμώνα.",
             "english": "We use blankets in the winter."
+          },
+          {
+            "greek": "Δε χρησιμοποιώ τη συσκευή πλοήγησης.",
+            "english": "I do not use the navigation device."
           }
         ]
       },
@@ -2332,6 +2432,10 @@
           {
             "greek": "Περιμένετέ με!",
             "english": "Wait for me!"
+          },
+          {
+            "greek": "Εμείς περιμένουμε την άφιξή τους σε δύο μέρες.",
+            "english": "We are expecting their arrival in two days."
           }
         ]
       },
@@ -2362,6 +2466,10 @@
           {
             "greek": "Πότε ξεκινάς;",
             "english": "When do you start?"
+          },
+          {
+            "greek": "Η περιπέτεια ξεκινά αύριο!",
+            "english": "The adventure starts tomorrow!"
           }
         ]
       }
@@ -2379,6 +2487,14 @@
           {
             "greek": "Τι νομίζουν αυτοί;",
             "english": "What do they think?"
+          },
+          {
+            "greek": "Δεν είναι αυτό που νομίζεις!",
+            "english": "It is not what you think!"
+          },
+          {
+            "greek": "Καλώς, κάνε αυτό που νομίζεις.",
+            "english": "Fine, do what you think."
           }
         ]
       },
@@ -2460,6 +2576,10 @@
           {
             "greek": "Ο Γιώργος δεν καταλαβαίνει τη γάτα.",
             "english": "George does not understand the cat."
+          },
+          {
+            "greek": "Πραγματικά δεν το καταλαβαίνω.",
+            "english": "I really do not understand it."
           }
         ]
       },
@@ -2543,9 +2663,9 @@
         ]
       },
       {
-        "id": "spend-pernao",
+        "id": "pass-pernao",
         "lemma": "περνάω",
-        "english": "spend",
+        "english": "pass",
         "sentences": [
           {
             "greek": "Πώς περνάτε τα βράδια σας;",
@@ -2554,6 +2674,10 @@
           {
             "greek": "Περνώ την ημέρα μου νιώθοντας και ζώντας καλά.",
             "english": "I spend my day feeling and living well."
+          },
+          {
+            "greek": "Περνάμε τη μεγάλη γέφυρα.",
+            "english": "We cross the big bridge."
           }
         ]
       },
@@ -2739,6 +2863,22 @@
           {
             "greek": "Ο εμπορικός στόλος φεύγει από την Αθήνα.",
             "english": "The merchant fleet leaves Athens."
+          },
+          {
+            "greek": "Τι ώρα φεύγει το λεωφορείο;",
+            "english": "What time does the bus leave?"
+          },
+          {
+            "greek": "Ποτέ φεύγει το αεροπλάνο;",
+            "english": "When does the airplane leave?"
+          },
+          {
+            "greek": "Το πλοίο φεύγει από το λιμάνι στις πέντε το απόγευμα.",
+            "english": "The ship leaves from the port at five in the afternoon."
+          },
+          {
+            "greek": "Το πλοίο φεύγει στις επτά η ώρα.",
+            "english": "The ship leaves at seven o’clock."
           }
         ]
       },
@@ -2758,6 +2898,10 @@
           {
             "greek": "Πετάνε οι πάπιες;",
             "english": "Do the ducks fly?"
+          },
+          {
+            "greek": "Γιατί πετάει τα πράγματά της;",
+            "english": "Why does she throw her things?"
           }
         ]
       },
@@ -2856,6 +3000,22 @@
           {
             "greek": "Πού πηγαίνετε το καλοκαίρι;",
             "english": "Where do you go in the summer?"
+          },
+          {
+            "greek": "Πηγαίνουμε στο χωριό με αμάξι.",
+            "english": "We go to the village by car."
+          },
+          {
+            "greek": "Εμείς πηγαίνουμε στο λιμάνι με ταξί.",
+            "english": "We go to the port by taxi."
+          },
+          {
+            "greek": "Πηγαίνω όπου θέλω.",
+            "english": "I go wherever I want."
+          },
+          {
+            "greek": "Εγώ συνήθως πάω με τα πόδια στη δουλειά.",
+            "english": "I usually go to work on foot."
           }
         ]
       }
@@ -3173,6 +3333,30 @@
           {
             "greek": "Υπάρχουν Αμερικανοί στην Ελλάδα;",
             "english": "Are there Americans in Greece?"
+          },
+          {
+            "greek": "Υπάρχουν φανάρια στην Ελλάδα;",
+            "english": "Are there traffic lights in Greece?"
+          },
+          {
+            "greek": "Υπάρχουν πολλά αεροδρόμια στην Ελλάδα.",
+            "english": "There are many airports in Greece."
+          },
+          {
+            "greek": "Έξω από τις αφίξεις υπάρχουν πολλά ταξί.",
+            "english": "Outside arrivals there are many taxis."
+          },
+          {
+            "greek": "Δεν υπάρχει φως και το σπίτι μας είναι σκοτεινό.",
+            "english": "There is no light and our house is dark."
+          },
+          {
+            "greek": "Υπάρχει κάτι φτηνό εδώ μέσα;",
+            "english": "Is there anything cheap in here?"
+          },
+          {
+            "greek": "Γιατί υπάρχουν φορτηγά στη λεωφόρο;",
+            "english": "Why are there trucks on the avenue?"
           }
         ]
       },
@@ -3219,6 +3403,10 @@
           {
             "greek": "Ειλικρινά, νιώθω απαίσια!",
             "english": "Honestly, I feel terrible!"
+          },
+          {
+            "greek": "Νιώθω τέλεια.",
+            "english": "I feel perfect."
           }
         ]
       },
@@ -3261,6 +3449,10 @@
           {
             "greek": "Οι περισσότεροι Άγγλοι ζουν στην Αγγλία.",
             "english": "Most English people live in England."
+          },
+          {
+            "greek": "Όλοι ζούμε σε ένα κίτρινο υποβρύχιο.",
+            "english": "We all live in a yellow submarine."
           }
         ]
       }
@@ -3410,6 +3602,14 @@
           {
             "greek": "Τον χρειαζόμαστε άμεσα!",
             "english": "We need him immediately!"
+          },
+          {
+            "greek": "Για ταξίδια μέσα στην Ευρώπη δε χρειάζεται διαβατήριο.",
+            "english": "For travel within Europe, a passport is not needed."
+          },
+          {
+            "greek": "Έχω τόσα όσα χρειάζομαι.",
+            "english": "I have as much as I need."
           }
         ]
       },
@@ -3433,6 +3633,10 @@
           {
             "greek": "Έρχομαι αμέσως!",
             "english": "I'm coming immediately!"
+          },
+          {
+            "greek": "Ερχόμαστε από τον Νότο.",
+            "english": "We come from the South."
           }
         ]
       },
@@ -3579,6 +3783,10 @@
           {
             "greek": "Γιατί βαριέσαι;",
             "english": "Why are you bored?"
+          },
+          {
+            "greek": "Βαριέμαι τις περιπέτειες!",
+            "english": "I am bored with adventures!"
           }
         ]
       },
@@ -3876,6 +4084,14 @@
           {
             "greek": "Στρίβω εκεί.",
             "english": "I turn there."
+          },
+          {
+            "greek": "Στρίψε το τιμόνι αριστερά!",
+            "english": "Turn the steering wheel left!"
+          },
+          {
+            "greek": "Στρίψε δεξιά μετά τη γέφυρα.",
+            "english": "Turn right after the bridge."
           }
         ]
       },
@@ -3934,6 +4150,67 @@
           {
             "greek": "Πού βρίσκονται οι ΗΠΑ;",
             "english": "Where are the USA located?"
+          },
+          {
+            "greek": "Δεν ξέρω πού βρίσκομαι, μπορείς να με βοηθήσεις;",
+            "english": "I do not know where I am, can you help me?"
+          },
+          {
+            "greek": "Βρίσκομαι στη νότια κορυφή.",
+            "english": "I am located at the southern peak."
+          }
+        ]
+      },
+      {
+        "lemma": "ταξιδεύω",
+        "english": "travel",
+        "sentences": [
+          {
+            "greek": "Ποτέ δεν ταξιδεύει μόνη.",
+            "english": "She never travels alone."
+          },
+          {
+            "greek": "Ταξιδεύεις αρκετά;",
+            "english": "Do you travel a lot?"
+          },
+          {
+            "greek": "Δεν μπορείτε να ταξιδέψετε χωρίς διαβατήριο.",
+            "english": "You cannot travel without a passport."
+          },
+          {
+            "greek": "Μας αρέσει να ταξιδεύουμε με αεροπλάνο.",
+            "english": "We like to travel by airplane."
+          },
+          {
+            "greek": "Πρόσεχε τα φορτηγά όταν ταξιδεύεις με αυτοκίνητο.",
+            "english": "Watch out for trucks when you travel by car."
+          },
+          {
+            "greek": "Γιατί ταξιδεύεις με τρένο κι όχι με αυτοκίνητο;",
+            "english": "Why do you travel by train and not by car?"
+          }
+        ]
+      },
+      {
+        "id": "drive-odigo",
+        "lemma": "οδηγώ",
+        "english": "drive",
+        "sentences": [
+          {
+            "greek": "Όταν πίνετε, μην οδηγείτε.",
+            "english": "When you drink, do not drive."
+          },
+          {
+            "greek": "Οδηγώ στη δουλειά κάθε μέρα.",
+            "english": "I drive to work every day."
+          },
+          {
+            "greek": "Ξέρεις να οδηγείς;",
+            "english": "Do you know how to drive?"
+          },
+          {
+            "greek": "Αυτός οδηγεί πολύ προσεκτικά.",
+            "english": "He drives very carefully."
           }
         ]
       }
@@ -4015,6 +4292,10 @@
           {
             "greek": "Γιατί το απαγορεύεις;",
             "english": "Why do you forbid it?"
+          },
+          {
+            "greek": "Απαγορεύονται τα ποδήλατα μέσα στα λεωφορεία.",
+            "english": "Bicycles are forbidden inside buses."
           }
         ]
       }
@@ -4149,6 +4430,10 @@
           {
             "greek": "Δεν φαίνεται παράξενος άνθρωπος.",
             "english": "He does not seem like a strange person."
+          },
+          {
+            "greek": "Κάτι μου φαίνεται οικείο.",
+            "english": "Something seems familiar to me."
           }
         ]
       },
@@ -4219,6 +4504,10 @@
           {
             "greek": "Πρέπει να το κάνω άμεσα.",
             "english": "I must do it immediately."
+          },
+          {
+            "greek": "Πρέπει να τρως αργά.",
+            "english": "You should eat slowly."
           }
         ]
       }
@@ -4286,6 +4575,10 @@
           {
             "greek": "Πώς μπαίνω μέσα;",
             "english": "How do I get inside?"
+          },
+          {
+            "greek": "Μπείτε στο αυτοκίνητο τώρα.",
+            "english": "Get into the car now."
           }
         ]
       },
@@ -4309,6 +4602,10 @@
           {
             "greek": "Το λάδι βγαίνει από ελιές.",
             "english": "Oil comes from olives."
+          },
+          {
+            "greek": "Βγείτε από το όχημα.",
+            "english": "Get out of the vehicle."
           }
         ]
       }

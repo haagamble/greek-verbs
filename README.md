@@ -4,7 +4,7 @@ A simple browser-based quiz app for practicing Greek verbs.
 
 The app shows a Greek verb, asks the learner to choose the English meaning, and then offers sample sentences for speaking practice.
 
-It currently includes 147 verbs organized across 20 levels, and over 800 sample sentences.
+It currently includes 149 verbs organized across 20 levels, and over 850 sample sentences.
 
 ## Features
 
@@ -21,7 +21,7 @@ It currently includes 147 verbs organized across 20 levels, and over 800 sample 
 - [script.js](/c:/Users/Heather502173/OneDrive%20-%20MSNPath/Projects/Greek%20vocab/greek-verbs-app/script.js) - quiz logic
 - [server.js](/c:/Users/Heather502173/OneDrive%20-%20MSNPath/Projects/Greek%20vocab/greek-verbs-app/server.js) - simple local HTTP server
 - [verbs.json](/c:/Users/Heather502173/OneDrive%20-%20MSNPath/Projects/Greek%20vocab/greek-verbs-app/verbs.json) - active verb data used by the app
-- [verbsnew.json](/c:/Users/Heather502173/OneDrive%20-%20MSNPath/Projects/Greek%20vocab/greek-verbs-app/verbsnew.json) - future verbs not yet used in the app
+
 
 ## How It Works
 
