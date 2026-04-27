@@ -12,8 +12,10 @@ let currentSampleSentence = null;
 let currentQuestionLevel = 1;
 let finalReviewRecentVerbIds = [];
 let finalLevelCelebrationTimeout = null;
+let levelChangeBannerTimeout = null;
 let questionAnswered = false;
 
+// Final-level review avoids repeating the same recently seen verbs too often.
 const FINAL_REVIEW_NO_REPEAT_COUNT = 20;
 
 const speechSupported = 'speechSynthesis' in window && 'SpeechSynthesisUtterance' in window;
@@ -41,6 +43,7 @@ function getWeightedFinalLevelPool() {
 }
 
 function addFinalReviewHistory(verbId) {
+    // Tracks recently used final-review verbs so they do not repeat too quickly.
     finalReviewRecentVerbIds.push(verbId);
 
     if (finalReviewRecentVerbIds.length > FINAL_REVIEW_NO_REPEAT_COUNT) {
@@ -49,6 +52,7 @@ function addFinalReviewHistory(verbId) {
 }
 
 function getWeightedFinalReviewPool(excludedIds = new Set()) {
+    // Builds a review pool across all levels, excluding any recently used verb ids.
     const levelWeights = getWeightedFinalLevelPool();
     const pool = [];
 
@@ -66,6 +70,7 @@ function getWeightedFinalReviewPool(excludedIds = new Set()) {
 }
 
 function getFinalReviewVerb() {
+    // Picks a final-review verb, falling back to the full pool if every recent item is excluded.
     const recentIds = new Set(finalReviewRecentVerbIds);
     let pool = getWeightedFinalReviewPool(recentIds);
 
@@ -78,6 +83,7 @@ function getFinalReviewVerb() {
 }
 
 function showFinalLevelCelebration() {
+    // Shows the special banner and glow effect when the learner reaches the final level.
     const banner = document.getElementById('final-level-banner');
     const levelDisplay = document.getElementById('level-display');
 
@@ -98,11 +104,29 @@ function showFinalLevelCelebration() {
     }, 1800);
 }
 
+function showLevelChangeBanner(message, type = 'level-up') {
+    // Displays a short banner for level-ups and level-downs.
+    const banner = document.getElementById('level-change-banner');
+    banner.textContent = message;
+    banner.classList.remove('show', 'level-up', 'level-down');
+
+    void banner.offsetWidth;
+
+    banner.classList.add(type, 'show');
+
+    clearTimeout(levelChangeBannerTimeout);
+    levelChangeBannerTimeout = setTimeout(() => {
+        banner.classList.remove('show', 'level-up', 'level-down');
+    }, 1800);
+}
+
 function generateQuestion() {
     // Generates and displays a new quiz question with options
     questionAnswered = false;
+    document.getElementById('next-question').textContent = 'Next question';
 
     if (currentLevel === finalLevel) {
+        // Give the learner a few final-level-only questions before mixing in review.
         if (finalLevelQuestionsCount < 3) {
             currentQuestionLevel = finalLevel;
             currentVerb = getRandomVerb(finalLevel);
@@ -155,7 +179,7 @@ function getRandomVerb(level) {
 }
 
 function getRemainingVerbs(level) {
-    // Returns or initializes the list of remaining verbs for a level
+    // Each level cycles through its verbs once before the pool refills.
     const key = level.toString();
     if (!remainingVerbsByLevel[key] || remainingVerbsByLevel[key].length === 0) {
         remainingVerbsByLevel[key] = [...verbsData.levels[key]];
@@ -232,13 +256,22 @@ function checkAnswer(isCorrect, selectedOption) {
         sentencePrompt.style.display = 'block';
         streak++;
         if (streak >= 3) {
+            // Level changes are applied on "Next question" so the user can finish the feedback flow first.
             pendingLevelChange = Math.min(currentLevel + 1, finalLevel);
+            if (pendingLevelChange > currentLevel) {
+                result.textContent = `Correct! Level up to Level ${pendingLevelChange}!`;
+                document.getElementById('next-question').textContent = `Go to Level ${pendingLevelChange}`;
+            }
         }
     } else {
+        const loweredLevel = Math.max(currentLevel - 1, 1);
         result.textContent = `The correct answer is: ${currentVerb.english}`;
         showSampleSentence();
         streak = 0;
-        pendingLevelChange = Math.max(currentLevel - 1, 1);
+        pendingLevelChange = loweredLevel;
+        if (loweredLevel < currentLevel) {
+            document.getElementById('next-question').textContent = `Back to Level ${loweredLevel}`;
+        }
     }
     document.getElementById('streak').textContent = streak;
 }
@@ -254,6 +287,7 @@ function showSampleSentence() {
 }
 
 function updateAudioButtonState() {
+    // Enables or disables the audio button depending on support and sentence availability.
     const playAudioButton = document.getElementById('play-audio');
 
     if (!speechSupported) {
@@ -267,6 +301,7 @@ function updateAudioButtonState() {
 }
 
 function speakGreek(text) {
+    // Speaks the current Greek sentence aloud using the browser speech engine.
     if (!speechSupported || !text) {
         return;
     }
@@ -280,18 +315,20 @@ function speakGreek(text) {
     window.speechSynthesis.speak(utterance);
 }
 
+// Marks sentence practice as complete and reveals a sample sentence.
 document.getElementById('said-sentence').onclick = () => {
     document.getElementById('result').textContent = 'Great job! Here\'s a sample sentence:';
     showSampleSentence();
 };
 
+// Reveals a sample sentence without requiring the learner to say one first.
 document.getElementById('show-example').onclick = () => {
     document.getElementById('result').textContent = 'Here\'s an example:';
     showSampleSentence();
 };
 
 function prepareNextQuestion() {
-    // Applies any pending level changes and generates the next question
+    // Applies any pending level changes, resets streaks on real level transitions, then generates the next question.
     if (speechSupported) {
         window.speechSynthesis.cancel();
     }
@@ -299,10 +336,20 @@ function prepareNextQuestion() {
     currentSampleSentence = null;
 
     if (pendingLevelChange !== null) {
+        const previousLevel = currentLevel;
         const enteringFinalLevel = pendingLevelChange === finalLevel && currentLevel < finalLevel;
 
         currentLevel = pendingLevelChange;
         pendingLevelChange = null;
+
+        if (currentLevel !== previousLevel) {
+            streak = 0;
+            if (currentLevel > previousLevel) {
+                showLevelChangeBanner(`Level ${currentLevel} unlocked!`, 'level-up');
+            } else {
+                showLevelChangeBanner(`Back to Level ${currentLevel}`, 'level-down');
+            }
+        }
 
         if (enteringFinalLevel) {
             finalLevelQuestionsCount = 0;
@@ -319,6 +366,7 @@ function prepareNextQuestion() {
 }
 
 const newSentenceButton = document.getElementById('new-sentence');
+// Cycles to another sample sentence for the current verb.
 newSentenceButton.onclick = () => {
     newSentenceButton.classList.add('animate-click');
     showSampleSentence();
@@ -327,12 +375,14 @@ newSentenceButton.onclick = () => {
     }, 200);
 };
 
+// Plays audio for the currently visible sample sentence.
 document.getElementById('play-audio').onclick = () => {
     if (currentSampleSentence) {
         speakGreek(currentSampleSentence.greek);
     }
 };
 
+// Closes feedback for the current verb and moves the quiz forward.
 document.getElementById('next-question').onclick = () => {
     document.getElementById('feedback').style.display = 'none';
     document.getElementById('sentence-prompt').style.display = 'none';
@@ -340,11 +390,13 @@ document.getElementById('next-question').onclick = () => {
     prepareNextQuestion();
 };
 
+// Opens or closes the instructions modal.
 document.getElementById('instructions-btn').onclick = () => {
     const instructions = document.getElementById('instructions');
     instructions.classList.toggle('show');
 };
 
+// Closes the instructions modal from its close button.
 document.getElementById('close-instructions').onclick = () => {
     const instructions = document.getElementById('instructions');
     instructions.classList.remove('show');
@@ -357,6 +409,7 @@ document.getElementById('instructions').onclick = (e) => {
     }
 };
 
+// Loads verb data and starts the first question when the page is ready.
 window.onload = async () => {
     updateAudioButtonState();
     await loadVerbs();
