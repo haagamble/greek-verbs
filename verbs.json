@@ -331,6 +331,10 @@
           {
             "greek": "Αυτοί τρώνε για περίπου μία ώρα.",
             "english": "They eat for about one hour."
+          },
+          {
+            "greek": "Δίπλα, ένα παιδί τρώει παγωτό.",
+            "english": "Nearby, a child eats ice cream."
           }
         ]
       },
@@ -342,6 +346,10 @@
           {
             "greek": "Πίνω νερό.",
             "english": "I drink water."
+          },
+          {
+            "greek": "Ο Νίκος πίνει λίγο νερό.",
+            "english": "Nikos drinks a little water."
           },
           {
             "greek": "Το αγόρι πίνει νερό.",
@@ -505,6 +513,69 @@
         ]
       },
       {
+        "id": "write-grafo",
+        "lemma": "γράφω",
+        "english": "write",
+        "sentences": [
+          {
+            "greek": "Εμείς γράφουμε ένα βιβλίο.",
+            "english": "We write a book."
+          },
+          {
+            "greek": "Αυτός γράφει ένα βιβλίο.",
+            "english": "He writes a book."
+          },
+          {
+            "greek": "Αυτοί δε γράφουν βιβλία.",
+            "english": "They don't write books."
+          },
+          {
+            "greek": "Δε γράφω βιβλίο.",
+            "english": "I do not write a book."
+          },
+          {
+            "greek": "Δε γράφεις;",
+            "english": "Don't you write?"
+          },
+          {
+            "greek": "Γράφετε βιβλίο;",
+            "english": "Are you writing a book?"
+          },
+          {
+            "greek": "Η Ελένη γράφει ένα μέιλ στην Κατερίνα.",
+            "english": "Eleni writes an email to Katerina."
+          },
+          {
+            "greek": "Η συντάκτρια διαβάζει και γράφει.",
+            "english": "The female editor reads and writes."
+          },
+          {
+            "greek": "Ο συγγραφέας γράφει ένα μυθιστόρημα.",
+            "english": "The writer writes a novel."
+          },
+          {
+            "greek": "Γράψε το όνομά σου δίπλα στο δικό μου.",
+            "english": "Write your name next to mine."
+          },
+          {
+            "greek": "Αυτός γράφει αρκετά.",
+            "english": "He writes quite a lot."
+          },
+          {
+            "greek": "Γράψε τον αριθμό σωστά!",
+            "english": "Write the number correctly!"
+          },
+          {
+            "greek": "Πόσο δημιουργικά γράφει αυτός ο συγγραφέας.",
+            "english": "How creatively this writer writes."
+          },
+          {
+            "greek": "Τι είναι ευκολότερο; Να γράφεις ή να διαβάζεις;",
+            "english": "What is easier? To write or to read?"
+          }
+        ]
+      },
+      {
         "id": "speak-milao",
         "lemma": "μιλάω",
         "english": "speak",
@@ -600,81 +671,6 @@
           {
             "greek": "Μιλάμε με τα παιδιά μας.",
             "english": "We speak with our children."
-          }
-        ]
-      },
-      {
-        "id": "wear-forao",
-        "lemma": "φοράω",
-        "english": "wear",
-        "sentences": [
-          {
-            "greek": "Φοράτε ζώνη;",
-            "english": "Do you wear a belt?"
-          },
-          {
-            "greek": "Η γυναίκα φοράει το ροζ φόρεμα.",
-            "english": "The woman wears the pink dress."
-          },
-          {
-            "greek": "Ο άντρας φοράει καφέ παπούτσια.",
-            "english": "The man wears brown shoes."
-          },
-          {
-            "greek": "Αυτή φοράει τα παπούτσια μου.",
-            "english": "She wears my shoes."
-          },
-          {
-            "greek": "Φοράω το μάλλινό μου κασκόλ.",
-            "english": "I wear my wool scarf."
-          },
-          {
-            "greek": "Φοράω το παλτό μου.",
-            "english": "I wear my coat."
-          },
-          {
-            "greek": "Φοράει αυτή κουστούμι;",
-            "english": "Does she wear a suit?"
-          },
-          {
-            "greek": "Φοράς καπέλο;",
-            "english": "Do you wear a hat?"
-          },
-          {
-            "greek": "Φοράς στολή;",
-            "english": "Do you wear a uniform?"
-          },
-          {
-            "greek": "Φοράμε τα μάλλινα παλτά και τα δερμάτινα γάντια μας.",
-            "english": "We wear our wool coats and our leather gloves."
-          },
-          {
-            "greek": "Αυτή φοράει πουκάμισο και φούστα.",
-            "english": "She wears a shirt and a skirt."
-          },
-          {
-            "greek": "Φοράω παπούτσια.",
-            "english": "I wear shoes."
-          },
-          {
-            "greek": "Φοράω το φόρεμά μου και το παλτό μου.",
-            "english": "I wear my dress and my coat."
-          },
-          {
-            "greek": "Αυτή φοράει φούστα.",
-            "english": "She wears a skirt."
-          },
-          {
-            "greek": "Οι αστυνομικοί φοράνε μπλε στολές.",
-            "english": "The officers wear blue uniforms."
-          },
-          {
-            "greek": "Η αρχιτέκτονας φοράει ένα κουστούμι.",
-            "english": "The architect wears a suit."
-          },
-          {
-            "greek": "Φοράω χοντρά ρούχα γιατί είναι χειμώνας.",
-            "english": "I wear thick clothes because it is winter."
           }
         ]
       },
@@ -827,6 +823,18 @@
           {
             "greek": "Ελάχιστοι άνθρωποι δε βλέπουν τηλεόραση.",
             "english": "Very few people do not watch television."
+          },
+          {
+            "greek": "Βλέπει μια μικρή καφετέρια.",
+            "english": "He sees a small café."
+          },
+          {
+            "greek": "Στην πλατεία βλέπει δέντρα.",
+            "english": "In the square he sees trees."
+          },
+          {
+            "greek": "Βλέπει τουρίστες με κάμερες.",
+            "english": "He sees tourists with cameras."
           }
         ]
       },
@@ -866,69 +874,18 @@
           {
             "greek": "Σε ακούει.",
             "english": "She hears you."
-          }
-        ]
-      },
-      {
-        "id": "write-grafo",
-        "lemma": "γράφω",
-        "english": "write",
-        "sentences": [
-          {
-            "greek": "Εμείς γράφουμε ένα βιβλίο.",
-            "english": "We write a book."
           },
           {
-            "greek": "Αυτός γράφει ένα βιβλίο.",
-            "english": "He writes a book."
+            "greek": "Ακούει τα παιδιά που γελούν.",
+            "english": "He hears the children who are laughing."
           },
           {
-            "greek": "Αυτοί δε γράφουν βιβλία.",
-            "english": "They don't write books."
+            "greek": "Ακούει τα πουλιά που τραγουδούν.",
+            "english": "He hears the birds that are singing."
           },
           {
-            "greek": "Δε γράφω βιβλίο.",
-            "english": "I do not write a book."
-          },
-          {
-            "greek": "Δε γράφεις;",
-            "english": "Don't you write?"
-          },
-          {
-            "greek": "Γράφετε βιβλίο;",
-            "english": "Are you writing a book?"
-          },
-          {
-            "greek": "Η Ελένη γράφει ένα μέιλ στην Κατερίνα.",
-            "english": "Eleni writes an email to Katerina."
-          },
-          {
-            "greek": "Η συντάκτρια διαβάζει και γράφει.",
-            "english": "The female editor reads and writes."
-          },
-          {
-            "greek": "Ο συγγραφέας γράφει ένα μυθιστόρημα.",
-            "english": "The writer writes a novel."
-          },
-          {
-            "greek": "Γράψε το όνομά σου δίπλα στο δικό μου.",
-            "english": "Write your name next to mine."
-          },
-          {
-            "greek": "Αυτός γράφει αρκετά.",
-            "english": "He writes quite a lot."
-          },
-          {
-            "greek": "Γράψε τον αριθμό σωστά!",
-            "english": "Write the number correctly!"
-          },
-          {
-            "greek": "Πόσο δημιουργικά γράφει αυτός ο συγγραφέας.",
-            "english": "How creatively this writer writes."
-          },
-          {
-            "greek": "Τι είναι ευκολότερο; Να γράφεις ή να διαβάζεις;",
-            "english": "What is easier? To write or to read?"
+            "greek": "Ο Δημήτρης σταματά να ακούσει.",
+            "english": "Dimitris stops to listen."
           }
         ]
       },
@@ -1020,76 +977,17 @@
           {
             "greek": "Είμαι πάντα διαθέσιμος και το ξέρεις.",
             "english": "I am always available and you know it."
-          }
-        ]
-      },
-      {
-        "id": "play-paizo",
-        "lemma": "παίζω",
-        "english": "play",
-        "sentences": [
-          {
-            "greek": "Το μωρό παίζει με τη γάτα.",
-            "english": "The baby plays with the cat."
           },
           {
-            "greek": "Εγώ παίζω και νικάω.",
-            "english": "I play and I win."
-          },
-          {
-            "greek": "Η κόρη τους παίζει με το μωρό.",
-            "english": "Their daughter plays with the baby."
-          },
-          {
-            "greek": "Εσύ παίζεις και εγώ διαβάζω.",
-            "english": "You play and I read."
-          },
-          {
-            "greek": "Εσείς παίζετε και εμείς καθαρίζουμε.",
-            "english": "You play and we clean."
-          },
-          {
-            "greek": "Τα παιδιά παίζουν.",
-            "english": "The children play."
-          },
-          {
-            "greek": "Τι παίζει στον κινηματογράφο;",
-            "english": "What is playing at the cinema?"
-          },
-          {
-            "greek": "Παίζουμε μπάσκετ.",
-            "english": "We play basketball."
-          },
-          {
-            "greek": "Το παιδί σου παίζει.",
-            "english": "Your child plays."
-          },
-          {
-            "greek": "Δεν παίζω, διαβάζω ένα βιβλίο.",
-            "english": "I don’t play, I read a book."
-          },
-          {
-            "greek": "Του αρέσει να παίζει ποδόσφαιρο.",
-            "english": "He likes to play football."
-          },
-          {
-            "greek": "Δεν του αρέσει να παίζει ποδόσφαιρο.",
-            "english": "He does not like to play football."
-          },
-          {
-            "greek": "Το δελφίνι παίζει μαζί μας.",
-            "english": "The dolphin plays with us."
-          },
-          {
-            "greek": "Τα παιδιά παίζουν ποδόσφαιρο.",
-            "english": "The children play football."
+            "greek": "Είμαστε ερωτευμένες και το ξέρουμε.",
+            "english": "We are in love and we know it."
           }
         ]
       },
       {
         "id": "live-meno",
         "lemma": "μένω",
-        "english": "live",
+        "english": "live / stay",
         "sentences": [
           {
             "greek": "Δεν μένω στην Ασία.",
@@ -1134,168 +1032,203 @@
           {
             "greek": "Μένεις στην Αμερική;",
             "english": "Do you live in America?"
+          },
+          {
+            "greek": "Η εικόνα μένει στο μυαλό του.",
+            "english": "The image remains in his mind."
+          },
+          {
+            "greek": "Σκέφτεται να μείνει κι άλλο.",
+            "english": "He thinks about staying longer."
           }
         ]
       },
       {
-        "id": "work-doyleyo",
-        "lemma": "δουλεύω",
-        "english": "work",
+        "id": "say-leo",
+        "lemma": "λέω",
+        "english": "say",
         "sentences": [
           {
-            "greek": "Τα παιδιά δε δουλεύουν.",
-            "english": "The children do not work."
+            "greek": "Τι λες.",
+            "english": "What are you saying?"
           },
           {
-            "greek": "Ο συντάκτης δουλεύει για την εφημερίδα.",
-            "english": "The editor works for the newspaper."
+            "greek": "Λέω την αλήθεια.",
+            "english": "I tell the truth."
           },
           {
-            "greek": "Δουλεύω ως σερβιτόρα.",
-            "english": "I work as a waitress."
+            "greek": "Εμείς λέμε ναι.",
+            "english": "We say yes."
           },
           {
-            "greek": "Ο Πέτρος δουλεύει ως σερβιτόρος.",
-            "english": "Petros works as a waiter."
+            "greek": "Το λέω για να ακούν.",
+            "english": "I say it so they can hear."
           },
           {
-            "greek": "Δεκαπέντε οικοδόμοι δουλεύουν ημέρα και νύχτα.",
-            "english": "Fifteen builders work day and night."
+            "greek": "Τι λέει;",
+            "english": "What does he say?"
           },
           {
-            "greek": "Δουλεύω ως παπάς.",
-            "english": "I work as a priest."
+            "greek": "Τι λες, πάμε;",
+            "english": "What do you say, shall we go?"
           },
           {
-            "greek": "Οι αστυνομικοί δουλεύουν στο αστυνομικό τμήμα.",
-            "english": "Police officers work at the police station."
+            "greek": "Εμείς λέμε ναι στο αφεντικό!",
+            "english": "We say yes to the boss!"
           },
           {
-            "greek": "Δουλεύω κάθε Τρίτη.",
-            "english": "I work every Tuesday."
+            "greek": "Ποιος λέει τι είναι νόμιμο και τι όχι;",
+            "english": "Who says what is legal and what is not?"
           },
           {
-            "greek": "Οι πυροσβέστες δουλεύουν ελπίζοντας να βοηθήσουν.",
-            "english": "The firefighters work hoping to help."
+            "greek": "Πες μου κάτι που δεν ξέρω.",
+            "english": "Tell me something I do not know."
           },
           {
-            "greek": "Συνήθως δουλεύω το πρωί.",
-            "english": "I usually work in the morning."
+            "greek": "Ποιος λέει ότι τα κινέζικα είναι ευκολότατα;",
+            "english": "Who says that Chinese is extremely easy?"
           },
           {
-            "greek": "Σήμερα το πρωί δουλεύω.",
-            "english": "This morning I work."
-          }
-        ]
-      }
-    ],
-    "3": [
-      {
-        "id": "put-vazo",
-        "lemma": "βάζω",
-        "english": "put",
-        "sentences": [
-          {
-            "greek": "Αυτός βάζει νερό στο ποτήρι του.",
-            "english": "He puts water in his glass."
+            "greek": "Ό,τι λες είναι ακριβέστατο!",
+            "english": "Whatever you say is absolutely accurate!"
           },
           {
-            "greek": "Βάζω τα πράγματά μου στην τσέπη μου.",
-            "english": "I put my things in my pocket."
+            "greek": "Πες μας κάτι να γελάσουμε.",
+            "english": "Tell us something so we can laugh."
           },
           {
-            "greek": "Βάζω τα κομμάτια κοτόπουλου στο τηγάνι.",
-            "english": "I put the pieces of chicken in the pan."
-          },
-          {
-            "greek": "Πού βάζεις το κίτρινο τετράδιο;",
-            "english": "Where do you put the yellow notebook?"
-          },
-          {
-            "greek": "Τα κορίτσια βάζουν τα φορέματά τους.",
-            "english": "The girls put on their dresses."
+            "greek": "Λένε «γεια σου!» και γελούν.",
+            "english": "They say 'hello!' and laugh."
           }
         ]
       },
       {
-        "id": "find-vrisko",
-        "lemma": "βρίσκω",
-        "english": "find",
+        "id": "go-pegaino",
+        "lemma": "πηγαίνω",
+        "english": "go",
         "sentences": [
           {
-            "greek": "Βρίσκουμε το πουκάμισο.",
-            "english": "We find the shirt."
+            "greek": "Τα παιδιά δεν πηγαίνουν.",
+            "english": "The children do not go."
           },
           {
-            "greek": "Βρίσκω τα πιάτα.",
-            "english": "I find the dishes."
+            "greek": "Πού πηγαίνεις;",
+            "english": "Where are you going?"
           },
           {
-            "greek": "Πού μπορώ να βρω φθηνότερα εισιτήρια;",
-            "english": "Where can I find cheaper tickets?"
+            "greek": "Δεν ξέρουμε πού πηγαίνεις.",
+            "english": "We do not know where you are going."
+          },
+          {
+            "greek": "Πήγαινε μπροστά!",
+            "english": "Go forward!"
+          },
+          {
+            "greek": "Πού πηγαίνετε;",
+            "english": "Where are you going?"
+          },
+          {
+            "greek": "Εμείς πάμε στην εκκλησία κάθε Κυριακή.",
+            "english": "We go to church every Sunday."
+          },
+          {
+            "greek": "Πάω στη δουλειά μου το απόγευμα.",
+            "english": "I go to my work in the afternoon."
+          },
+          {
+            "greek": "Πώς πάμε στην παραλία;",
+            "english": "How do we go to the beach?"
+          },
+          {
+            "greek": "Αυτή πηγαίνει στην πλατεία.",
+            "english": "She goes to the square."
+          },
+          {
+            "greek": "Εμείς πάμε στην αγορά κάθε μήνα.",
+            "english": "We go to the market every month."
+          },
+          {
+            "greek": "Πηγαίνω στα νοτιοδυτικά του χωριού.",
+            "english": "I go to the southwest of the village."
+          },
+          {
+            "greek": "Πάω βορειοδυτικά.",
+            "english": "I go northwest."
+          },
+          {
+            "greek": "Αυτή πάει στο γυμναστήριο.",
+            "english": "She goes to the gym."
+          },
+          {
+            "greek": "Δε πηγαίνει;",
+            "english": "Doesn’t she go?"
+          },
+          {
+            "greek": "Αυτή πηγαίνει έξω.",
+            "english": "She goes out."
+          },
+          {
+            "greek": "Αυτή πηγαίνει προς το παιδί.",
+            "english": "She goes toward the child."
+          },
+          {
+            "greek": "Τα παιδιά πηγαίνουν στον κήπο.",
+            "english": "The children go to the garden."
+          },
+          {
+            "greek": "Πηγαίνω την Πέμπτη το πρωί.",
+            "english": "I go on Thursday morning."
+          },
+          {
+            "greek": "Πού πηγαίνετε το καλοκαίρι;",
+            "english": "Where do you go in the summer?"
+          },
+          {
+            "greek": "Πηγαίνουμε στο χωριό με αμάξι.",
+            "english": "We go to the village by car."
+          },
+          {
+            "greek": "Εμείς πηγαίνουμε στο λιμάνι με ταξί.",
+            "english": "We go to the port by taxi."
+          },
+          {
+            "greek": "Πηγαίνω όπου θέλω.",
+            "english": "I go wherever I want."
+          },
+          {
+            "greek": "Εγώ συνήθως πάω με τα πόδια στη δουλειά.",
+            "english": "I usually go to work on foot."
+          },
+          {
+            "greek": "Πάμε!",
+            "english": "Let's go!"
           }
         ]
       },
       {
-        "id": "show-deichno",
-        "lemma": "δείχνω",
-        "english": "show",
+        "id": "come-erchomai",
+        "lemma": "έρχομαι",
+        "english": "come",
         "sentences": [
           {
-            "greek": "Τι δείχνεις;",
-            "english": "What are you showing?"
+            "greek": "Ο χειμώνας έρχεται.",
+            "english": "Winter is coming."
           },
           {
-            "greek": "Εσείς δείχνετε τα καπέλα.",
-            "english": "You show the hats."
+            "greek": "Έρχομαι σε λίγο!",
+            "english": "I am coming shortly!"
           },
           {
-            "greek": "Η πυξίδα δείχνει βόρεια.",
-            "english": "The compass points north."
+            "greek": "Έρχονται ή όχι;",
+            "english": "Are they coming or not?"
           },
           {
-            "greek": "Η πυξίδα δείχνει τον βορρά.",
-            "english": "The compass shows north."
+            "greek": "Έρχομαι αμέσως!",
+            "english": "I'm coming immediately!"
           },
           {
-            "greek": "Οι οδηγίες δείχνουν τον προορισμό.",
-            "english": "The directions show the destination."
-          },
-          {
-            "greek": "Αυτός μου δείχνει τον δρόμο για το αεροδρόμιο.",
-            "english": "He shows me the way to the airport."
-          },
-          {
-            "greek": "Η συσκευή πλοήγησης δείχνει μια ευθεία.",
-            "english": "The navigation device shows a straight line."
-          },
-          {
-            "greek": "Το ημερολόγιο δείχνει τις ημέρες.",
-            "english": "The calendar shows the days."
-          },
-          {
-            "greek": "Το παιδί δείχνει τα βιβλία του.",
-            "english": "The child points to his books."
-          },
-          {
-            "greek": "Εγώ δείχνω τα παιδιά.",
-            "english": "I point to the children."
-          },
-          {
-            "greek": "Της δείχνω τα παπούτσια.",
-            "english": "I show her the shoes."
-          },
-          {
-            "greek": "Η συσκευή πλοήγησης μού δείχνει πού είναι το σπίτι σου.",
-            "english": "The navigation device shows me where your house is."
-          },
-          {
-            "greek": "Μη δείχνεις οίκτο στον εχθρό.",
-            "english": "Don’t show pity to the enemy."
-          },
-          {
-            "greek": "Ο Οδυσσέας πάντα δείχνει αγχωμένος.",
-            "english": "Odysseus always looks stressed."
+            "greek": "Ερχόμαστε από τον Νότο.",
+            "english": "We come from the South."
           }
         ]
       },
@@ -1397,230 +1330,123 @@
             "english": "So what do we do?"
           }
         ]
-      },
+      }
+    ],
+    "3": [
       {
-        "id": "say-leo",
-        "lemma": "λέω",
-        "english": "say",
+        "id": "put-vazo",
+        "lemma": "βάζω",
+        "english": "put",
         "sentences": [
           {
-            "greek": "Τι λες.",
-            "english": "What are you saying?"
+            "greek": "Αυτός βάζει νερό στο ποτήρι του.",
+            "english": "He puts water in his glass."
           },
           {
-            "greek": "Λέω την αλήθεια.",
-            "english": "I tell the truth."
+            "greek": "Βάζω τα πράγματά μου στην τσέπη μου.",
+            "english": "I put my things in my pocket."
           },
           {
-            "greek": "Εμείς λέμε ναι.",
-            "english": "We say yes."
+            "greek": "Βάζω τα κομμάτια κοτόπουλου στο τηγάνι.",
+            "english": "I put the pieces of chicken in the pan."
           },
           {
-            "greek": "Το λέω για να ακούν.",
-            "english": "I say it so they can hear."
+            "greek": "Πού βάζεις το κίτρινο τετράδιο;",
+            "english": "Where do you put the yellow notebook?"
           },
           {
-            "greek": "Τι λέει;",
-            "english": "What does he say?"
+            "greek": "Τα κορίτσια βάζουν τα φορέματά τους.",
+            "english": "The girls put on their dresses."
           },
           {
-            "greek": "Τι λες, πάμε;",
-            "english": "What do you say, shall we go?"
-          },
-          {
-            "greek": "Εμείς λέμε ναι στο αφεντικό!",
-            "english": "We say yes to the boss!"
-          },
-          {
-            "greek": "Ποιος λέει τι είναι νόμιμο και τι όχι;",
-            "english": "Who says what is legal and what is not?"
-          },
-          {
-            "greek": "Πες μου κάτι που δεν ξέρω.",
-            "english": "Tell me something I do not know."
-          },
-          {
-            "greek": "Ποιος λέει ότι τα κινέζικα είναι ευκολότατα;",
-            "english": "Who says that Chinese is extremely easy?"
-          },
-          {
-            "greek": "Ό,τι λες είναι ακριβέστατο!",
-            "english": "Whatever you say is absolutely accurate!"
+            "greek": "Βάζει τα παπούτσια του.",
+            "english": "He puts on his shoes."
           }
         ]
       },
       {
-        "id": "run-trecho",
-        "lemma": "τρέχω",
-        "english": "run",
+        "id": "find-vrisko",
+        "lemma": "βρίσκω",
+        "english": "find",
         "sentences": [
           {
-            "greek": "Αυτοί τρέχουν.",
-            "english": "They run."
+            "greek": "Βρίσκουμε το πουκάμισο.",
+            "english": "We find the shirt."
           },
           {
-            "greek": "Εμείς τρέχουμε και αυτή περπατάει.",
-            "english": "We run and she walks."
+            "greek": "Βρίσκω τα πιάτα.",
+            "english": "I find the dishes."
           },
           {
-            "greek": "Τι τρέχει;",
-            "english": "What is the matter?"
-          },
-          {
-            "greek": "Τα παιδιά τρέχουν και πέφτουν.",
-            "english": "The children run and fall."
-          },
-          {
-            "greek": "Αυτός τρέχει προς το αγόρι.",
-            "english": "He runs toward the boy."
-          },
-          {
-            "greek": "Εμείς τρέχουμε τον Μάιο.",
-            "english": "We run in May."
-          },
-          {
-            "greek": "Αυτοί τρέχουν δεκαπέντε χιλιόμετρα ανά ώρα.",
-            "english": "They run fifteen kilometers per hour."
-          },
-          {
-            "greek": "Οι φύλακες τρέχουν πίσω από τον άντρα.",
-            "english": "The guards are running after the man."
-          },
-          {
-            "greek": "Τρέχει το άλογό σου;",
-            "english": "Does your horse run?"
-          },
-          {
-            "greek": "Το άλογό σας τρέχει.",
-            "english": "Your horse runs."
-          },
-          {
-            "greek": "Αυτός τρέχει χωρίς παπούτσια.",
-            "english": "He runs without shoes."
-          },
-          {
-            "greek": "Τρέχουμε και σταματάμε.",
-            "english": "We run and stop."
-          },
-          {
-            "greek": "Οι στρατιώτες τρέχουν με τους σκύλους.",
-            "english": "The soldiers run with the dogs."
+            "greek": "Πού μπορώ να βρω φθηνότερα εισιτήρια;",
+            "english": "Where can I find cheaper tickets?"
           }
         ]
       },
       {
-        "id": "walk-perpatao",
-        "lemma": "περπατάω",
-        "english": "walk",
+        "id": "show-deichno",
+        "lemma": "δείχνω",
+        "english": "show",
         "sentences": [
           {
-            "greek": "Περπατάτε;",
-            "english": "Are you walking?"
+            "greek": "Τι δείχνεις;",
+            "english": "What are you showing?"
           },
           {
-            "greek": "Εμείς τρέχουμε και αυτή περπατάει.",
-            "english": "We run and she walks."
+            "greek": "Εσείς δείχνετε τα καπέλα.",
+            "english": "You show the hats."
           },
           {
-            "greek": "Αυτός περπατά σιγά.",
-            "english": "He walks slowly."
+            "greek": "Η πυξίδα δείχνει βόρεια.",
+            "english": "The compass points north."
           },
           {
-            "greek": "Εγώ περπατώ γρήγορα.",
-            "english": "I walk quickly."
-          }
-        ]
-      },
-      {
-        "id": "swim-kolympao",
-        "lemma": "κολυμπάω",
-        "english": "swim",
-        "sentences": [
-          {
-            "greek": "Εμείς κολυμπάμε.",
-            "english": "We swim."
+            "greek": "Η πυξίδα δείχνει τον βορρά.",
+            "english": "The compass shows north."
           },
           {
-            "greek": "Αυτοί κολυμπάνε.",
-            "english": "They swim."
+            "greek": "Οι οδηγίες δείχνουν τον προορισμό.",
+            "english": "The directions show the destination."
           },
           {
-            "greek": "Δεν κολυμπάτε;",
-            "english": "Don't you swim?"
+            "greek": "Αυτός μου δείχνει τον δρόμο για το αεροδρόμιο.",
+            "english": "He shows me the way to the airport."
           },
           {
-            "greek": "Κολυμπάει στην πισίνα.",
-            "english": "He/She swims in the pool."
+            "greek": "Η συσκευή πλοήγησης δείχνει μια ευθεία.",
+            "english": "The navigation device shows a straight line."
           },
           {
-            "greek": "Τα δελφίνια κολυμπούν μαζί μας.",
-            "english": "The dolphins swim with us."
+            "greek": "Το ημερολόγιο δείχνει τις ημέρες.",
+            "english": "The calendar shows the days."
           },
           {
-            "greek": "Εμείς κολυμπάμε μέχρι τη βάρκα.",
-            "english": "We swim to the boat."
+            "greek": "Το παιδί δείχνει τα βιβλία του.",
+            "english": "The child points to his books."
           },
           {
-            "greek": "Κολυμπώ στην καθύτερη πισίνα του ξενοδοχείου.",
-            "english": "I swim in the deepest pool of the hotel."
-          }
-        ]
-      },
-      {
-        "id": "leave-afino",
-        "lemma": "αφήνω",
-        "english": "leave (behind)",
-        "sentences": [
-          {
-            "greek": "Αυτοί αφήνουν τα βιβλία τους.",
-            "english": "They leave their books."
+            "greek": "Εγώ δείχνω τα παιδιά.",
+            "english": "I point to the children."
           },
           {
-            "greek": "Αφήνει το πιάτο.",
-            "english": "He leaves the plate."
-          }
-        ]
-      },
-      {
-        "id": "search-psachno",
-        "lemma": "ψάχνω",
-        "english": "search",
-        "sentences": [
-          {
-            "greek": "Τι ψάχνεις;",
-            "english": "What are you looking for?"
+            "greek": "Της δείχνω τα παπούτσια.",
+            "english": "I show her the shoes."
           },
           {
-            "greek": "Ψάχνει το βιβλίο του.",
-            "english": "He searches for his book."
+            "greek": "Η συσκευή πλοήγησης μού δείχνει πού είναι το σπίτι σου.",
+            "english": "The navigation device shows me where your house is."
           },
           {
-            "greek": "Ψάχνω το βιβλίο μου.",
-            "english": "I look for my book."
+            "greek": "Μη δείχνεις οίκτο στον εχθρό.",
+            "english": "Don’t show pity to the enemy."
           },
           {
-            "greek": "Τους ψάχνετε.",
-            "english": "You are looking for them."
+            "greek": "Ο Οδυσσέας πάντα δείχνει αγχωμένος.",
+            "english": "Odysseus always looks stressed."
           },
           {
-            "greek": "Ψάχνω μια δουλειά.",
-            "english": "I search for a job."
-          },
-          {
-            "greek": "Ψάχνουν τους άντρες τους.",
-            "english": "They look for their husbands."
-          },
-          {
-            "greek": "Ψάξε μαζί μου για τα κλειδιά.",
-            "english": "Search with me for the keys."
-          },
-          {
-            "greek": "Ψάξε στην τσέπη σου!",
-            "english": "Look in your pocket!"
-          },
-          {
-            "greek": "Ψάχνω το διαβατήριό μου!",
-            "english": "I am looking for my passport!"
+            "greek": "Μπορείς να μου δείξεις πώς το κάνεις;",
+            "english": "Can you show me how you do it?"
           }
         ]
       },
@@ -1648,6 +1474,234 @@
           {
             "greek": "Κοιτάζω τους ευρωπαϊκούς λύκους στον ζωολογικό.",
             "english": "I look at the European wolves at the zoo."
+          },
+          {
+            "greek": "Κοιτάζει ξανά την Ακρόπολη από μακριά.",
+            "english": "He looks again at the Acropolis from afar."
+          },
+          {
+            "greek": "Κοιτάζει τον ουρανό.",
+            "english": "He looks at the sky."
+          },
+          {
+            "greek": "Ο Νίκος κοιτάζει την Ακρόπολη.",
+            "english": "Nikos looks at the Acropolis."
+          },
+          {
+            "greek": "Ξεκουράζεται λίγο και κοιτάζει γύρω.",
+            "english": "He rests a little and looks around."
+          },
+          {
+            "greek": "Τα κοιτάζει με ενδιαφέρον.",
+            "english": "He looks at them with interest."
+          },
+          {
+            "greek": "Κοιτάζει δεξιά και αριστερά.",
+            "english": "He looks right and left."
+          }
+        ]
+      },
+      {
+        "id": "take-pairno",
+        "lemma": "παίρνω",
+        "english": "take",
+        "sentences": [
+          {
+            "greek": "Εμείς παίρνουμε εφημερίδες.",
+            "english": "We take newspapers."
+          },
+          {
+            "greek": "Αυτή παίρνει το φαγητό και τρώει.",
+            "english": "She takes the food and eats."
+          },
+          {
+            "greek": "Αντί για αυτό, παίρνω εκείνο.",
+            "english": "Instead of this, I take that."
+          },
+          {
+            "greek": "Παίρνω φρούτα και κρασί από έναν αγρότη.",
+            "english": "I take fruit and wine from a farmer."
+          },
+          {
+            "greek": "Αυτή παίρνει τη δικηγόρο της.",
+            "english": "She calls her lawyer."
+          },
+          {
+            "greek": "Γιατί δεν παίρνεις το μετρό να πας στο λιμάνι;",
+            "english": "Why don’t you take the metro to go to the port?"
+          },
+          {
+            "greek": "Παίρνω το λεωφορείο κάθε μέρα.",
+            "english": "I take the bus every day."
+          },
+          {
+            "greek": "Πάρε αυτήν την τσάντα, είναι ελαφρύτερη.",
+            "english": "Take this bag, it is lighter."
+          },
+          {
+            "greek": "Μπορώ να πάρω ένα μεγαλύτερο κομμάτι πίτα;",
+            "english": "Can I take a bigger piece of pie?"
+          },
+          {
+            "greek": "Ο Νίκος παίρνει μια βαθιά ανάσα.",
+            "english": "Nikos takes a deep breath."
+          }
+        ]
+      },
+      {
+        "id": "give-dino",
+        "lemma": "δίνω",
+        "english": "give",
+        "sentences": [
+          {
+            "greek": "Δίνω τη σοκολάτα στη γυναίκα.",
+            "english": "I give the chocolate to the woman."
+          },
+          {
+            "greek": "Μου δίνεις το νούμερο του ηλεκτρολόγου;",
+            "english": "Do you give me the electrician’s number?"
+          },
+          {
+            "greek": "Δίνω τους σκύλους σε αυτόν.",
+            "english": "I give the dogs to him."
+          },
+          {
+            "greek": "Σου δίνω τα τριπλά.",
+            "english": "I give you triple."
+          },
+          {
+            "greek": "Λοιπόν, τι μου δίνεις;",
+            "english": "So, what do you give me?"
+          },
+          {
+            "greek": "Δίνω το πουκάμισο στις γυναίκες.",
+            "english": "I give the shirt to the women."
+          },
+          {
+            "greek": "Λοιπόν, τι μου δίνεις;",
+            "english": "So, what are you giving me?"
+          }
+        ]
+      },
+      {
+        "id": "play-paizo",
+        "lemma": "παίζω",
+        "english": "play",
+        "sentences": [
+          {
+            "greek": "Το μωρό παίζει με τη γάτα.",
+            "english": "The baby plays with the cat."
+          },
+          {
+            "greek": "Εγώ παίζω και νικάω.",
+            "english": "I play and I win."
+          },
+          {
+            "greek": "Η κόρη τους παίζει με το μωρό.",
+            "english": "Their daughter plays with the baby."
+          },
+          {
+            "greek": "Εσύ παίζεις και εγώ διαβάζω.",
+            "english": "You play and I read."
+          },
+          {
+            "greek": "Εσείς παίζετε και εμείς καθαρίζουμε.",
+            "english": "You play and we clean."
+          },
+          {
+            "greek": "Τα παιδιά παίζουν.",
+            "english": "The children play."
+          },
+          {
+            "greek": "Τι παίζει στον κινηματογράφο;",
+            "english": "What is playing at the cinema?"
+          },
+          {
+            "greek": "Παίζουμε μπάσκετ.",
+            "english": "We play basketball."
+          },
+          {
+            "greek": "Το παιδί σου παίζει.",
+            "english": "Your child plays."
+          },
+          {
+            "greek": "Δεν παίζω, διαβάζω ένα βιβλίο.",
+            "english": "I don’t play, I read a book."
+          },
+          {
+            "greek": "Του αρέσει να παίζει ποδόσφαιρο.",
+            "english": "He likes to play football."
+          },
+          {
+            "greek": "Δεν του αρέσει να παίζει ποδόσφαιρο.",
+            "english": "He does not like to play football."
+          },
+          {
+            "greek": "Το δελφίνι παίζει μαζί μας.",
+            "english": "The dolphin plays with us."
+          },
+          {
+            "greek": "Τα παιδιά παίζουν ποδόσφαιρο.",
+            "english": "The children play football."
+          },
+          {
+            "greek": "Παίζουν μπάλα στην πλατεία.",
+            "english": "They play ball in the square."
+          },
+          {
+            "greek": "Ένας άντρας παίζει μπουζούκι.",
+            "english": "A man plays bouzouki."
+          }
+        ]
+      },
+      {
+        "id": "work-doyleyo",
+        "lemma": "δουλεύω",
+        "english": "work",
+        "sentences": [
+          {
+            "greek": "Τα παιδιά δε δουλεύουν.",
+            "english": "The children do not work."
+          },
+          {
+            "greek": "Ο συντάκτης δουλεύει για την εφημερίδα.",
+            "english": "The editor works for the newspaper."
+          },
+          {
+            "greek": "Δουλεύω ως σερβιτόρα.",
+            "english": "I work as a waitress."
+          },
+          {
+            "greek": "Ο Πέτρος δουλεύει ως σερβιτόρος.",
+            "english": "Petros works as a waiter."
+          },
+          {
+            "greek": "Δεκαπέντε οικοδόμοι δουλεύουν ημέρα και νύχτα.",
+            "english": "Fifteen builders work day and night."
+          },
+          {
+            "greek": "Δουλεύω ως παπάς.",
+            "english": "I work as a priest."
+          },
+          {
+            "greek": "Οι αστυνομικοί δουλεύουν στο αστυνομικό τμήμα.",
+            "english": "Police officers work at the police station."
+          },
+          {
+            "greek": "Δουλεύω κάθε Τρίτη.",
+            "english": "I work every Tuesday."
+          },
+          {
+            "greek": "Οι πυροσβέστες δουλεύουν ελπίζοντας να βοηθήσουν.",
+            "english": "The firefighters work hoping to help."
+          },
+          {
+            "greek": "Συνήθως δουλεύω το πρωί.",
+            "english": "I usually work in the morning."
+          },
+          {
+            "greek": "Σήμερα το πρωί δουλεύω.",
+            "english": "This morning I work."
           }
         ]
       }
@@ -1753,41 +1807,10 @@
           {
             "greek": "Εγώ αγαπώ όλα τα ζώα γενικά.",
             "english": "I love all animals in general."
-          }
-        ]
-      },
-      {
-        "id": "give-dino",
-        "lemma": "δίνω",
-        "english": "give",
-        "sentences": [
-          {
-            "greek": "Δίνω τη σοκολάτα στη γυναίκα.",
-            "english": "I give the chocolate to the woman."
           },
           {
-            "greek": "Μου δίνεις το νούμερο του ηλεκτρολόγου;",
-            "english": "Do you give me the electrician’s number?"
-          },
-          {
-            "greek": "Δίνω τους σκύλους σε αυτόν.",
-            "english": "I give the dogs to him."
-          },
-          {
-            "greek": "Σου δίνω τα τριπλά.",
-            "english": "I give you triple."
-          },
-          {
-            "greek": "Λοιπόν, τι μου δίνεις;",
-            "english": "So, what do you give me?"
-          },
-          {
-            "greek": "Δίνω το πουκάμισο στις γυναίκες.",
-            "english": "I give the shirt to the women."
-          },
-          {
-            "greek": "Λοιπόν, τι μου δίνεις;",
-            "english": "So, what are you giving me?"
+            "greek": "Ο Νίκος αγαπάει τα βιβλία.",
+            "english": "Nikos loves books."
           }
         ]
       },
@@ -1819,6 +1842,10 @@
           {
             "greek": "Αυτοί πραγματικά τραγουδάνε πολύ άσχημα!",
             "english": "They really sing very badly!"
+          },
+          {
+            "greek": "Ακούει τα πουλιά που τραγουδούν.",
+            "english": "He hears the birds that are singing."
           }
         ]
       },
@@ -1850,6 +1877,10 @@
           {
             "greek": "Αν ζαλίζεσαι, σταμάτα να χορεύεις.",
             "english": "If you feel dizzy, stop dancing."
+          },
+          {
+            "greek": "Όποτε χαίρονται χορεύουν.",
+            "english": "Whenever they are happy, they dance."
           }
         ]
       },
@@ -1881,21 +1912,56 @@
         ]
       },
       {
-        "id": "wash-pleno",
-        "lemma": "πλένω",
-        "english": "wash",
+        "id": "laugh-gelao",
+        "lemma": "γελάω",
+        "english": "laugh",
         "sentences": [
           {
-            "greek": "Αυτοί πλένουν τον σκύλο.",
-            "english": "They wash the dog."
+            "greek": "Είναι πολύ σοβαρός, δε γελάει ποτέ.",
+            "english": "He is very serious; he never laughs."
           },
           {
-            "greek": "Εμείς πλένουμε τα πιάτα.",
-            "english": "We wash the dishes."
+            "greek": "Με τι γελάτε;",
+            "english": "What are you laughing at?"
           },
           {
-            "greek": "Πρώτα πλένουμε τα χέρια και μετά τρώμε.",
-            "english": "First we wash our hands and then we eat."
+            "greek": "Σταμάτα να γελάς, σταμάτα να κλαις.",
+            "english": "Stop laughing, stop crying."
+          },
+          {
+            "greek": "Σταματήστε να γελάτε!",
+            "english": "Stop laughing!"
+          },
+          {
+            "greek": "Ακούει τα παιδιά που γελούν.",
+            "english": "He hears the children who are laughing."
+          },
+          {
+            "greek": "Γελάει δυνατά με τη μαμά του.",
+            "english": "He laughs loudly with his mother."
+          },
+          {
+            "greek": "Είναι όμορφο να γελάς.",
+            "english": "It is beautiful to laugh."
+          }
+        ]
+      },
+      {
+        "id": "cry-klaio",
+        "lemma": "κλαίω",
+        "english": "cry",
+        "sentences": [
+          {
+            "greek": "Μην κλαις για εμένα, Ελλάδα.",
+            "english": "Don't cry for me, Greece."
+          },
+          {
+            "greek": "Κλαίω κάθε φορά που μελετώ ελληνικά.",
+            "english": "I cry every time I study Greek."
+          },
+          {
+            "greek": "Κλαίνε επειδή είναι συγκινημένες ή θλιμμένες.",
+            "english": "They cry because they are moved or sad."
           }
         ]
       },
@@ -1915,44 +1981,139 @@
         ]
       },
       {
-        "id": "draw-schediazo",
-        "lemma": "σχεδιάζω",
-        "english": "draw / design",
+        "id": "run-trecho",
+        "lemma": "τρέχω",
+        "english": "run",
         "sentences": [
           {
-            "greek": "Τι σχεδιάζεις;",
-            "english": "What are you drawing?"
+            "greek": "Αυτοί τρέχουν.",
+            "english": "They run."
           },
           {
-            "greek": "Αυτή σχεδιάζει μια γάτα.",
-            "english": "She draws a cat."
+            "greek": "Εμείς τρέχουμε και αυτή περπατάει.",
+            "english": "We run and she walks."
           },
           {
-            "greek": "Βλέπεις τι σχεδιάζω;",
-            "english": "Do you see what I am drawing?"
+            "greek": "Τι τρέχει;",
+            "english": "What is the matter?"
           },
           {
-            "greek": "Οι γυναίκες σχεδιάζουν ρούχα.",
-            "english": "The women design clothes."
+            "greek": "Τα παιδιά τρέχουν και πέφτουν.",
+            "english": "The children run and fall."
           },
           {
-            "greek": "Οι αρχιτέκτονες σχεδιάζουν πολύ καλά.",
-            "english": "Architects design very well."
+            "greek": "Αυτός τρέχει προς το αγόρι.",
+            "english": "He runs toward the boy."
+          },
+          {
+            "greek": "Εμείς τρέχουμε τον Μάιο.",
+            "english": "We run in May."
+          },
+          {
+            "greek": "Αυτοί τρέχουν δεκαπέντε χιλιόμετρα ανά ώρα.",
+            "english": "They run fifteen kilometers per hour."
+          },
+          {
+            "greek": "Οι φύλακες τρέχουν πίσω από τον άντρα.",
+            "english": "The guards are running after the man."
+          },
+          {
+            "greek": "Τρέχει το άλογό σου;",
+            "english": "Does your horse run?"
+          },
+          {
+            "greek": "Το άλογό σας τρέχει.",
+            "english": "Your horse runs."
+          },
+          {
+            "greek": "Αυτός τρέχει χωρίς παπούτσια.",
+            "english": "He runs without shoes."
+          },
+          {
+            "greek": "Τρέχουμε και σταματάμε.",
+            "english": "We run and stop."
+          },
+          {
+            "greek": "Οι στρατιώτες τρέχουν με τους σκύλους.",
+            "english": "The soldiers run with the dogs."
           }
         ]
       },
       {
-        "id": "cut-kovo",
-        "lemma": "κόβω",
-        "english": "cut",
+        "id": "walk-perpatao",
+        "lemma": "περπατάω",
+        "english": "walk",
         "sentences": [
           {
-            "greek": "Μας κόβουν το νερό.",
-            "english": "They cut off our water."
+            "greek": "Περπατάτε;",
+            "english": "Are you walking?"
           },
           {
-            "greek": "Κόβουμε το γλυκό σε τέσσερα κομμάτια.",
-            "english": "We cut the sweet into four pieces."
+            "greek": "Εμείς τρέχουμε και αυτή περπατάει.",
+            "english": "We run and she walks."
+          },
+          {
+            "greek": "Αυτός περπατά σιγά.",
+            "english": "He walks slowly."
+          },
+          {
+            "greek": "Εγώ περπατώ γρήγορα.",
+            "english": "I walk quickly."
+          },
+          {
+            "greek": "Περπατάει πιο μακριά.",
+            "english": "He walks farther."
+          },
+          {
+            "greek": "Περπατάει σιγά προς τον δρόμο.",
+            "english": "He walks slowly toward the road."
+          },
+          {
+            "greek": "Γιατί δε σηκώνεστε να περπατήσετε λίγο;",
+            "english": "Why don't you get up to walk a little?"
+          },
+          {
+            "greek": "Ο Νίκος περπατάει με ήρεμο ρυθμό.",
+            "english": "Nikos walks at a calm pace."
+          },
+          {
+            "greek": "Περπατά προς το σπίτι και σκέφτεται τη μέρα του.",
+            "english": "He walks toward home and thinks about his day."
+          }
+        ]
+      },
+      {
+        "id": "swim-kolympao",
+        "lemma": "κολυμπάω",
+        "english": "swim",
+        "sentences": [
+          {
+            "greek": "Εμείς κολυμπάμε.",
+            "english": "We swim."
+          },
+          {
+            "greek": "Αυτοί κολυμπάνε.",
+            "english": "They swim."
+          },
+          {
+            "greek": "Δεν κολυμπάτε;",
+            "english": "Don't you swim?"
+          },
+          {
+            "greek": "Κολυμπάει στην πισίνα.",
+            "english": "He/She swims in the pool."
+          },
+          {
+            "greek": "Τα δελφίνια κολυμπούν μαζί μας.",
+            "english": "The dolphins swim with us."
+          },
+          {
+            "greek": "Εμείς κολυμπάμε μέχρι τη βάρκα.",
+            "english": "We swim to the boat."
+          },
+          {
+            "greek": "Κολυμπώ στην καθύτερη πισίνα του ξενοδοχείου.",
+            "english": "I swim in the deepest pool of the hotel."
           }
         ]
       }
@@ -1982,6 +2143,34 @@
           {
             "greek": "Θέλω να αγοράσω ένα φθηνότερο βιβλίο.",
             "english": "I want to buy a cheaper book."
+          },
+          {
+            "greek": "Ο Νίκος σκέφτεται να αγοράσει κάτι.",
+            "english": "Nikos thinks about buying something."
+          },
+          {
+            "greek": "Αγοράζει λίγη ρίγανη.",
+            "english": "He buys a little oregano."
+          },
+          {
+            "greek": "Ο Δημήτρης αγοράζει ένα σακουλάκι φιστίκια.",
+            "english": "Dimitris buys a small bag of pistachios."
+          },
+          {
+            "greek": "Αγοράζει δύο σαπούνια.",
+            "english": "He buys two soaps."
+          },
+          {
+            "greek": "Ο Δημήτρης αγοράζει τη μπλούζα.",
+            "english": "Dimitris buys the shirt."
+          },
+          {
+            "greek": "Ο Δημήτρης αγοράζει ένα κουλούρι.",
+            "english": "Dimitris buys a koulouri."
+          },
+          {
+            "greek": "Αποφασίζει να μη το αγοράσει.",
+            "english": "He decides not to buy it."
           }
         ]
       },
@@ -2040,21 +2229,6 @@
         ]
       },
       {
-        "id": "count-metrao",
-        "lemma": "μετράω",
-        "english": "count",
-        "sentences": [
-          {
-            "greek": "Μετράτε τα πράγματά σας;",
-            "english": "Do you count your things?"
-          },
-          {
-            "greek": "Μετράς το ύψος ή το μήκος;",
-            "english": "Do you measure the height or the length?"
-          }
-        ]
-      },
-      {
         "id": "bring-ferno",
         "lemma": "φέρνω",
         "english": "bring",
@@ -2086,49 +2260,6 @@
           {
             "greek": "Το παιδί μου τα φέρνει.",
             "english": "My child brings them."
-          }
-        ]
-      },
-      {
-        "id": "take-pairno",
-        "lemma": "παίρνω",
-        "english": "take",
-        "sentences": [
-          {
-            "greek": "Εμείς παίρνουμε εφημερίδες.",
-            "english": "We take newspapers."
-          },
-          {
-            "greek": "Αυτή παίρνει το φαγητό και τρώει.",
-            "english": "She takes the food and eats."
-          },
-          {
-            "greek": "Αντί για αυτό, παίρνω εκείνο.",
-            "english": "Instead of this, I take that."
-          },
-          {
-            "greek": "Παίρνω φρούτα και κρασί από έναν αγρότη.",
-            "english": "I take fruit and wine from a farmer."
-          },
-          {
-            "greek": "Αυτή παίρνει τη δικηγόρο της.",
-            "english": "She calls her lawyer."
-          },
-          {
-            "greek": "Γιατί δεν παίρνεις το μετρό να πας στο λιμάνι;",
-            "english": "Why don’t you take the metro to go to the port?"
-          },
-          {
-            "greek": "Παίρνω το λεωφορείο κάθε μέρα.",
-            "english": "I take the bus every day."
-          },
-          {
-            "greek": "Πάρε αυτήν την τσάντα, είναι ελαφρύτερη.",
-            "english": "Take this bag, it is lighter."
-          },
-          {
-            "greek": "Μπορώ να πάρω ένα μεγαλύτερο κομμάτι πίτα;",
-            "english": "Can I take a bigger piece of pie?"
           }
         ]
       },
@@ -2237,28 +2368,102 @@
             "english": "They sell fruit."
           }
         ]
-      }
-    ],
-    "6": [
+      },
       {
-        "id": "offer-prosfero",
-        "lemma": "προσφέρω",
-        "english": "offer",
+        "id": "leave-afino",
+        "lemma": "αφήνω",
+        "english": "leave (behind)",
         "sentences": [
           {
-            "greek": "Προσφέρω νερό.",
-            "english": "I offer water."
+            "greek": "Αυτοί αφήνουν τα βιβλία τους.",
+            "english": "They leave their books."
           },
           {
-            "greek": "Μου προσφέρει καφέ.",
-            "english": "He is offering me coffee."
-          },
-          {
-            "greek": "Αυτοί προσφέρουν καφέ.",
-            "english": "They are offering coffee."
+            "greek": "Αφήνει το πιάτο.",
+            "english": "He leaves the plate."
           }
         ]
       },
+      {
+        "id": "search-psachno",
+        "lemma": "ψάχνω",
+        "english": "search",
+        "sentences": [
+          {
+            "greek": "Τι ψάχνεις;",
+            "english": "What are you looking for?"
+          },
+          {
+            "greek": "Ψάχνει το βιβλίο του.",
+            "english": "He searches for his book."
+          },
+          {
+            "greek": "Ψάχνω το βιβλίο μου.",
+            "english": "I look for my book."
+          },
+          {
+            "greek": "Τους ψάχνετε.",
+            "english": "You are looking for them."
+          },
+          {
+            "greek": "Ψάχνω μια δουλειά.",
+            "english": "I search for a job."
+          },
+          {
+            "greek": "Ψάχνουν τους άντρες τους.",
+            "english": "They look for their husbands."
+          },
+          {
+            "greek": "Ψάξε μαζί μου για τα κλειδιά.",
+            "english": "Search with me for the keys."
+          },
+          {
+            "greek": "Ψάξε στην τσέπη σου!",
+            "english": "Look in your pocket!"
+          },
+          {
+            "greek": "Ψάχνω το διαβατήριό μου!",
+            "english": "I am looking for my passport!"
+          }
+        ]
+      },
+      {
+        "id": "use-chrisimopoio",
+        "lemma": "χρησιμοποιώ",
+        "english": "use",
+        "sentences": [
+          {
+            "greek": "Χρησιμοποιώ ροζ κλωστή.",
+            "english": "I use pink thread."
+          },
+          {
+            "greek": "Δε χρησιμοποιώ τη συσκευή πλοήγησης.",
+            "english": "I don’t use the navigation device."
+          },
+          {
+            "greek": "Εμείς χρησιμοποιούμε το ποτήρι.",
+            "english": "We use the glass."
+          },
+          {
+            "greek": "Το χρησιμοποιώ.",
+            "english": "I use it."
+          },
+          {
+            "greek": "Χρησιμοποιώ το ποτήρι.",
+            "english": "I use the glass."
+          },
+          {
+            "greek": "Χρησιμοποιούμε κουβέρτες τον χειμώνα.",
+            "english": "We use blankets in the winter."
+          },
+          {
+            "greek": "Δε χρησιμοποιώ τη συσκευή πλοήγησης.",
+            "english": "I do not use the navigation device."
+          }
+        ]
+      }
+    ],
+    "6": [
       {
         "id": "change-allazo",
         "lemma": "αλλάζω",
@@ -2404,79 +2609,6 @@
         ]
       },
       {
-        "id": "use-chrisimopoio",
-        "lemma": "χρησιμοποιώ",
-        "english": "use",
-        "sentences": [
-          {
-            "greek": "Χρησιμοποιώ ροζ κλωστή.",
-            "english": "I use pink thread."
-          },
-          {
-            "greek": "Δε χρησιμοποιώ τη συσκευή πλοήγησης.",
-            "english": "I don’t use the navigation device."
-          },
-          {
-            "greek": "Εμείς χρησιμοποιούμε το ποτήρι.",
-            "english": "We use the glass."
-          },
-          {
-            "greek": "Το χρησιμοποιώ.",
-            "english": "I use it."
-          },
-          {
-            "greek": "Χρησιμοποιώ το ποτήρι.",
-            "english": "I use the glass."
-          },
-          {
-            "greek": "Χρησιμοποιούμε κουβέρτες τον χειμώνα.",
-            "english": "We use blankets in the winter."
-          },
-          {
-            "greek": "Δε χρησιμοποιώ τη συσκευή πλοήγησης.",
-            "english": "I do not use the navigation device."
-          }
-        ]
-      },
-      {
-        "id": "ask-rotao",
-        "lemma": "ρωτάω",
-        "english": "ask",
-        "sentences": [
-          {
-            "greek": "Ρωτά μία ερώτηση.",
-            "english": "He/she asks a question."
-          },
-          {
-            "greek": "Ρωτάς το κορίτσι;",
-            "english": "Are you asking the girl?"
-          },
-          {
-            "greek": "Τι ρωτάτε;",
-            "english": "What are you asking?"
-          }
-        ]
-      },
-      {
-        "id": "answer-apanto",
-        "lemma": "απαντώ",
-        "english": "answer",
-        "sentences": [
-          {
-            "greek": "Δεν απαντούμε.",
-            "english": "We do not answer."
-          },
-          {
-            "greek": "Αυτοί απαντούν.",
-            "english": "They answer."
-          },
-          {
-            "greek": "Γιατί δεν απαντάς στο γράμμα της;",
-            "english": "Why don’t you answer her letter?"
-          }
-        ]
-      },
-      {
         "id": "wait-perimeno",
         "lemma": "περιμένω",
         "english": "wait",
@@ -2527,25 +2659,214 @@
         ]
       },
       {
-        "id": "start-xekinao",
-        "lemma": "ξεκινάω",
-        "english": "start",
+        "id": "wear-forao",
+        "lemma": "φοράω",
+        "english": "wear",
         "sentences": [
           {
-            "greek": "Δεν ξεκινώ.",
-            "english": "I do not start."
+            "greek": "Φοράτε ζώνη;",
+            "english": "Do you wear a belt?"
           },
           {
-            "greek": "Πότε ξεκινάς;",
-            "english": "When do you start?"
+            "greek": "Η γυναίκα φοράει το ροζ φόρεμα.",
+            "english": "The woman wears the pink dress."
           },
           {
-            "greek": "Η περιπέτεια ξεκινά αύριο!",
-            "english": "The adventure starts tomorrow!"
+            "greek": "Ο άντρας φοράει καφέ παπούτσια.",
+            "english": "The man wears brown shoes."
           },
           {
-            "greek": "Ξεκινάμε σε σαράντα δευτερόλεπτα.",
-            "english": "We start in forty seconds."
+            "greek": "Αυτή φοράει τα παπούτσια μου.",
+            "english": "She wears my shoes."
+          },
+          {
+            "greek": "Φοράω το μάλλινό μου κασκόλ.",
+            "english": "I wear my wool scarf."
+          },
+          {
+            "greek": "Φοράω το παλτό μου.",
+            "english": "I wear my coat."
+          },
+          {
+            "greek": "Φοράει αυτή κουστούμι;",
+            "english": "Does she wear a suit?"
+          },
+          {
+            "greek": "Φοράς καπέλο;",
+            "english": "Do you wear a hat?"
+          },
+          {
+            "greek": "Φοράς στολή;",
+            "english": "Do you wear a uniform?"
+          },
+          {
+            "greek": "Φοράμε τα μάλλινα παλτά και τα δερμάτινα γάντια μας.",
+            "english": "We wear our wool coats and our leather gloves."
+          },
+          {
+            "greek": "Αυτή φοράει πουκάμισο και φούστα.",
+            "english": "She wears a shirt and a skirt."
+          },
+          {
+            "greek": "Φοράω παπούτσια.",
+            "english": "I wear shoes."
+          },
+          {
+            "greek": "Φοράω το φόρεμά μου και το παλτό μου.",
+            "english": "I wear my dress and my coat."
+          },
+          {
+            "greek": "Αυτή φοράει φούστα.",
+            "english": "She wears a skirt."
+          },
+          {
+            "greek": "Οι αστυνομικοί φοράνε μπλε στολές.",
+            "english": "The officers wear blue uniforms."
+          },
+          {
+            "greek": "Η αρχιτέκτονας φοράει ένα κουστούμι.",
+            "english": "The architect wears a suit."
+          },
+          {
+            "greek": "Φοράω χοντρά ρούχα γιατί είναι χειμώνας.",
+            "english": "I wear thick clothes because it is winter."
+          },
+          {
+            "greek": "Φοράει το αγαπημένο του μπλουζάκι.",
+            "english": "He puts on his favorite T-shirt."
+          }
+        ]
+      },
+      {
+        "id": "dry-stegnono",
+        "lemma": "στεγνώνω",
+        "english": "dry",
+        "sentences": [
+          {
+            "greek": "Εμείς στεγνώνουμε τα πιάτα με πετσέτα.",
+            "english": "We dry the dishes with a towel."
+          },
+          {
+            "greek": "Αυτή στεγνώνει τα ρούχα.",
+            "english": "She dries the clothes."
+          }
+        ]
+      },
+      {
+        "id": "clean-katharizo",
+        "lemma": "καθαρίζω",
+        "english": "clean",
+        "sentences": [
+          {
+            "greek": "Εσείς παίζετε και εμείς καθαρίζουμε.",
+            "english": "You play and we clean."
+          },
+          {
+            "greek": "Τι καθαρίζουν;",
+            "english": "What are they cleaning?"
+          },
+          {
+            "greek": "Καθαρίζετε τους εαυτούς σας;",
+            "english": "Do you clean yourselves?"
+          }
+        ]
+      },
+      {
+        "id": "fill-gemizo",
+        "lemma": "γεμίζω",
+        "english": "fill",
+        "sentences": [
+          {
+            "greek": "Γεμίζεις το ποτήρι;",
+            "english": "Do you fill the glass?"
+          },
+          {
+            "greek": "Εγώ γεμίζω το ποτήρι.",
+            "english": "I fill the glass."
+          },
+          {
+            "greek": "Εμείς γεμίζουμε το αυτοκίνητο με βενζίνη πριν το ταξίδι.",
+            "english": "We fill the car with gasoline before the trip."
+          },
+          {
+            "greek": "Η καρδιά του γεμίζει χαρά.",
+            "english": "His heart fills with joy."
+          }
+        ]
+      },
+      {
+        "id": "wash-pleno",
+        "lemma": "πλένω",
+        "english": "wash",
+        "sentences": [
+          {
+            "greek": "Αυτοί πλένουν τον σκύλο.",
+            "english": "They wash the dog."
+          },
+          {
+            "greek": "Εμείς πλένουμε τα πιάτα.",
+            "english": "We wash the dishes."
+          },
+          {
+            "greek": "Πρώτα πλένουμε τα χέρια και μετά τρώμε.",
+            "english": "First we wash our hands and then we eat."
+          }
+        ]
+      },
+      {
+        "id": "cut-kovo",
+        "lemma": "κόβω",
+        "english": "cut",
+        "sentences": [
+          {
+            "greek": "Μας κόβουν το νερό.",
+            "english": "They cut off our water."
+          },
+          {
+            "greek": "Κόβουμε το γλυκό σε τέσσερα κομμάτια.",
+            "english": "We cut the sweet into four pieces."
+          }
+        ]
+      },
+      {
+        "id": "draw-schediazo",
+        "lemma": "σχεδιάζω",
+        "english": "draw / design",
+        "sentences": [
+          {
+            "greek": "Τι σχεδιάζεις;",
+            "english": "What are you drawing?"
+          },
+          {
+            "greek": "Αυτή σχεδιάζει μια γάτα.",
+            "english": "She draws a cat."
+          },
+          {
+            "greek": "Βλέπεις τι σχεδιάζω;",
+            "english": "Do you see what I am drawing?"
+          },
+          {
+            "greek": "Οι γυναίκες σχεδιάζουν ρούχα.",
+            "english": "The women design clothes."
+          },
+          {
+            "greek": "Οι αρχιτέκτονες σχεδιάζουν πολύ καλά.",
+            "english": "Architects design very well."
+          }
+        ]
+      },
+      {
+        "id": "count-metrao",
+        "lemma": "μετράω",
+        "english": "count",
+        "sentences": [
+          {
+            "greek": "Μετράτε τα πράγματά σας;",
+            "english": "Do you count your things?"
+          },
+          {
+            "greek": "Μετράς το ύψος ή το μήκος;",
+            "english": "Do you measure the height or the length?"
           }
         ]
       }
@@ -2606,6 +2927,10 @@
           {
             "greek": "Δοκιμάζουμε το τυρί.",
             "english": "We try the cheese."
+          },
+          {
+            "greek": "Ο Δημήτρης δοκιμάζει ένα καπέλο.",
+            "english": "Dimitris tries on a hat."
           }
         ]
       },
@@ -2676,6 +3001,10 @@
           {
             "greek": "Πραγματικά δεν το καταλαβαίνω.",
             "english": "I really do not understand it."
+          },
+          {
+            "greek": "Δεν καταλαβαίνω.",
+            "english": "I do not understand."
           }
         ]
       },
@@ -2699,17 +3028,6 @@
         ]
       },
       {
-        "id": "finish-teleiono",
-        "lemma": "τελειώνω",
-        "english": "finish",
-        "sentences": [
-          {
-            "greek": "Πότε τελειώνει;",
-            "english": "When does it finish?"
-          }
-        ]
-      },
-      {
         "id": "study-meletao",
         "lemma": "μελετάω",
         "english": "study",
@@ -2721,40 +3039,6 @@
           {
             "greek": "Μελετάμε αγγλικά.",
             "english": "We study English."
-          }
-        ]
-      },
-      {
-        "id": "dry-stegnono",
-        "lemma": "στεγνώνω",
-        "english": "dry",
-        "sentences": [
-          {
-            "greek": "Εμείς στεγνώνουμε τα πιάτα με πετσέτα.",
-            "english": "We dry the dishes with a towel."
-          },
-          {
-            "greek": "Αυτή στεγνώνει τα ρούχα.",
-            "english": "She dries the clothes."
-          }
-        ]
-      },
-      {
-        "id": "clean-katharizo",
-        "lemma": "καθαρίζω",
-        "english": "clean",
-        "sentences": [
-          {
-            "greek": "Εσείς παίζετε και εμείς καθαρίζουμε.",
-            "english": "You play and we clean."
-          },
-          {
-            "greek": "Τι καθαρίζουν;",
-            "english": "What are they cleaning?"
-          },
-          {
-            "greek": "Καθαρίζετε τους εαυτούς σας;",
-            "english": "Do you clean yourselves?"
           }
         ]
       },
@@ -2774,75 +3058,61 @@
           {
             "greek": "Περνάμε τη μεγάλη γέφυρα.",
             "english": "We cross the big bridge."
+          },
+          {
+            "greek": "Μερικά σύννεφα περνούν αργά.",
+            "english": "Some clouds pass slowly."
+          },
+          {
+            "greek": "Περνάει μπροστά από ένα μικρό μαγαζί.",
+            "english": "He passes in front of a small shop."
           }
         ]
       },
       {
-        "id": "try-prospatho",
-        "lemma": "προσπαθώ",
-        "english": "try",
+        "id": "ask-rotao",
+        "lemma": "ρωτάω",
+        "english": "ask",
         "sentences": [
           {
-            "greek": "Εμείς προσπαθούμε αλλά είναι δύσκολο.",
-            "english": "We try but it is difficult."
+            "greek": "Ρωτά μία ερώτηση.",
+            "english": "He/she asks a question."
+          },
+          {
+            "greek": "Ρωτάς το κορίτσι;",
+            "english": "Are you asking the girl?"
+          },
+          {
+            "greek": "Τι ρωτάτε;",
+            "english": "What are you asking?"
+          }
+        ]
+      },
+      {
+        "id": "answer-apanto",
+        "lemma": "απαντώ",
+        "english": "answer",
+        "sentences": [
+          {
+            "greek": "Δεν απαντούμε.",
+            "english": "We do not answer."
+          },
+          {
+            "greek": "Αυτοί απαντούν.",
+            "english": "They answer."
+          },
+          {
+            "greek": "Γιατί δεν απαντάς στο γράμμα της;",
+            "english": "Why don’t you answer her letter?"
+          },
+          {
+            "greek": "Ο Νίκος απαντάει χαμογελαστά.",
+            "english": "Nikos answers with a smile."
           }
         ]
       }
     ],
     "8": [
-      {
-        "id": "receive-paralamvano",
-        "lemma": "παραλαμβάνω",
-        "english": "receive",
-        "sentences": [
-          {
-            "greek": "Αυτός παραλαμβάνει το γράμμα.",
-            "english": "He receives the letter."
-          },
-          {
-            "greek": "Εσύ παραδίδεις κι εγώ παραλαμβάνω.",
-            "english": "You deliver and I receive."
-          },
-          {
-            "greek": "Αυτοί το παραλαμβάνουν;",
-            "english": "Do they receive it?"
-          },
-          {
-            "greek": "Εσείς παραλαμβάνετε τα κλειδιά.",
-            "english": "You receive the keys."
-          }
-        ]
-      },
-      {
-        "id": "deliver-paradido",
-        "lemma": "παραδίδω",
-        "english": "deliver",
-        "sentences": [
-          {
-            "greek": "Αυτοί παραδίδουν τα πράγματά τους.",
-            "english": "They deliver their things."
-          },
-          {
-            "greek": "Εσύ παραδίδεις κι εγώ παραλαμβάνω.",
-            "english": "You deliver and I receive."
-          }
-        ]
-      },
-      {
-        "id": "include-symperilamvano",
-        "lemma": "συμπεριλαμβάνω",
-        "english": "include",
-        "sentences": [
-          {
-            "greek": "Τι συμπεριλαμβάνει το μενού;",
-            "english": "What does the menu include?"
-          },
-          {
-            "greek": "Αυτοί συμπεριλαμβάνουν τα παιδιά τους στο γεύμα.",
-            "english": "They include their children in the meal."
-          }
-        ]
-      },
       {
         "id": "lift-sikono",
         "lemma": "σηκώνω",
@@ -2859,63 +3129,139 @@
         ]
       },
       {
-        "id": "order-parangelno",
-        "lemma": "παραγγέλνω",
-        "english": "order",
+        "id": "try-prospatho",
+        "lemma": "προσπαθώ",
+        "english": "try",
         "sentences": [
           {
-            "greek": "Εμείς παραγγέλνουμε φαγητό.",
-            "english": "We order food."
-          },
-          {
-            "greek": "Αυτός παραγγέλνει βιβλία.",
-            "english": "He orders books."
+            "greek": "Εμείς προσπαθούμε αλλά είναι δύσκολο.",
+            "english": "We try but it is difficult."
           }
         ]
       },
       {
-        "id": "send-stelno",
-        "lemma": "στέλνω",
-        "english": "send",
+        "id": "can-boro",
+        "lemma": "μπορώ",
+        "english": "can / be able",
         "sentences": [
           {
-            "greek": "Αυτός το στέλνει.",
-            "english": "He sends it."
+            "greek": "Πώς μπορούμε να πάμε στα βόρεια διαμερίσματα;",
+            "english": "How can we go to the northern apartments?"
           },
           {
-            "greek": "Τα στέλνεις ή τα πηγαίνεις;",
-            "english": "Do you send them or take them?"
+            "greek": "Δεν μπορώ να βρω το μονοπάτι.",
+            "english": "I cannot find the path."
           },
           {
-            "greek": "Εγώ το στέλνω.",
-            "english": "I send it."
+            "greek": "Πώς μπορώ να πάω στο δυτικό κομμάτι της πόλης;",
+            "english": "How can I go to the western part of the city?"
           },
           {
-            "greek": "Στείλ’ το μου σε λίγο.",
-            "english": "Send it to me in a little while."
+            "greek": "Δεν μπορώ να πηγαίνω με αυτήν.",
+            "english": "I cannot go with her."
+          },
+          {
+            "greek": "Αυτός δεν μπορεί να μας βοηθάει.",
+            "english": "He cannot help us."
+          },
+          {
+            "greek": "Πώς μπορείς να τον ακούς;",
+            "english": "How can you listen to him?"
+          },
+          {
+            "greek": "Δεν μπορώ να κόψω το μήλο με αυτό το μαχαίρι.",
+            "english": "I cannot cut the apple with this knife."
+          },
+          {
+            "greek": "Μπορώ να πάω εκεί αύριο.",
+            "english": "I can go there tomorrow."
+          },
+          {
+            "greek": "Μπορεί να βρέξει αύριο.",
+            "english": "It may rain tomorrow."
+          },
+          {
+            "greek": "Μπορείς να το αγοράσεις.",
+            "english": "You can buy it."
+          },
+          {
+            "greek": "Μπορώ να πάρω ένα μεγαλύτερο κομμάτι πίτα;",
+            "english": "Can I take a bigger piece of pie?"
           }
         ]
       },
       {
-        "id": "present-parousiazo",
-        "lemma": "παρουσιάζω",
-        "english": "present",
+        "id": "must-prepei",
+        "lemma": "πρέπει",
+        "english": "must / should",
         "sentences": [
           {
-            "greek": "Εμείς παρουσιάζουμε τη δουλειά μας.",
-            "english": "We present our work."
+            "greek": "Πρέπει να γράψει ένα γράμμα στον πατέρα του.",
+            "english": "He must write a letter to his father."
           },
           {
-            "greek": "Παρουσιάζουν το μενού.",
-            "english": "They present the menu."
+            "greek": "Πρέπει να σεβόμαστε τους ηλικιωμένους.",
+            "english": "We must respect the elderly."
+          },
+          {
+            "greek": "Πρέπει να αγοράζουμε εφημερίδες.",
+            "english": "We must buy newspapers."
+          },
+          {
+            "greek": "Πρέπει να το κάνω άμεσα.",
+            "english": "I must do it immediately."
+          },
+          {
+            "greek": "Πρέπει να τρως αργά.",
+            "english": "You should eat slowly."
+          },
+          {
+            "greek": "Πόση ώρα πρέπει να οδηγούμε;",
+            "english": "How long must we drive?"
+          },
+          {
+            "greek": "Πρέπει να φάω κάτι γιατί ζαλίζομαι.",
+            "english": "I must eat something because I feel dizzy."
           }
         ]
-      }
-    ],
-    "9": [
+      },
       {
-        "id": "stop-stamato",
-        "lemma": "σταματώ",
+        "id": "finish-teleiono",
+        "lemma": "τελειώνω",
+        "english": "finish",
+        "sentences": [
+          {
+            "greek": "Πότε τελειώνει;",
+            "english": "When does it finish?"
+          }
+        ]
+      },
+      {
+        "id": "start-xekinao",
+        "lemma": "ξεκινάω",
+        "english": "start",
+        "sentences": [
+          {
+            "greek": "Δεν ξεκινώ.",
+            "english": "I do not start."
+          },
+          {
+            "greek": "Πότε ξεκινάς;",
+            "english": "When do you start?"
+          },
+          {
+            "greek": "Η περιπέτεια ξεκινά αύριο!",
+            "english": "The adventure starts tomorrow!"
+          },
+          {
+            "greek": "Ξεκινάμε σε σαράντα δευτερόλεπτα.",
+            "english": "We start in forty seconds."
+          }
+        ]
+      },
+      {
+        "id": "stop-stamatao",
+        "lemma": "σταματάω",
         "english": "stop",
         "sentences": [
           {
@@ -2945,9 +3291,58 @@
           {
             "greek": "Το μετρό δε σταματά σε αυτή τη στάση.",
             "english": "The metro does not stop at this station."
+          },
+          {
+            "greek": "Ο Νίκος σταματάει λίγο.",
+            "english": "Nikos stops for a moment."
+          },
+          {
+            "greek": "Ο Δημήτρης σταματά να ακούσει.",
+            "english": "Dimitris stops to listen."
           }
         ]
       },
+      {
+        "id": "continue-synechizo",
+        "lemma": "συνεχίζω",
+        "english": "continue",
+        "sentences": [
+          {
+            "greek": "Συνεχίζουμε να το θέλουμε.",
+            "english": "We continue to want it."
+          },
+          {
+            "greek": "Το αποδέχομαι και συνεχίζω.",
+            "english": "I accept it and continue."
+          },
+          {
+            "greek": "Αυτός συνεχίζει.",
+            "english": "He continues."
+          },
+          {
+            "greek": "Πάμε να συνεχίσουμε την ιστορία.",
+            "english": "Let's go continue the story."
+          },
+          {
+            "greek": "Τελικά συνεχίζει τη βόλτα του.",
+            "english": "In the end, he continues his walk."
+          },
+          {
+            "greek": "Συνεχίζει τον δρόμο του.",
+            "english": "He continues on his way."
+          },
+          {
+            "greek": "Συνεχίζει προς το κέντρο.",
+            "english": "He continues toward the center."
+          },
+          {
+            "greek": "Συνεχίζει σιγά-σιγά τη βόλτα του.",
+            "english": "He slowly continues his walk."
+          }
+        ]
+      }
+    ],
+    "9": [
       {
         "id": "return-epistrefo",
         "lemma": "επιστρέφω",
@@ -2955,10 +3350,6 @@
         "sentences": [
           {
             "greek": "Επιστρέφουν τα βιβλία.",
-            "english": "They return the books."
-          },
-          {
-            "greek": "Αυτοί επιστρέφουν τα βιβλία.",
             "english": "They return the books."
           }
         ]
@@ -3003,159 +3394,161 @@
         ]
       },
       {
-        "id": "fly-petao",
-        "lemma": "πετάω",
-        "english": "fly",
+        "id": "enter-baino",
+        "lemma": "μπαίνω",
+        "english": "enter / go in",
         "sentences": [
           {
-            "greek": "Τι ώρα πετάμε;",
-            "english": "What time do we leave (fly)?"
+            "greek": "Η γάτα μπαίνει στο κουτί.",
+            "english": "The cat goes into the box."
           },
           {
-            "greek": "Γιατί πετάει τα πράγματά της;",
-            "english": "Why does she throw away her things?"
+            "greek": "Μπες στο μπροστινό κτίριο.",
+            "english": "Enter the front building."
           },
           {
-            "greek": "Πετάνε οι πάπιες;",
-            "english": "Do the ducks fly?"
+            "greek": "Εμείς μπαίνουμε κι εσείς βγαίνετε.",
+            "english": "We go in and you go out."
           },
           {
-            "greek": "Γιατί πετάει τα πράγματά της;",
-            "english": "Why does she throw her things?"
+            "greek": "Πώς μπαίνω μέσα;",
+            "english": "How do I get inside?"
+          },
+          {
+            "greek": "Μπείτε στο αυτοκίνητο τώρα.",
+            "english": "Get into the car now."
+          },
+          {
+            "greek": "Ανοίγει την πόρτα και μπαίνει μέσα.",
+            "english": "He opens the door and goes inside."
+          },
+          {
+            "greek": "Μπαίνει στον δρόμο του σπιτιού του.",
+            "english": "He enters the street of his house."
           }
         ]
       },
       {
-        "id": "catch-piano",
-        "lemma": "πιάνω",
-        "english": "catch",
+        "id": "goout-vgaino",
+        "lemma": "βγαίνω",
+        "english": "go out",
         "sentences": [
           {
-            "greek": "Με πιάνεις;",
-            "english": "Do you catch me?"
+            "greek": "Βγαίνουμε έξω το Σάββατο.",
+            "english": "We go out on Saturday."
           },
           {
-            "greek": "Αυτοί πιάνουν τις τσάντες.",
-            "english": "They grab the bags."
+            "greek": "Εμείς μπαίνουμε κι εσείς βγαίνετε.",
+            "english": "We go in and you go out."
+          },
+          {
+            "greek": "Βγαίνω με τους κολλητούς μου κάθε μέρα.",
+            "english": "I go out with my close friends every day."
+          },
+          {
+            "greek": "Το λάδι βγαίνει από ελιές.",
+            "english": "Oil comes from olives."
+          },
+          {
+            "greek": "Βγείτε από το όχημα.",
+            "english": "Get out of the vehicle."
+          },
+          {
+            "greek": "Από μέσα βγαίνει μυρωδιά καφέ.",
+            "english": "The smell of coffee comes out from inside."
           }
         ]
       },
       {
-        "id": "go-pegaino",
-        "lemma": "πηγαίνω",
-        "english": "go",
+        "id": "goup-anevaino",
+        "lemma": "ανεβαίνω",
+        "english": "go up",
         "sentences": [
           {
-            "greek": "Τα παιδιά δεν πηγαίνουν.",
-            "english": "The children do not go."
+            "greek": "Εγώ ανεβαίνω κι εσύ κατεβαίνεις.",
+            "english": "I go up and you go down."
           },
           {
-            "greek": "Πού πηγαίνεις;",
-            "english": "Where are you going?"
+            "greek": "Ανεβαίνουν τις σκάλες.",
+            "english": "They go up the stairs."
           },
           {
-            "greek": "Δεν ξέρουμε πού πηγαίνεις.",
-            "english": "We do not know where you are going."
+            "greek": "Αυτή ανεβαίνει στην καρέκλα.",
+            "english": "She climbs onto the chair."
           },
           {
-            "greek": "Πήγαινε μπροστά!",
-            "english": "Go forward!"
+            "greek": "Ανεβαίνεις στην κορυφή της Ακρόπολης.",
+            "english": "You go up to the top of the Acropolis."
+          }
+        ]
+      },
+      {
+        "id": "godown-katevaino",
+        "lemma": "κατεβαίνω",
+        "english": "go down",
+        "sentences": [
+          {
+            "greek": "Αυτός κατεβαίνει τη σκάλα.",
+            "english": "He goes down the stairs."
           },
           {
-            "greek": "Πού πηγαίνετε;",
-            "english": "Where are you going?"
+            "greek": "Κατεβαίνω από το ταξί.",
+            "english": "I get out of the taxi."
           },
           {
-            "greek": "Εμείς πάμε στην εκκλησία κάθε Κυριακή.",
-            "english": "We go to church every Sunday."
+            "greek": "Αυτές κατεβαίνουν σε λίγο.",
+            "english": "They (fem.) are coming down soon."
           },
           {
-            "greek": "Πάω στη δουλειά μου το απόγευμα.",
-            "english": "I go to my work in the afternoon."
+            "greek": "Θέλω να προσέξετε ενώ κατεβαίνετε τη σκάλα!",
+            "english": "I want you to be careful while going down the stairs!"
+          }
+        ]
+      },
+      {
+        "id": "travel-taxidevo",
+        "lemma": "ταξιδεύω",
+        "english": "travel",
+        "sentences": [
+          {
+            "greek": "Ποτέ δεν ταξιδεύει μόνη.",
+            "english": "She never travels alone."
           },
           {
-            "greek": "Πώς πάμε στην παραλία;",
-            "english": "How do we go to the beach?"
+            "greek": "Ταξιδεύεις αρκετά;",
+            "english": "Do you travel a lot?"
           },
           {
-            "greek": "Αυτή πηγαίνει στην πλατεία.",
-            "english": "She goes to the square."
+            "greek": "Δεν μπορείτε να ταξιδέψετε χωρίς διαβατήριο.",
+            "english": "You cannot travel without a passport."
           },
           {
-            "greek": "Εμείς πάμε στην αγορά κάθε μήνα.",
-            "english": "We go to the market every month."
+            "greek": "Μας αρέσει να ταξιδεύουμε με αεροπλάνο.",
+            "english": "We like to travel by airplane."
           },
           {
-            "greek": "Πηγαίνω στα νοτιοδυτικά του χωριού.",
-            "english": "I go to the southwest of the village."
+            "greek": "Πρόσεχε τα φορτηγά όταν ταξιδεύεις με αυτοκίνητο.",
+            "english": "Watch out for trucks when you travel by car."
           },
           {
-            "greek": "Πάω βορειοδυτικά.",
-            "english": "I go northwest."
-          },
+            "greek": "Γιατί ταξιδεύεις με τρένο κι όχι με αυτοκίνητο;",
+            "english": "Why do you travel by train and not by car?"
+          }
+        ]
+      },
+      {
+        "id": "arrive-ftano",
+        "lemma": "φτάνω",
+        "english": "arrive",
+        "sentences": [
           {
-            "greek": "Αυτή πάει στο γυμναστήριο.",
-            "english": "She goes to the gym."
-          },
-          {
-            "greek": "Δε πηγαίνει;",
-            "english": "Doesn’t she go?"
-          },
-          {
-            "greek": "Αυτή πηγαίνει έξω.",
-            "english": "She goes out."
-          },
-          {
-            "greek": "Αυτή πηγαίνει προς το παιδί.",
-            "english": "She goes toward the child."
-          },
-          {
-            "greek": "Τα παιδιά πηγαίνουν στον κήπο.",
-            "english": "The children go to the garden."
-          },
-          {
-            "greek": "Πηγαίνω την Πέμπτη το πρωί.",
-            "english": "I go on Thursday morning."
-          },
-          {
-            "greek": "Πού πηγαίνετε το καλοκαίρι;",
-            "english": "Where do you go in the summer?"
-          },
-          {
-            "greek": "Πηγαίνουμε στο χωριό με αμάξι.",
-            "english": "We go to the village by car."
-          },
-          {
-            "greek": "Εμείς πηγαίνουμε στο λιμάνι με ταξί.",
-            "english": "We go to the port by taxi."
-          },
-          {
-            "greek": "Πηγαίνω όπου θέλω.",
-            "english": "I go wherever I want."
-          },
-          {
-            "greek": "Εγώ συνήθως πάω με τα πόδια στη δουλειά.",
-            "english": "I usually go to work on foot."
+            "greek": "Φτάνει στη γειτονιά του.",
+            "english": "He arrives in his neighborhood."
           }
         ]
       }
     ],
     "10": [
-      {
-        "id": "lose-chano",
-        "lemma": "χάνω",
-        "english": "lose",
-        "sentences": [
-          {
-            "greek": "Χάνουν τα πράγματά τους.",
-            "english": "They lose their things."
-          },
-          {
-            "greek": "Το χάνουμε!",
-            "english": "We're missing it!"
-          }
-        ]
-      },
       {
         "id": "open-anoigo",
         "lemma": "ανοίγω",
@@ -3172,6 +3565,14 @@
           {
             "greek": "Τι ώρα ανοίγουν οι τράπεζες;",
             "english": "What time do the banks open?"
+          },
+          {
+            "greek": "Ανοίγει την πόρτα του σπιτιού του.",
+            "english": "He opens the door of his house."
+          },
+          {
+            "greek": "Ανοίγει την πόρτα και μπαίνει μέσα.",
+            "english": "He opens the door and goes inside."
           }
         ]
       },
@@ -3195,6 +3596,10 @@
           {
             "greek": "Κλείνετε τα παράθυρα όταν δεν είστε στο σπίτι.",
             "english": "Close the windows when you are not at home."
+          },
+          {
+            "greek": "Κλείνει τα μάτια και χαμογελάει.",
+            "english": "He closes his eyes and smiles."
           }
         ]
       },
@@ -3222,25 +3627,6 @@
         ]
       },
       {
-        "id": "fill-gemizo",
-        "lemma": "γεμίζω",
-        "english": "fill",
-        "sentences": [
-          {
-            "greek": "Γεμίζεις το ποτήρι;",
-            "english": "Do you fill the glass?"
-          },
-          {
-            "greek": "Εγώ γεμίζω το ποτήρι.",
-            "english": "I fill the glass."
-          },
-          {
-            "greek": "Εμείς γεμίζουμε το αυτοκίνητο με βενζίνη πριν το ταξίδι.",
-            "english": "We fill the car with gasoline before the trip."
-          }
-        ]
-      },
-      {
         "id": "weigh-zygizo",
         "lemma": "ζυγίζω",
         "english": "weigh",
@@ -3256,6 +3642,195 @@
           {
             "greek": "Το αγόρι ζυγίζει τριάντα κιλά.",
             "english": "The boy weighs thirty kilos."
+          }
+        ]
+      },
+      {
+        "id": "drive-odigo",
+        "lemma": "οδηγώ",
+        "english": "drive",
+        "sentences": [
+          {
+            "greek": "Όταν πίνετε, μην οδηγείτε.",
+            "english": "When you drink, do not drive."
+          },
+          {
+            "greek": "Οδηγώ στη δουλειά κάθε μέρα.",
+            "english": "I drive to work every day."
+          },
+          {
+            "greek": "Ξέρεις να οδηγείς;",
+            "english": "Do you know how to drive?"
+          },
+          {
+            "greek": "Αυτός οδηγεί πολύ προσεκτικά.",
+            "english": "He drives very carefully."
+          },
+          {
+            "greek": "Πόση ώρα πρέπει να οδηγούμε;",
+            "english": "How long must we drive?"
+          }
+        ]
+      },
+      {
+        "id": "turn-strivo",
+        "lemma": "στρίβω",
+        "english": "turn",
+        "sentences": [
+          {
+            "greek": "Στρίψε νότια!",
+            "english": "Turn south!"
+          },
+          {
+            "greek": "Στρίψτε εδώ.",
+            "english": "Turn here."
+          },
+          {
+            "greek": "Στρίβω εκεί.",
+            "english": "I turn there."
+          },
+          {
+            "greek": "Στρίψε το τιμόνι αριστερά!",
+            "english": "Turn the steering wheel left!"
+          },
+          {
+            "greek": "Στρίψε δεξιά μετά τη γέφυρα.",
+            "english": "Turn right after the bridge."
+          }
+        ]
+      },
+      {
+        "id": "follow-akoloutho",
+        "lemma": "ακολουθώ",
+        "english": "follow",
+        "sentences": [
+          {
+            "greek": "Ακολουθώ την ευθεία.",
+            "english": "I follow the straight line."
+          },
+          {
+            "greek": "Ακολουθήστε τον!",
+            "english": "Follow him!"
+          },
+          {
+            "greek": "Ακολούθησε το μονοπάτι νοτιοανατολικά.",
+            "english": "Follow the path southeast."
+          },
+          {
+            "greek": "Το επιδόρπιο ακολούθησε το δείπνο.",
+            "english": "Dessert followed dinner."
+          },
+          {
+            "greek": "Ακολούθησέ με!",
+            "english": "Follow me!"
+          },
+          {
+            "greek": "Αυτοί ακολουθούν τους γονείς τους.",
+            "english": "They follow their parents."
+          }
+        ]
+      },
+      {
+        "id": "head-katefthynomai",
+        "lemma": "κατευθύνομαι",
+        "english": "head",
+        "sentences": [
+          {
+            "greek": "Κατευθυνθείτε ανατολικά.",
+            "english": "Head east."
+          },
+          {
+            "greek": "Κατευθυνόμαστε βόρεια.",
+            "english": "We are heading north."
+          },
+          {
+            "greek": "Κατευθύνομαι προς το σπίτι σου.",
+            "english": "I am heading toward your house."
+          },
+          {
+            "greek": "Κατευθυνθείτε βορειοανατολικά.",
+            "english": "Head northeast."
+          },
+          {
+            "greek": "Πού κατευθύνεστε;",
+            "english": "Where are you heading?"
+          }
+        ]
+      },
+      {
+        "id": "be-vriskomai",
+        "lemma": "βρίσκομαι",
+        "english": "be located",
+        "sentences": [
+          {
+            "greek": "Η Αίγυπτος βρίσκεται στην Αφρική.",
+            "english": "Egypt is located in Africa."
+          },
+          {
+            "greek": "Πού βρίσκεται η Ισπανία;",
+            "english": "Where is Spain located?"
+          },
+          {
+            "greek": "Η Ισπανία βρίσκεται δυτικά της Ελλάδας.",
+            "english": "Spain is west of Greece."
+          },
+          {
+            "greek": "Η Ρωσία βρίσκεται στον βορρά.",
+            "english": "Russia is in the north."
+          },
+          {
+            "greek": "Πού βρίσκονται οι ΗΠΑ;",
+            "english": "Where are the USA located?"
+          },
+          {
+            "greek": "Δεν ξέρω πού βρίσκομαι, μπορείς να με βοηθήσεις;",
+            "english": "I do not know where I am, can you help me?"
+          },
+          {
+            "greek": "Βρίσκομαι στη νότια κορυφή.",
+            "english": "I am located at the southern peak."
+          }
+        ]
+      },
+      {
+        "id": "fly-petao",
+        "lemma": "πετάω",
+        "english": "fly",
+        "sentences": [
+          {
+            "greek": "Τι ώρα πετάμε;",
+            "english": "What time do we leave (fly)?"
+          },
+          {
+            "greek": "Γιατί πετάει τα πράγματά της;",
+            "english": "Why does she throw away her things?"
+          },
+          {
+            "greek": "Πετάνε οι πάπιες;",
+            "english": "Do the ducks fly?"
+          },
+          {
+            "greek": "Γιατί πετάει τα πράγματά της;",
+            "english": "Why does she throw her things?"
+          },
+          {
+            "greek": "Τα περιστέρια πετούν γύρω του.",
+            "english": "The pigeons fly around him."
+          }
+        ]
+      },
+      {
+        "id": "catch-piano",
+        "lemma": "πιάνω",
+        "english": "catch",
+        "sentences": [
+          {
+            "greek": "Με πιάνεις;",
+            "english": "Do you catch me?"
+          },
+          {
+            "greek": "Αυτοί πιάνουν τις τσάντες.",
+            "english": "They catch the bags."
           }
         ]
       }
@@ -3281,63 +3856,136 @@
         ]
       },
       {
-        "id": "beworth-axizo",
-        "lemma": "αξίζω",
-        "english": "be worth",
+        "id": "call-kalo",
+        "lemma": "καλώ",
+        "english": "call",
         "sentences": [
           {
-            "greek": "Το αξίζεις!",
-            "english": "You deserve it!"
+            "greek": "Εμείς καλούμε αυτό το νούμερο.",
+            "english": "We call this number."
           },
           {
-            "greek": "Πόσο αξίζει το βάζο;",
-            "english": "How much is the vase worth?"
+            "greek": "Ποιον καλείς;",
+            "english": "Who are you calling?"
           },
           {
-            "greek": "Όχι, δεν αξίζουν.",
-            "english": "No, they are not worth it."
+            "greek": "Εσείς καλείτε.",
+            "english": "You call."
           }
         ]
       },
       {
-        "id": "continue-synechizo",
-        "lemma": "συνεχίζω",
-        "english": "continue",
+        "id": "meet-synanto",
+        "lemma": "συναντώ",
+        "english": "meet",
         "sentences": [
           {
-            "greek": "Συνεχίζουμε να το θέλουμε.",
-            "english": "We continue to want it."
+            "greek": "Εγώ τον συναντώ στο σπίτι του.",
+            "english": "I meet him at his house."
           },
           {
-            "greek": "Το αποδέχομαι και συνεχίζω.",
-            "english": "I accept it and continue."
+            "greek": "Αυτοί συναντούν τα αδέλφια τους.",
+            "english": "They meet their siblings."
           },
           {
-            "greek": "Αυτός συνεχίζει.",
-            "english": "He continues."
-          },
-          {
-            "greek": "Πάμε να συνεχίσουμε την ιστορία.",
-            "english": "Let's go continue the story."
+            "greek": "Όταν συναντώ ξένους αγχώνομαι.",
+            "english": "When I meet strangers, I get anxious."
           }
         ]
       },
       {
-        "id": "prevent-empodizo",
-        "lemma": "εμποδίζω",
-        "english": "prevent",
+        "id": "visit-episkeptomai",
+        "lemma": "επισκέπτομαι",
+        "english": "visit",
         "sentences": [
           {
-            "greek": "Τους εμποδίζουμε να το κάνουν.",
-            "english": "We prevent them from doing it."
+            "greek": "Επισκεπτόμαστε τον γιατρό.",
+            "english": "We visit the doctor."
           },
           {
-            "greek": "Τα πράγματα στην πόρτα εμποδίζουν.",
-            "english": "The things in the door block the way."
+            "greek": "Ποιον επισκέπτεσαι;",
+            "english": "Whom do you visit?"
           },
           {
-            "greek": "Ποιος σε εμποδίζει;",
-            "english": "Who is stopping you?"
+            "greek": "Τα εγγόνια επισκέπτονται τους ηλικιωμένους παππούδες τους.",
+            "english": "The grandchildren visit their elderly grandfathers."
+          }
+        ]
+      },
+      {
+        "id": "sign-ypografo",
+        "lemma": "υπογράφω",
+        "english": "sign",
+        "sentences": [
+          {
+            "greek": "Ποιος υπογράφει το γράμμα;",
+            "english": "Who signs the letter?"
+          },
+          {
+            "greek": "Δεν το υπογράφουν αν δεν τους αρέσει.",
+            "english": "They don’t sign it if they don’t like it."
+          }
+        ]
+      },
+      {
+        "id": "beg-parakalo",
+        "lemma": "παρακαλώ",
+        "english": "beg",
+        "sentences": [
+          {
+            "greek": "Το παιδί παρακαλεί για ένα παγωτό.",
+            "english": "The child begs for an ice cream."
+          },
+          {
+            "greek": "Αυτές παρακαλούν τον άντρα.",
+            "english": "They (feminine) beg the man."
+          }
+        ]
+      },
+      {
+        "id": "support-ypostirizo",
+        "lemma": "υποστηρίζω",
+        "english": "support",
+        "sentences": [
+          {
+            "greek": "Οι γονείς μου με υποστηρίζουν.",
+            "english": "My parents support me."
+          },
+          {
+            "greek": "Σας υποστηρίζω και το ξέρετε.",
+            "english": "I support you and you know it."
+          },
+          {
+            "greek": "Γιατί δεν τον υποστηρίζεις;",
+            "english": "Why don’t you support him?"
+          }
+        ]
+      },
+      {
+        "id": "agree-symfono",
+        "lemma": "συμφωνώ",
+        "english": "agree",
+        "sentences": [
+          {
+            "greek": "Δε συμφωνώ.",
+            "english": "I do not agree."
+          },
+          {
+            "greek": "Συμφωνείς;",
+            "english": "Do you agree?"
+          }
+        ]
+      }
+    ],
+    "12": [
+      {
+        "id": "win-kerdizo",
+        "lemma": "κερδίζω",
+        "english": "win",
+        "sentences": [
+          {
+            "greek": "Αυτές κερδίζουν στο παιχνίδι.",
+            "english": "They (feminine) win in the game."
           }
         ]
       },
@@ -3373,6 +4021,67 @@
         ]
       },
       {
+        "id": "hate-miso",
+        "lemma": "μισώ",
+        "english": "hate",
+        "sentences": [
+          {
+            "greek": "Μισούμε τις Κυριακές.",
+            "english": "We hate Sundays."
+          },
+          {
+            "greek": "Εγώ δε μισώ κανένα.",
+            "english": "I do not hate anyone."
+          },
+          {
+            "greek": "Εγώ μισώ τη ζάχαρη.",
+            "english": "I hate sugar."
+          },
+          {
+            "greek": "Ο γιος μου δε σε μισεί.",
+            "english": "My son does not hate you."
+          }
+        ]
+      },
+      {
+        "id": "adore-latrevo",
+        "lemma": "λατρεύω",
+        "english": "adore",
+        "sentences": [
+          {
+            "greek": "Ο αδερφός μου λατρεύει τις γάτες.",
+            "english": "My brother adores cats."
+          },
+          {
+            "greek": "Λατρεύω το φαγητό της μητέρας μου!",
+            "english": "I adore my mother's food!"
+          },
+          {
+            "greek": "Αυτούς τους αντιπαθώ αλλά σε λατρεύω.",
+            "english": "I dislike them, but I adore you."
+          }
+        ]
+      },
+      {
+        "id": "beworth-axizo",
+        "lemma": "αξίζω",
+        "english": "be worth",
+        "sentences": [
+          {
+            "greek": "Το αξίζεις!",
+            "english": "You deserve it!"
+          },
+          {
+            "greek": "Πόσο αξίζει το βάζο;",
+            "english": "How much is the vase worth?"
+          },
+          {
+            "greek": "Όχι, δεν αξίζουν.",
+            "english": "No, they are not worth it."
+          }
+        ]
+      },
+      {
         "id": "improve-veltiono",
         "lemma": "βελτιώνω",
         "english": "improve",
@@ -3390,9 +4099,775 @@
             "english": "We improve our work."
           }
         ]
+      },
+      {
+        "id": "lose-chano",
+        "lemma": "χάνω",
+        "english": "lose",
+        "sentences": [
+          {
+            "greek": "Χάνουν τα πράγματά τους.",
+            "english": "They lose their things."
+          },
+          {
+            "greek": "Το χάνουμε!",
+            "english": "We're missing it!"
+          }
+        ]
+      },
+      {
+        "id": "prevent-empodizo",
+        "lemma": "εμποδίζω",
+        "english": "prevent",
+        "sentences": [
+          {
+            "greek": "Τους εμποδίζουμε να το κάνουν.",
+            "english": "We prevent them from doing it."
+          },
+          {
+            "greek": "Τα πράγματα στην πόρτα εμποδίζουν.",
+            "english": "The things in the door block the way."
+          },
+          {
+            "greek": "Ποιος σε εμποδίζει;",
+            "english": "Who is stopping you?"
+          }
+        ]
       }
     ],
-    "12": [
+    "13": [
+      {
+        "id": "introduce-systino",
+        "lemma": "συστήνω",
+        "english": "recommend, introduce",
+        "sentences": [
+          {
+            "greek": "Γιατί δε με συστήνεις στην οικογένειά σου;",
+            "english": "Why don’t you introduce me to your family?"
+          },
+          {
+            "greek": "Αυτή μου συστήνει τους γονείς της.",
+            "english": "She introduces me to her parents."
+          },
+          {
+            "greek": "Μας συστήνουν ένα καλό βιβλίο.",
+            "english": "They recommend to us a good book."
+          },
+          {
+            "greek": "Αυτός με συστήνει στους φίλους του.",
+            "english": "He introduces me to his friends."
+          }
+        ]
+      },
+      {
+        "id": "feel-niotho",
+        "lemma": "νιώθω",
+        "english": "feel",
+        "sentences": [
+          {
+            "greek": "Τι νιώθεις;",
+            "english": "What do you feel?"
+          },
+          {
+            "greek": "Πώς νιώθουν αυτοί;",
+            "english": "How do they feel?"
+          },
+          {
+            "greek": "Με βλέπει, το νιώθω.",
+            "english": "He sees me, I feel it."
+          },
+          {
+            "greek": "Νιώθω όμορφα κάνοντας κάτι καλό.",
+            "english": "I feel good doing something good."
+          },
+          {
+            "greek": "Νιώθουμε άσχημα επειδή ήρθαμε αργά.",
+            "english": "We feel bad because we arrived late."
+          },
+          {
+            "greek": "Ειλικρινά, νιώθω απαίσια!",
+            "english": "Honestly, I feel terrible!"
+          },
+          {
+            "greek": "Νιώθω τέλεια.",
+            "english": "I feel perfect."
+          },
+          {
+            "greek": "Δε νιώθω ποτέ άγχος.",
+            "english": "I never feel stress."
+          },
+          {
+            "greek": "Νιώθω ενοχές επειδή θύμωσε.",
+            "english": "I feel guilty because he got angry."
+          },
+          {
+            "greek": "Θα έπρεπε να νιώθεις περήφανος.",
+            "english": "You should feel proud."
+          },
+          {
+            "greek": "Όταν χάνω σε ένα παιχνίδι νιώθω απογοήτευση.",
+            "english": "When I lose in a game, I feel disappointment."
+          },
+          {
+            "greek": "Μη νιώθεις απογοήτευση, συνέχισε να προσπαθείς.",
+            "english": "Don’t feel disappointment; keep trying."
+          },
+          {
+            "greek": "Νιώθω αηδιασμένος με αυτά που ακούω.",
+            "english": "I feel disgusted by what I hear."
+          },
+          {
+            "greek": "Εσείς δε νιώθετε οργή;",
+            "english": "Don’t you feel anger?"
+          },
+          {
+            "greek": "Νιώθει φιλικό το κλίμα.",
+            "english": "He feels the atmosphere is friendly."
+          },
+          {
+            "greek": "Νιώθει γαλήνη και χαρά.",
+            "english": "He feels peace and joy."
+          }
+        ]
+      },
+      {
+        "id": "rejoice-hairomai",
+        "lemma": "χαίρομαι",
+        "english": "rejoice / be glad",
+        "sentences": [
+          {
+            "greek": "Όποτε χαίρονται χορεύουν.",
+            "english": "Whenever they are happy, they dance."
+          },
+          {
+            "greek": "Χαίρομαι που σου αρέσει το δώρο μου.",
+            "english": "I am glad that you like my gift."
+          },
+          {
+            "greek": "Ωραία, χαίρομαι.",
+            "english": "Great, I’m glad."
+          },
+          {
+            "greek": "Χαίρεσαι που πήγαμε στον κινηματογράφο χθες;",
+            "english": "Are you glad we went to the movies yesterday?"
+          }
+        ]
+      },
+      {
+        "id": "fear-fovamai",
+        "lemma": "φοβάμαι",
+        "english": "fear / be afraid",
+        "sentences": [
+          {
+            "greek": "Φοβάμαι να ζω χωρίς εσένα.",
+            "english": "I am afraid to live without you."
+          },
+          {
+            "greek": "Ο αδερφός μου φοβάται τους σκύλους.",
+            "english": "My brother is afraid of dogs."
+          }
+        ]
+      }
+    ],
+    "14": [
+      {
+        "id": "sit-kathomai",
+        "lemma": "κάθομαι",
+        "english": "sit",
+        "sentences": [
+          {
+            "greek": "Πού κάθεσαι;",
+            "english": "Where are you sitting?"
+          },
+          {
+            "greek": "Το παιδί δεν κάθεται.",
+            "english": "The child does not sit."
+          },
+          {
+            "greek": "Το αγόρι κάθεται.",
+            "english": "The boy sits."
+          },
+          {
+            "greek": "Καθόμαστε κοιτάζοντας τον κήπο.",
+            "english": "We sit looking at the garden."
+          },
+          {
+            "greek": "Κάθεται στο δωμάτιό του.",
+            "english": "He sits in his room."
+          },
+          {
+            "greek": "Ο Νίκος κάθεται σε ένα παγκάκι.",
+            "english": "Nikos sits on a bench."
+          }
+        ]
+      },
+      {
+        "id": "like-aresei",
+        "lemma": "αρέσει",
+        "english": "like",
+        "sentences": [
+          {
+            "greek": "Του αρέσει η δουλειά του.",
+            "english": "He likes his job."
+          },
+          {
+            "greek": "Δεν της αρέσει η μαύρη πολυθρόνα.",
+            "english": "She doesn’t like the black armchair."
+          },
+          {
+            "greek": "Της αρέσει η παραλία.",
+            "english": "She likes the beach."
+          },
+          {
+            "greek": "Δε μου αρέσει να πηγαίνω στο γυμναστήριο.",
+            "english": "I don’t like going to the gym."
+          },
+          {
+            "greek": "Μου αρέσει το χρώμα εκείνου του ζώου.",
+            "english": "I like the color of that animal."
+          },
+          {
+            "greek": "Σου αρέσει να δουλεύεις;",
+            "english": "Do you like to work?"
+          },
+          {
+            "greek": "Τους αρέσει η πορτοκαλί πολυθρόνα.",
+            "english": "They like the orange armchair."
+          },
+          {
+            "greek": "Δε μου αρέσουν οι γάμοι",
+            "english": "I don't like weddings."
+          },
+          {
+            "greek": "Μου αρέσει η λιακάδα.",
+            "english": "I like the sunshine."
+          },
+          {
+            "greek": "Τι του αρέσει να κάνει;",
+            "english": "What does he like to do?"
+          },
+          {
+            "greek": "Του αρέσει να κοιμάται.",
+            "english": "He likes to sleep."
+          },
+          {
+            "greek": "Του αρέσει να πηγαίνει στον κινηματογράφο.",
+            "english": "He likes to go to the cinema."
+          },
+          {
+            "greek": "Τι άλλο του αρέσει να κάνει;",
+            "english": "What else does he like to do?"
+          },
+          {
+            "greek": "Του αρέσει να διαβάζει βιβλία;",
+            "english": "Does he like to read books?"
+          },
+          {
+            "greek": "Του αρέσει να παίζει ποδόσφαιρο.",
+            "english": "He likes to play football."
+          },
+          {
+            "greek": "Δεν του αρέσει να παίζει ποδόσφαιρο.",
+            "english": "He does not like to play football."
+          },
+          {
+            "greek": "Σε ποιον αρέσει να κοιμάται; Σε κανέναν!",
+            "english": "Who likes to sleep? Nobody!"
+          },
+          {
+            "greek": "Του αρέσει η ηρεμία της στιγμής.",
+            "english": "He likes the peace of the moment."
+          }
+        ]
+      },
+      {
+        "id": "care-noiazo",
+        "lemma": "νοιάζει",
+        "english": "care",
+        "sentences": [
+          {
+            "greek": "Με νοιάζει πολύ.",
+            "english": "I care a lot."
+          },
+          {
+            "greek": "Δεν τους νοιάζει πολύ.",
+            "english": "They do not care much."
+          },
+          {
+            "greek": "Προσωπικά, δε με νοιάζει καθόλου.",
+            "english": "Personally, I do not care at all."
+          },
+          {
+            "greek": "Δε με νοιάζει το κάποτε, με νοιάζει το τώρα.",
+            "english": "I do not care about the past; I care about the present."
+          },
+          {
+            "greek": "Αυτό είναι το πρωτίστο πράγμα που τη νοιάζει!",
+            "english": "That is the foremost thing she cares about!"
+          }
+        ]
+      },
+      {
+        "id": "bother-peirazei",
+        "lemma": "πειράζει",
+        "english": "bother",
+        "sentences": [
+          {
+            "greek": "Δεν τον πειράζει.",
+            "english": "It does not bother him."
+          },
+          {
+            "greek": "Όχι, δε με πειράζει καθόλου.",
+            "english": "No, it doesn’t bother me at all."
+          },
+          {
+            "greek": "Δε σε πειράζει;",
+            "english": "Doesn’t it bother you?"
+          }
+        ]
+      }
+    ],
+    "15": [
+      {
+        "id": "dream-oneirevomai",
+        "lemma": "ονειρεύομαι",
+        "english": "dream",
+        "sentences": [
+          {
+            "greek": "Τα παιδιά ονειρεύονται.",
+            "english": "The children dream."
+          },
+          {
+            "greek": "Το αγόρι ονειρεύεται.",
+            "english": "The boy dreams."
+          }
+        ]
+      },
+      {
+        "id": "bebored-variemai",
+        "lemma": "βαριέμαι",
+        "english": "be bored",
+        "sentences": [
+          {
+            "greek": "Βαριέμαι.",
+            "english": "I am bored."
+          },
+          {
+            "greek": "Γιατί βαριέσαι;",
+            "english": "Why are you bored?"
+          },
+          {
+            "greek": "Βαριέμαι τις περιπέτειες!",
+            "english": "I am bored with adventures!"
+          }
+        ]
+      },
+      {
+        "id": "imagine-fantazomai",
+        "lemma": "φαντάζομαι",
+        "english": "imagine",
+        "sentences": [
+          {
+            "greek": "Πώς φαντάζεσαι τον εαυτό σου σε είκοσι χρόνια;",
+            "english": "How do you imagine yourself in twenty years?"
+          },
+          {
+            "greek": "Αυτός φαντάζεται ότι είναι διάσημος.",
+            "english": "He imagines that he is famous."
+          },
+          {
+            "greek": "Φαντάζομαι ότι είμαι μία πεταλούδα.",
+            "english": "I imagine that I am a butterfly."
+          }
+        ]
+      },
+      {
+        "id": "think-skeftomai",
+        "lemma": "σκέφτομαι",
+        "english": "think",
+        "sentences": [
+          {
+            "greek": "Αυτός τη σκέφτεται κάθε ώρα και στιγμή.",
+            "english": "He thinks about her all the time."
+          },
+          {
+            "greek": "Τι σκέφτεσαι να κάνεις;",
+            "english": "What are you thinking of doing?"
+          },
+          {
+            "greek": "Σκέφτομαι, άρα υπάρχω.",
+            "english": "I think, therefore I am."
+          },
+          {
+            "greek": "Τι σκέφτεσαι για τη νέα σου δουλειά;",
+            "english": "What do you think about your new job?"
+          },
+          {
+            "greek": "Οι καλλιτέχνες σκέφτονται δημιουργικά.",
+            "english": "Artists think creatively."
+          },
+          {
+            "greek": "Ο Νίκος σκέφτεται να αγοράσει κάτι.",
+            "english": "Nikos thinks about buying something."
+          },
+          {
+            "greek": "Σκέφτεται πόσο όμορφη είναι η πόλη του.",
+            "english": "He thinks how beautiful his city is."
+          },
+          {
+            "greek": "Σκέφτεται να μείνει κι άλλο.",
+            "english": "He thinks about staying longer."
+          },
+          {
+            "greek": "Σκέφτεται την πόλη του.",
+            "english": "He thinks about his city."
+          },
+          {
+            "greek": "Περπατά προς το σπίτι και σκέφτεται τη μέρα του.",
+            "english": "He walks toward home and thinks about his day."
+          }
+        ]
+      },
+      {
+        "id": "remember-thymamai",
+        "lemma": "θυμάμαι",
+        "english": "remember",
+        "sentences": [
+          {
+            "greek": "Θυμάστε το φόρεμά της;",
+            "english": "Do you remember her dress?"
+          },
+          {
+            "greek": "Θυμάσαι το αγόρι;",
+            "english": "Do you remember the boy?"
+          },
+          {
+            "greek": "Ναι, θυμάμαι.",
+            "english": "Yes, I remember."
+          },
+          {
+            "greek": "Τι θυμάσαι;",
+            "english": "What do you remember?"
+          }
+        ]
+      },
+      {
+        "id": "sleep-koimamai",
+        "lemma": "κοιμάμαι",
+        "english": "sleep",
+        "sentences": [
+          {
+            "greek": "Η γυναίκα κοιμάται το πρωί.",
+            "english": "The woman sleeps in the morning."
+          },
+          {
+            "greek": "Του αρέσει να κοιμάται.",
+            "english": "He likes to sleep."
+          },
+          {
+            "greek": "Είναι πολύ κουρασμένος και κοιμάται.",
+            "english": "He is very tired and sleeping."
+          }
+        ]
+      },
+      {
+        "id": "rest-xekourazomai",
+        "lemma": "ξεκουράζομαι",
+        "english": "rest",
+        "sentences": [
+          {
+            "greek": "Γιατί δεν ξεκουράζεστε;",
+            "english": "Why don’t you rest?"
+          },
+          {
+            "greek": "Γιατί δεν ξεκουραζόμαστε;",
+            "english": "Why don’t we rest?"
+          },
+          {
+            "greek": "Φυσικά ξεκουράζομαι τα Σάββατα.",
+            "english": "Of course I rest on Saturdays."
+          },
+          {
+            "greek": "Ξεκουράζεται λίγο και κοιτάζει γύρω.",
+            "english": "He rests a little and looks around."
+          }
+        ]
+      },
+      {
+        "id": "wakeup-xypnao",
+        "lemma": "ξυπνάω",
+        "english": "wake up",
+        "sentences": [
+          {
+            "greek": "Ο Νίκος ξυπνάει νωρίς.",
+            "english": "Nikos wakes up early."
+          },
+          {
+            "greek": "Η πόλη ξυπνάει σιγά σιγά.",
+            "english": "The city wakes up little by little."
+          }
+        ]
+      },
+      {
+        "id": "smile-hamogelao",
+        "lemma": "χαμογελάω",
+        "english": "smile",
+        "sentences": [
+          {
+            "greek": "Κλείνει τα μάτια και χαμογελάει.",
+            "english": "He closes his eyes and smiles."
+          },
+          {
+            "greek": "Ο Νίκος χαμογελάει.",
+            "english": "Nikos smiles."
+          },
+          {
+            "greek": "Ο Δημήτρης χαμογελά ευχαριστημένος.",
+            "english": "Dimitris smiles happily."
+          }
+        ]
+      },
+      {
+        "id": "besorry-lypamai",
+        "lemma": "λυπάμαι",
+        "english": "be sorry / feel sad",
+        "sentences": [
+          {
+            "greek": "Λυπάμαι πολύ.",
+            "english": "I am very sorry."
+          },
+          {
+            "greek": "Δε με λυπάσαι καθόλου;",
+            "english": "Don’t you feel sorry for me at all?"
+          }
+        ]
+      },
+      {
+        "id": "getangry-thymono",
+        "lemma": "θυμώνω",
+        "english": "get angry",
+        "sentences": [
+          {
+            "greek": "Μη θυμώνεις!",
+            "english": "Don’t get angry!"
+          },
+          {
+            "greek": "Νιώθω ενοχές επειδή θύμωσε.",
+            "english": "I feel guilty because he got angry."
+          }
+        ]
+      },
+      {
+        "id": "feel-aisthanomai",
+        "lemma": "αισθάνομαι",
+        "english": "feel",
+        "sentences": [
+          {
+            "greek": "Αισθάνομαι τον έρωτα!",
+            "english": "I feel love!"
+          },
+          {
+            "greek": "Το αισθάνεσαι;",
+            "english": "Do you feel it?"
+          },
+          {
+            "greek": "Αισθάνεσαι ποτέ τύψεις;",
+            "english": "Do you ever feel remorse?"
+          },
+          {
+            "greek": "Αισθάνεται ευγνωμοσύνη.",
+            "english": "He feels gratitude."
+          },
+          {
+            "greek": "Πώς αισθάνεσαι;",
+            "english": "How do you feel?"
+          }
+        ]
+      }
+    ],
+    "16": [
+      {
+        "id": "payattention-prosecho",
+        "lemma": "προσέχω",
+        "english": "pay attention",
+        "sentences": [
+          {
+            "greek": "Αυτή προσέχει παιδιά.",
+            "english": "She takes care of children."
+          },
+          {
+            "greek": "Προσέχεις τι σου λέω;",
+            "english": "Do you pay attention to what I say?"
+          },
+          {
+            "greek": "Οι μαθητές δεν προσέχουν.",
+            "english": "The students don’t pay attention."
+          },
+          {
+            "greek": "Θέλω να προσέξετε ενώ κατεβαίνετε τη σκάλα!",
+            "english": "I want you to be careful while going down the stairs!"
+          }
+        ]
+      },
+      {
+        "id": "respect-sevomai",
+        "lemma": "σέβομαι",
+        "english": "respect",
+        "sentences": [
+          {
+            "greek": "Δε σέβεσαι κανέναν και τίποτα.",
+            "english": "You respect no one and nothing."
+          },
+          {
+            "greek": "Τους σεβόμαστε πολύ.",
+            "english": "We respect them a lot."
+          },
+          {
+            "greek": "Σέβομαι τον πατέρα μου.",
+            "english": "I respect my father."
+          }
+        ]
+      },
+      {
+        "id": "trust-empistevomai",
+        "lemma": "εμπιστεύομαι",
+        "english": "trust",
+        "sentences": [
+          {
+            "greek": "Δεν ξέρω γιατί δεν τον εμπιστεύονται.",
+            "english": "I don’t know why they don’t trust him."
+          },
+          {
+            "greek": "Εμπιστευόμαστε τα παιδιά μας.",
+            "english": "We trust our children."
+          },
+          {
+            "greek": "Γιατί τον εμπιστεύεστε;",
+            "english": "Why do you trust him?"
+          }
+        ]
+      },
+      {
+        "id": "accept-apodechomai",
+        "lemma": "αποδέχομαι",
+        "english": "accept",
+        "sentences": [
+          {
+            "greek": "Το αποδέχομαι και συνεχίζω.",
+            "english": "I accept it and continue."
+          },
+          {
+            "greek": "Όλοι τον αποδέχονται.",
+            "english": "Everyone accepts him."
+          }
+        ]
+      },
+      {
+        "id": "deny-arnoumai",
+        "lemma": "αρνούμαι",
+        "english": "deny",
+        "sentences": [
+          {
+            "greek": "Το αρνούμαστε.",
+            "english": "We deny it."
+          },
+          {
+            "greek": "Όχι, αρνούμαι!",
+            "english": "No, I refuse!"
+          },
+          {
+            "greek": "Γιατί αρνούνται;",
+            "english": "Why do they refuse?"
+          }
+        ]
+      },
+      {
+        "id": "promise-yposchomai",
+        "lemma": "υπόσχομαι",
+        "english": "promise",
+        "sentences": [
+          {
+            "greek": "Υποσχόμαστε να σας βοηθάμε!",
+            "english": "We promise to help you!"
+          }
+        ]
+      },
+      {
+        "id": "wish-efchomai",
+        "lemma": "εύχομαι",
+        "english": "wish",
+        "sentences": [
+          {
+            "greek": "Μου εύχεσαι καλό βράδυ.",
+            "english": "You wish me a good evening."
+          },
+          {
+            "greek": "Σου ευχόμαστε καληνύχτα.",
+            "english": "We wish you good night."
+          },
+          {
+            "greek": "Σου εύχομαι καλό καλοκαίρι!",
+            "english": "I wish you a good summer!"
+          },
+          {
+            "greek": "Σου εύχομαι τα καλύτερα.",
+            "english": "I wish you the best."
+          }
+        ]
+      },
+      {
+        "id": "need-chreiazomai",
+        "lemma": "χρειάζομαι",
+        "english": "need",
+        "sentences": [
+          {
+            "greek": "Σε χρειάζομαι.",
+            "english": "I need you."
+          },
+          {
+            "greek": "Χρειάζομαι τη διεύθυνση του σπιτιού της.",
+            "english": "I need the address of her house."
+          },
+          {
+            "greek": "Μια πόλη χρειάζεται περισσότερα πάρκα.",
+            "english": "A city needs more parks."
+          },
+          {
+            "greek": "Τι άλλο χρειαζόμαστε;",
+            "english": "What else do we need?"
+          },
+          {
+            "greek": "Χρειάζομαι τρεις καρέκλες.",
+            "english": "I need three chairs."
+          },
+          {
+            "greek": "Το ρολόι χρειάζεται μπαταρίες.",
+            "english": "The watch needs batteries."
+          },
+          {
+            "greek": "Τον χρειαζόμαστε άμεσα!",
+            "english": "We need him immediately!"
+          },
+          {
+            "greek": "Για ταξίδια μέσα στην Ευρώπη δε χρειάζεται διαβατήριο.",
+            "english": "For travel within Europe, a passport is not needed."
+          },
+          {
+            "greek": "Έχω τόσα όσα χρειάζομαι.",
+            "english": "I have as much as I need."
+          },
+          {
+            "greek": "Τα μωρά χρειάζονται αγάπη.",
+            "english": "Babies need love."
+          },
+          {
+            "greek": "Ένα μεγάλο αυτοκίνητο χρειάζεται πολλά καύσιμα.",
+            "english": "A large car needs a lot of fuel."
+          }
+        ]
+      }
+    ],
+    "17": [
       {
         "id": "exist-yparcho",
         "lemma": "υπάρχω",
@@ -3489,6 +4964,14 @@
           {
             "greek": "Υπάρχουν ωραιότατα σπίτια σε αυτή τη γειτονιά.",
             "english": "There are very beautiful houses in this neighborhood."
+          },
+          {
+            "greek": "Δίπλα στην καφετέρια υπάρχει φούρνος.",
+            "english": "Next to the café there is a bakery."
+          },
+          {
+            "greek": "Στη βιτρίνα υπάρχουν βιβλία.",
+            "english": "There are books in the shop window."
           }
         ]
       },
@@ -3504,80 +4987,41 @@
           {
             "greek": "Αυτά τα πράγματα δε συμβαίνουν.",
             "english": "These things do not happen."
+          },
+          {
+            "greek": "Αν συμβεί κάτι είναι αυτοί υπεύθυνοι.",
+            "english": "If something happens, they are responsible."
           }
         ]
       },
       {
-        "id": "feel-niotho",
-        "lemma": "νιώθω",
-        "english": "feel",
+        "id": "seem-fainetai",
+        "lemma": "φαίνεται",
+        "english": "seem",
         "sentences": [
           {
-            "greek": "Τι νιώθεις;",
-            "english": "What do you feel?"
+            "greek": "Μου φαίνεται καλός.",
+            "english": "He seems good to me."
           },
           {
-            "greek": "Πώς νιώθουν αυτοί;",
-            "english": "How do they feel?"
+            "greek": "Αυτός δεν είναι όπως φαίνεται.",
+            "english": "He is not as he seems."
           },
           {
-            "greek": "Με βλέπει, το νιώθω.",
-            "english": "He sees me, I feel it."
+            "greek": "Ο Γιώργος φαίνεται κανονικός άνθρωπος.",
+            "english": "George seems like a normal person."
           },
           {
-            "greek": "Νιώθω όμορφα κάνοντας κάτι καλό.",
-            "english": "I feel good doing something good."
+            "greek": "Δεν φαίνεται παράξενος άνθρωπος.",
+            "english": "He does not seem like a strange person."
           },
           {
-            "greek": "Νιώθουμε άσχημα επειδή ήρθαμε αργά.",
-            "english": "We feel bad because we arrived late."
+            "greek": "Κάτι μου φαίνεται οικείο.",
+            "english": "Something seems familiar to me."
           },
           {
-            "greek": "Ειλικρινά, νιώθω απαίσια!",
-            "english": "Honestly, I feel terrible!"
-          },
-          {
-            "greek": "Νιώθω τέλεια.",
-            "english": "I feel perfect."
-          },
-          {
-            "greek": "Δε νιώθω ποτέ άγχος.",
-            "english": "I never feel stress."
-          },
-          {
-            "greek": "Νιώθω ενοχές επειδή θύμωσε.",
-            "english": "I feel guilty because he got angry."
-          },
-          {
-            "greek": "Θα έπρεπε να νιώθεις περήφανος.",
-            "english": "You should feel proud."
-          },
-          {
-            "greek": "Όταν χάνω σε ένα παιχνίδι νιώθω απογοήτευση.",
-            "english": "When I lose in a game, I feel disappointment."
-          },
-          {
-            "greek": "Μη νιώθεις απογοήτευση, συνέχισε να προσπαθείς.",
-            "english": "Don’t feel disappointment; keep trying."
-          },
-          {
-            "greek": "Νιώθω αηδιασμένος με αυτά που ακούω.",
-            "english": "I feel disgusted by what I hear."
-          },
-          {
-            "greek": "Εσείς δε νιώθετε οργή;",
-            "english": "Don’t you feel anger?"
-          }
-        ]
-      },
-      {
-        "id": "win-kerdizo",
-        "lemma": "κερδίζω",
-        "english": "win",
-        "sentences": [
-          {
-            "greek": "Αυτές κερδίζουν στο παιχνίδι.",
-            "english": "They (feminine) win in the game."
+            "greek": "Αυτή φαίνεται νεότερη από την ηλικία της!",
+            "english": "She seems younger than her age!"
           }
         ]
       },
@@ -3617,244 +5061,10 @@
           {
             "greek": "Δε ζω χωρίς αγάπη.",
             "english": "I don’t live without love."
-          }
-        ]
-      }
-    ],
-    "13": [
-      {
-        "id": "beg-parakalo",
-        "lemma": "παρακαλώ",
-        "english": "beg",
-        "sentences": [
-          {
-            "greek": "Το παιδί παρακαλεί για ένα παγωτό.",
-            "english": "The child begs for an ice cream."
           },
           {
-            "greek": "Αυτές παρακαλούν τον άντρα.",
-            "english": "They (feminine) beg the man."
-          }
-        ]
-      },
-      {
-        "id": "call-kalo",
-        "lemma": "καλώ",
-        "english": "call",
-        "sentences": [
-          {
-            "greek": "Εμείς καλούμε αυτό το νούμερο.",
-            "english": "We call this number."
-          },
-          {
-            "greek": "Ποιον καλείς;",
-            "english": "Who are you calling?"
-          },
-          {
-            "greek": "Εσείς καλείτε.",
-            "english": "You (plural) call."
-          }
-        ]
-      },
-      {
-        "id": "introduce-systino",
-        "lemma": "συστήνω",
-        "english": "recommend, introduce",
-        "sentences": [
-          {
-            "greek": "Γιατί δε με συστήνεις στην οικογένειά σου;",
-            "english": "Why don’t you introduce me to your family?"
-          },
-          {
-            "greek": "Αυτή μου συστήνει τους γονείς της.",
-            "english": "She introduces me to her parents."
-          },
-          {
-            "greek": "Μας συστήνουν ένα καλό βιβλίο.",
-            "english": "They recommend to us a good book."
-          },
-          {
-            "greek": "Αυτός με συστήνει στους φίλους του.",
-            "english": "He introduces me to his friends."
-          }
-        ]
-      },
-      {
-        "id": "sign-ypografo",
-        "lemma": "υπογράφω",
-        "english": "sign",
-        "sentences": [
-          {
-            "greek": "Ποιος υπογράφει το γράμμα;",
-            "english": "Who signs the letter?"
-          },
-          {
-            "greek": "Δεν το υπογράφουν αν δεν τους αρέσει.",
-            "english": "They don’t sign it if they don’t like it."
-          }
-        ]
-      }
-    ],
-    "14": [
-      {
-        "id": "rest-xekourazomai",
-        "lemma": "ξεκουράζομαι",
-        "english": "rest",
-        "sentences": [
-          {
-            "greek": "Γιατί δεν ξεκουράζεστε;",
-            "english": "Why don’t you rest?"
-          },
-          {
-            "greek": "Γιατί δεν ξεκουραζόμαστε;",
-            "english": "Why don’t we rest?"
-          },
-          {
-            "greek": "Φυσικά ξεκουράζομαι τα Σάββατα.",
-            "english": "Of course I rest on Saturdays."
-          }
-        ]
-      },
-      {
-        "id": "sleep-koimamai",
-        "lemma": "κοιμάμαι",
-        "english": "sleep",
-        "sentences": [
-          {
-            "greek": "Η γυναίκα κοιμάται το πρωί.",
-            "english": "The woman sleeps in the morning."
-          },
-          {
-            "greek": "Του αρέσει να κοιμάται.",
-            "english": "He likes to sleep."
-          },
-          {
-            "greek": "Είναι πολύ κουρασμένος και κοιμάται.",
-            "english": "He is very tired and sleeping."
-          }
-        ]
-      },
-      {
-        "id": "need-chreiazomai",
-        "lemma": "χρειάζομαι",
-        "english": "need",
-        "sentences": [
-          {
-            "greek": "Σε χρειάζομαι.",
-            "english": "I need you."
-          },
-          {
-            "greek": "Χρειάζομαι τη διεύθυνση του σπιτιού της.",
-            "english": "I need the address of her house."
-          },
-          {
-            "greek": "Μια πόλη χρειάζεται περισσότερα πάρκα.",
-            "english": "A city needs more parks."
-          },
-          {
-            "greek": "Τι άλλο χρειαζόμαστε;",
-            "english": "What else do we need?"
-          },
-          {
-            "greek": "Χρειάζομαι τρεις καρέκλες.",
-            "english": "I need three chairs."
-          },
-          {
-            "greek": "Το ρολόι χρειάζεται μπαταρίες.",
-            "english": "The watch needs batteries."
-          },
-          {
-            "greek": "Τον χρειαζόμαστε άμεσα!",
-            "english": "We need him immediately!"
-          },
-          {
-            "greek": "Για ταξίδια μέσα στην Ευρώπη δε χρειάζεται διαβατήριο.",
-            "english": "For travel within Europe, a passport is not needed."
-          },
-          {
-            "greek": "Έχω τόσα όσα χρειάζομαι.",
-            "english": "I have as much as I need."
-          },
-          {
-            "greek": "Τα μωρά χρειάζονται αγάπη.",
-            "english": "Babies need love."
-          },
-          {
-            "greek": "Ένα μεγάλο αυτοκίνητο χρειάζεται πολλά καύσιμα.",
-            "english": "A large car needs a lot of fuel."
-          }
-        ]
-      },
-      {
-        "id": "come-erchomai",
-        "lemma": "έρχομαι",
-        "english": "come",
-        "sentences": [
-          {
-            "greek": "Ο χειμώνας έρχεται.",
-            "english": "Winter is coming."
-          },
-          {
-            "greek": "Έρχομαι σε λίγο!",
-            "english": "I am coming shortly!"
-          },
-          {
-            "greek": "Έρχονται ή όχι;",
-            "english": "Are they coming or not?"
-          },
-          {
-            "greek": "Έρχομαι αμέσως!",
-            "english": "I'm coming immediately!"
-          },
-          {
-            "greek": "Ερχόμαστε από τον Νότο.",
-            "english": "We come from the South."
-          }
-        ]
-      },
-      {
-        "id": "remember-thymamai",
-        "lemma": "θυμάμαι",
-        "english": "remember",
-        "sentences": [
-          {
-            "greek": "Θυμάστε το φόρεμά της;",
-            "english": "Do you remember her dress?"
-          },
-          {
-            "greek": "Θυμάσαι το αγόρι;",
-            "english": "Do you remember the boy?"
-          },
-          {
-            "greek": "Ναι, θυμάμαι.",
-            "english": "Yes, I remember."
-          },
-          {
-            "greek": "Τι θυμάσαι;",
-            "english": "What do you remember?"
-          }
-        ]
-      },
-      {
-        "id": "sit-kathomai",
-        "lemma": "κάθομαι",
-        "english": "sit",
-        "sentences": [
-          {
-            "greek": "Πού κάθεσαι;",
-            "english": "Where are you sitting?"
-          },
-          {
-            "greek": "Το παιδί δεν κάθεται.",
-            "english": "The child does not sit."
-          },
-          {
-            "greek": "Το αγόρι κάθεται.",
-            "english": "The boy sits."
-          },
-          {
-            "greek": "Καθόμαστε κοιτάζοντας τον κήπο.",
-            "english": "We sit looking at the garden."
+            "greek": "Ζει στην πόλη με την οικογένειά του.",
+            "english": "He lives in the city with his family."
           }
         ]
       },
@@ -3872,216 +5082,7 @@
             "english": "The girls become beautiful women."
           }
         ]
-      }
-    ],
-    "15": [
-      {
-        "id": "respect-sevomai",
-        "lemma": "σέβομαι",
-        "english": "respect",
-        "sentences": [
-          {
-            "greek": "Δε σέβεσαι κανέναν και τίποτα.",
-            "english": "You respect no one and nothing."
-          },
-          {
-            "greek": "Τους σεβόμαστε πολύ.",
-            "english": "We respect them a lot."
-          },
-          {
-            "greek": "Σέβομαι τον πατέρα μου.",
-            "english": "I respect my father."
-          }
-        ]
       },
-      {
-        "id": "dream-oneirevomai",
-        "lemma": "ονειρεύομαι",
-        "english": "dream",
-        "sentences": [
-          {
-            "greek": "Τα παιδιά ονειρεύονται.",
-            "english": "The children dream."
-          },
-          {
-            "greek": "Το αγόρι ονειρεύεται.",
-            "english": "The boy dreams."
-          }
-        ]
-      },
-      {
-        "id": "accept-apodechomai",
-        "lemma": "αποδέχομαι",
-        "english": "accept",
-        "sentences": [
-          {
-            "greek": "Το αποδέχομαι και συνεχίζω.",
-            "english": "I accept it and continue."
-          },
-          {
-            "greek": "Όλοι τον αποδέχονται.",
-            "english": "Everyone accepts him."
-          }
-        ]
-      },
-      {
-        "id": "visit-episkeptomai",
-        "lemma": "επισκέπτομαι",
-        "english": "visit",
-        "sentences": [
-          {
-            "greek": "Επισκεπτόμαστε τον γιατρό.",
-            "english": "We visit the doctor."
-          },
-          {
-            "greek": "Ποιον επισκέπτεσαι;",
-            "english": "Whom do you visit?"
-          },
-          {
-            "greek": "Τα εγγόνια επισκέπτονται τους ηλικιωμένους παππούδες τους.",
-            "english": "The grandchildren visit their elderly grandfathers."
-          }
-        ]
-      },
-      {
-        "id": "bebored-variemai",
-        "lemma": "βαριέμαι",
-        "english": "be bored",
-        "sentences": [
-          {
-            "greek": "Βαριέμαι.",
-            "english": "I am bored."
-          },
-          {
-            "greek": "Γιατί βαριέσαι;",
-            "english": "Why are you bored?"
-          },
-          {
-            "greek": "Βαριέμαι τις περιπέτειες!",
-            "english": "I am bored with adventures!"
-          }
-        ]
-      },
-      {
-        "id": "imagine-fantazomai",
-        "lemma": "φαντάζομαι",
-        "english": "imagine",
-        "sentences": [
-          {
-            "greek": "Πώς φαντάζεσαι τον εαυτό σου σε είκοσι χρόνια;",
-            "english": "How do you imagine yourself in twenty years?"
-          },
-          {
-            "greek": "Αυτός φαντάζεται ότι είναι διάσημος.",
-            "english": "He imagines that he is famous."
-          },
-          {
-            "greek": "Φαντάζομαι ότι είμαι μία πεταλούδα.",
-            "english": "I imagine that I am a butterfly."
-          }
-        ]
-      },
-      {
-        "id": "promise-yposchomai",
-        "lemma": "υπόσχομαι",
-        "english": "promise",
-        "sentences": [
-          {
-            "greek": "Υποσχόμαστε να σας βοηθάμε!",
-            "english": "We promise to help you!"
-          }
-        ]
-      },
-      {
-        "id": "wish-efchomai",
-        "lemma": "εύχομαι",
-        "english": "wish",
-        "sentences": [
-          {
-            "greek": "Μου εύχεσαι καλό βράδυ.",
-            "english": "You wish me a good evening."
-          },
-          {
-            "greek": "Σου ευχόμαστε καληνύχτα.",
-            "english": "We wish you good night."
-          },
-          {
-            "greek": "Σου εύχομαι καλό καλοκαίρι!",
-            "english": "I wish you a good summer!"
-          },
-          {
-            "greek": "Σου εύχομαι τα καλύτερα.",
-            "english": "I wish you the best."
-          }
-        ]
-      },
-      {
-        "id": "deny-arnoumai",
-        "lemma": "αρνούμαι",
-        "english": "deny",
-        "sentences": [
-          {
-            "greek": "Το αρνούμαστε.",
-            "english": "We deny it."
-          },
-          {
-            "greek": "Όχι, αρνούμαι!",
-            "english": "No, I refuse!"
-          },
-          {
-            "greek": "Γιατί αρνούνται;",
-            "english": "Why do they refuse?"
-          }
-        ]
-      },
-      {
-        "id": "think-skeftomai",
-        "lemma": "σκέφτομαι",
-        "english": "think",
-        "sentences": [
-          {
-            "greek": "Αυτός τη σκέφτεται κάθε ώρα και στιγμή.",
-            "english": "He thinks about her all the time."
-          },
-          {
-            "greek": "Τι σκέφτεσαι να κάνεις;",
-            "english": "What are you thinking of doing?"
-          },
-          {
-            "greek": "Σκέφτομαι, άρα υπάρχω.",
-            "english": "I think, therefore I am."
-          },
-          {
-            "greek": "Τι σκέφτεσαι για τη νέα σου δουλειά;",
-            "english": "What do you think about your new job?"
-          },
-          {
-            "greek": "Οι καλλιτέχνες σκέφτονται δημιουργικά.",
-            "english": "Artists think creatively."
-          }
-        ]
-      },
-      {
-        "id": "trust-empistevomai",
-        "lemma": "εμπιστεύομαι",
-        "english": "trust",
-        "sentences": [
-          {
-            "greek": "Δεν ξέρω γιατί δεν τον εμπιστεύονται.",
-            "english": "I don’t know why they don’t trust him."
-          },
-          {
-            "greek": "Εμπιστευόμαστε τα παιδιά μας.",
-            "english": "We trust our children."
-          },
-          {
-            "greek": "Γιατί τον εμπιστεύεστε;",
-            "english": "Why do you trust him?"
-          }
-        ]
-      }
-    ],
-    "16": [
       {
         "id": "belong-aniko",
         "lemma": "ανήκω",
@@ -4133,36 +5134,170 @@
         ]
       },
       {
-        "id": "takecare-prosecho",
-        "lemma": "προσέχω",
-        "english": "pay attention",
+        "id": "miss-leipei",
+        "lemma": "λείπει",
+        "english": "miss / be missing",
         "sentences": [
           {
-            "greek": "Αυτή προσέχει παιδιά.",
-            "english": "She takes care of children."
+            "greek": "Μου λείπει η οικογένειά μου όταν ταξιδεύω.",
+            "english": "I miss my family when I travel."
           },
           {
-            "greek": "Προσέχεις τι σου λέω;",
-            "english": "Do you pay attention to what I say?"
-          },
-          {
-            "greek": "Οι μαθητές δεν προσέχουν.",
-            "english": "The students don’t pay attention."
+            "greek": "Αυτός είναι θλιμμένος γιατί του λείπει η αδερφή του.",
+            "english": "He is sad because he misses his sister."
           }
         ]
       },
       {
-        "id": "preserve-diatiro",
-        "lemma": "διατηρώ",
-        "english": "preserve",
+        "id": "depend-exartomai",
+        "lemma": "εξαρτώμαι",
+        "english": "depend",
         "sentences": [
           {
-            "greek": "Πώς διατηρείς το φαγητό;",
-            "english": "How do you preserve the food?"
+            "greek": "Η απάντησή μου εξαρτάται από την ερώτησή σου.",
+            "english": "My answer depends on your question."
+          }
+        ]
+      }
+    ],
+    "18": [
+      {
+        "id": "forbid-apagorevo",
+        "lemma": "απαγορεύω",
+        "english": "forbid",
+        "sentences": [
+          {
+            "greek": "Γιατί το απαγορεύεις;",
+            "english": "Why do you forbid it?"
           },
           {
-            "greek": "Το διατηρούν καθαρό.",
-            "english": "They keep it clean."
+            "greek": "Απαγορεύονται τα ποδήλατα μέσα στα λεωφορεία.",
+            "english": "Bicycles are forbidden inside buses."
+          }
+        ]
+      },
+      {
+        "id": "order-parangelno",
+        "lemma": "παραγγέλνω",
+        "english": "order",
+        "sentences": [
+          {
+            "greek": "Εμείς παραγγέλνουμε φαγητό.",
+            "english": "We order food."
+          },
+          {
+            "greek": "Αυτός παραγγέλνει βιβλία.",
+            "english": "He orders books."
+          }
+        ]
+      },
+      {
+        "id": "send-stelno",
+        "lemma": "στέλνω",
+        "english": "send",
+        "sentences": [
+          {
+            "greek": "Αυτός το στέλνει.",
+            "english": "He sends it."
+          },
+          {
+            "greek": "Τα στέλνεις ή τα πηγαίνεις;",
+            "english": "Do you send them or take them?"
+          },
+          {
+            "greek": "Εγώ το στέλνω.",
+            "english": "I send it."
+          },
+          {
+            "greek": "Στείλ’ το μου σε λίγο.",
+            "english": "Send it to me in a little while."
+          }
+        ]
+      },
+      {
+        "id": "deliver-paradido",
+        "lemma": "παραδίδω",
+        "english": "deliver",
+        "sentences": [
+          {
+            "greek": "Αυτοί παραδίδουν τα πράγματά τους.",
+            "english": "They deliver their things."
+          },
+          {
+            "greek": "Εσύ παραδίδεις κι εγώ παραλαμβάνω.",
+            "english": "You deliver and I receive."
+          }
+        ]
+      },
+      {
+        "id": "receive-paralamvano",
+        "lemma": "παραλαμβάνω",
+        "english": "receive",
+        "sentences": [
+          {
+            "greek": "Αυτός παραλαμβάνει το γράμμα.",
+            "english": "He receives the letter."
+          },
+          {
+            "greek": "Εσύ παραδίδεις κι εγώ παραλαμβάνω.",
+            "english": "You deliver and I receive."
+          },
+          {
+            "greek": "Αυτοί το παραλαμβάνουν;",
+            "english": "Do they receive it?"
+          },
+          {
+            "greek": "Εσείς παραλαμβάνετε τα κλειδιά.",
+            "english": "You receive the keys."
+          }
+        ]
+      },
+      {
+        "id": "present-parousiazo",
+        "lemma": "παρουσιάζω",
+        "english": "present",
+        "sentences": [
+          {
+            "greek": "Εμείς παρουσιάζουμε τη δουλειά μας.",
+            "english": "We present our work."
+          },
+          {
+            "greek": "Παρουσιάζουν το μενού.",
+            "english": "They present the menu."
+          }
+        ]
+      },
+      {
+        "id": "include-symperilamvano",
+        "lemma": "συμπεριλαμβάνω",
+        "english": "include",
+        "sentences": [
+          {
+            "greek": "Τι συμπεριλαμβάνει το μενού;",
+            "english": "What does the menu include?"
+          },
+          {
+            "greek": "Αυτοί συμπεριλαμβάνουν τα παιδιά τους στο γεύμα.",
+            "english": "They include their children in the meal."
+          }
+        ]
+      },
+      {
+        "id": "offer-prosfero",
+        "lemma": "προσφέρω",
+        "english": "offer",
+        "sentences": [
+          {
+            "greek": "Προσφέρω νερό.",
+            "english": "I offer water."
+          },
+          {
+            "greek": "Μου προσφέρει καφέ.",
+            "english": "He is offering me coffee."
+          },
+          {
+            "greek": "Αυτοί προσφέρουν καφέ.",
+            "english": "They are offering coffee."
           }
         ]
       },
@@ -4182,6 +5317,68 @@
           {
             "greek": "Με σώζεις!",
             "english": "You save me!"
+          }
+        ]
+      },
+      {
+        "id": "repeat-epanalamvano",
+        "lemma": "επαναλαμβάνω",
+        "english": "repeat",
+        "sentences": [
+          {
+            "greek": "Μπορείς να επαναλάβεις;",
+            "english": "Can you repeat?"
+          }
+        ]
+      }
+    ],
+    "19": [
+      {
+        "id": "recognize-anagnorizo",
+        "lemma": "αναγνωρίζω",
+        "english": "recognize",
+        "sentences": [
+          {
+            "greek": "Αυτός αναγνωρίζει την αδελφή του.",
+            "english": "He recognizes his sister."
+          },
+          {
+            "greek": "Δεν τον αναγνωρίζω.",
+            "english": "I do not recognize him."
+          },
+          {
+            "greek": "Αναγνωρίζουμε τη δουλειά της.",
+            "english": "We recognize her work."
+          }
+        ]
+      },
+      {
+        "id": "know-gnorizo",
+        "lemma": "γνωρίζω",
+        "english": "know",
+        "sentences": [
+          {
+            "greek": "Γνωρίζετε την απάντηση;",
+            "english": "Do you know the answer?"
+          },
+          {
+            "greek": "Πόσο καλά τον γνωρίζεις;",
+            "english": "How well do you know him?"
+          }
+        ]
+      },
+      {
+        "id": "preserve-diatiro",
+        "lemma": "διατηρώ",
+        "english": "preserve",
+        "sentences": [
+          {
+            "greek": "Πώς διατηρείς το φαγητό;",
+            "english": "How do you preserve the food?"
+          },
+          {
+            "greek": "Το διατηρούν καθαρό.",
+            "english": "They keep it clean."
           }
         ]
       },
@@ -4214,607 +5411,250 @@
             "english": "We search the house for the wallet."
           }
         ]
-      }
-    ],
-    "17": [
+      },
       {
-        "id": "head-katefthynomai",
-        "lemma": "κατευθύνομαι",
-        "english": "head",
+        "id": "decide-apofasizo",
+        "lemma": "αποφασίζω",
+        "english": "decide",
         "sentences": [
           {
-            "greek": "Κατευθυνθείτε ανατολικά.",
-            "english": "Head east."
+            "greek": "Αποφασίζει να βγει για βόλτα.",
+            "english": "He decides to go out for a walk."
           },
           {
-            "greek": "Κατευθυνόμαστε βόρεια.",
-            "english": "We are heading north."
+            "greek": "Αποφασίζει να γυρίσει σπίτι.",
+            "english": "He decides to return home."
           },
           {
-            "greek": "Κατευθύνομαι προς το σπίτι σου.",
-            "english": "I am heading toward your house."
+            "greek": "Ο Δημήτρης αποφασίζει να γυρίσει σπίτι.",
+            "english": "Dimitris decides to return home."
           },
           {
-            "greek": "Κατευθυνθείτε βορειοανατολικά.",
-            "english": "Head northeast."
-          },
-          {
-            "greek": "Πού κατευθύνεστε;",
-            "english": "Where are you heading?"
+            "greek": "Αποφασίζει να μη το αγοράσει.",
+            "english": "He decides not to buy it."
           }
         ]
       },
       {
-        "id": "turn-strivo",
-        "lemma": "στρίβω",
-        "english": "turn",
+        "id": "dislike-antipatho",
+        "lemma": "αντιπαθώ",
+        "english": "dislike",
         "sentences": [
           {
-            "greek": "Στρίψε νότια!",
-            "english": "Turn south!"
+            "greek": "Γιατί με αντιπαθείς τόσο πολύ;",
+            "english": "Why do you dislike me so much?"
           },
           {
-            "greek": "Στρίψτε εδώ.",
-            "english": "Turn here."
-          },
-          {
-            "greek": "Στρίβω εκεί.",
-            "english": "I turn there."
-          },
-          {
-            "greek": "Στρίψε το τιμόνι αριστερά!",
-            "english": "Turn the steering wheel left!"
-          },
-          {
-            "greek": "Στρίψε δεξιά μετά τη γέφυρα.",
-            "english": "Turn right after the bridge."
+            "greek": "Αυτούς τους αντιπαθώ αλλά σε λατρεύω.",
+            "english": "I dislike them, but I adore you."
           }
         ]
       },
       {
-        "id": "follow-akoloutho",
-        "lemma": "ακολουθώ",
-        "english": "follow",
+        "id": "disappoint-apogoitevo",
+        "lemma": "απογοητεύω",
+        "english": "disappoint",
         "sentences": [
           {
-            "greek": "Ακολουθώ την ευθεία.",
-            "english": "I follow the straight line."
+            "greek": "Ελπίζω να μη σας απογοητεύσω.",
+            "english": "I hope I don’t disappoint you."
           },
           {
-            "greek": "Ακολουθήστε τον!",
-            "english": "Follow him!"
-          },
-          {
-            "greek": "Ακολούθησε το μονοπάτι νοτιοανατολικά.",
-            "english": "Follow the path southeast."
-          },
-          {
-            "greek": "Το επιδόρπιο ακολούθησε το δείπνο.",
-            "english": "Dessert followed dinner."
-          },
-          {
-            "greek": "Ακολούθησέ με!",
-            "english": "Follow me!"
-          },
-          {
-            "greek": "Αυτοί ακολουθούν τους γονείς τους.",
-            "english": "They follow their parents."
+            "greek": "Δε θα με απογοητεύσουν.",
+            "english": "They will not disappoint me."
           }
         ]
       },
       {
-        "id": "be-vriskomai",
-        "lemma": "βρίσκομαι",
-        "english": "be located",
+        "id": "like-sympatho",
+        "lemma": "συμπαθώ",
+        "english": "like / be fond of",
         "sentences": [
           {
-            "greek": "Η Αίγυπτος βρίσκεται στην Αφρική.",
-            "english": "Egypt is located in Africa."
+            "greek": "Γιατί δε συμπαθείς την αδερφή μου;",
+            "english": "Why don't you like my sister?"
           },
           {
-            "greek": "Πού βρίσκεται η Ισπανία;",
-            "english": "Where is Spain located?"
+            "greek": "Δε συμπαθώ τους ανθρώπους.",
+            "english": "I don't like people."
           },
           {
-            "greek": "Η Ισπανία βρίσκεται δυτικά της Ελλάδας.",
-            "english": "Spain is west of Greece."
+            "greek": "Συμπαθούμε ο ένας τον άλλον.",
+            "english": "We like each other."
           },
           {
-            "greek": "Η Ρωσία βρίσκεται στον βορρά.",
-            "english": "Russia is in the north."
-          },
-          {
-            "greek": "Πού βρίσκονται οι ΗΠΑ;",
-            "english": "Where are the USA located?"
-          },
-          {
-            "greek": "Δεν ξέρω πού βρίσκομαι, μπορείς να με βοηθήσεις;",
-            "english": "I do not know where I am, can you help me?"
-          },
-          {
-            "greek": "Βρίσκομαι στη νότια κορυφή.",
-            "english": "I am located at the southern peak."
-          }
-        ]
-      },
-      {
-        "id": "travel-taxidevo",
-        "lemma": "ταξιδεύω",
-        "english": "travel",
-        "sentences": [
-          {
-            "greek": "Ποτέ δεν ταξιδεύει μόνη.",
-            "english": "She never travels alone."
-          },
-          {
-            "greek": "Ταξιδεύεις αρκετά;",
-            "english": "Do you travel a lot?"
-          },
-          {
-            "greek": "Δεν μπορείτε να ταξιδέψετε χωρίς διαβατήριο.",
-            "english": "You cannot travel without a passport."
-          },
-          {
-            "greek": "Μας αρέσει να ταξιδεύουμε με αεροπλάνο.",
-            "english": "We like to travel by airplane."
-          },
-          {
-            "greek": "Πρόσεχε τα φορτηγά όταν ταξιδεύεις με αυτοκίνητο.",
-            "english": "Watch out for trucks when you travel by car."
-          },
-          {
-            "greek": "Γιατί ταξιδεύεις με τρένο κι όχι με αυτοκίνητο;",
-            "english": "Why do you travel by train and not by car?"
-          }
-        ]
-      },
-      {
-        "id": "drive-odigo",
-        "lemma": "οδηγώ",
-        "english": "drive",
-        "sentences": [
-          {
-            "greek": "Όταν πίνετε, μην οδηγείτε.",
-            "english": "When you drink, do not drive."
-          },
-          {
-            "greek": "Οδηγώ στη δουλειά κάθε μέρα.",
-            "english": "I drive to work every day."
-          },
-          {
-            "greek": "Ξέρεις να οδηγείς;",
-            "english": "Do you know how to drive?"
-          },
-          {
-            "greek": "Αυτός οδηγεί πολύ προσεκτικά.",
-            "english": "He drives very carefully."
-          },
-          {
-            "greek": "Πόση ώρα πρέπει να οδηγούμε;",
-            "english": "How long must we drive?"
-          }
-        ]
-      }
-    ],
-    "18": [
-      {
-        "id": "know-gnorizo",
-        "lemma": "γνωρίζω",
-        "english": "know",
-        "sentences": [
-          {
-            "greek": "Γνωρίζετε την απάντηση;",
-            "english": "Do you know the answer?"
-          },
-          {
-            "greek": "Πόσο καλά τον γνωρίζεις;",
-            "english": "How well do you know him?"
-          }
-        ]
-      },
-      {
-        "id": "support-ypostirizo",
-        "lemma": "υποστηρίζω",
-        "english": "support",
-        "sentences": [
-          {
-            "greek": "Οι γονείς μου με υποστηρίζουν.",
-            "english": "My parents support me."
-          },
-          {
-            "greek": "Σας υποστηρίζω και το ξέρετε.",
-            "english": "I support you and you know it."
-          },
-          {
-            "greek": "Γιατί δεν τον υποστηρίζεις;",
-            "english": "Why don’t you support him?"
-          }
-        ]
-      },
-      {
-        "id": "recognize-anagnorizo",
-        "lemma": "αναγνωρίζω",
-        "english": "recognize",
-        "sentences": [
-          {
-            "greek": "Αυτός αναγνωρίζει την αδελφή του.",
-            "english": "He recognizes his sister."
-          },
-          {
-            "greek": "Δεν τον αναγνωρίζω.",
-            "english": "I do not recognize him."
-          },
-          {
-            "greek": "Αναγνωρίζουμε τη δουλειά της.",
-            "english": "We recognize her work."
-          }
-        ]
-      },
-      {
-        "id": "meet-synanto",
-        "lemma": "συναντώ",
-        "english": "meet",
-        "sentences": [
-          {
-            "greek": "Εγώ τον συναντώ στο σπίτι του.",
-            "english": "I meet him at his house."
-          },
-          {
-            "greek": "Αυτοί συναντούν τα αδέλφια τους.",
-            "english": "They meet their siblings."
-          },
-          {
-            "greek": "Όταν συναντώ ξένους αγχώνομαι.",
-            "english": "When I meet strangers, I get anxious."
-          }
-        ]
-      },
-      {
-        "id": "forbid-apagorevo",
-        "lemma": "απαγορεύω",
-        "english": "forbid",
-        "sentences": [
-          {
-            "greek": "Γιατί το απαγορεύεις;",
-            "english": "Why do you forbid it?"
-          },
-          {
-            "greek": "Απαγορεύονται τα ποδήλατα μέσα στα λεωφορεία.",
-            "english": "Bicycles are forbidden inside buses."
-          }
-        ]
-      }
-    ],
-    "19": [
-      {
-        "id": "like-aresei",
-        "lemma": "αρέσει",
-        "english": "like",
-        "sentences": [
-          {
-            "greek": "Του αρέσει η δουλειά του.",
-            "english": "He likes his job."
-          },
-          {
-            "greek": "Δεν της αρέσει η μαύρη πολυθρόνα.",
-            "english": "She doesn’t like the black armchair."
-          },
-          {
-            "greek": "Της αρέσει η παραλία.",
-            "english": "She likes the beach."
-          },
-          {
-            "greek": "Δε μου αρέσει να πηγαίνω στο γυμναστήριο.",
-            "english": "I don’t like going to the gym."
-          },
-          {
-            "greek": "Μου αρέσει το χρώμα εκείνου του ζώου.",
-            "english": "I like the color of that animal."
-          },
-          {
-            "greek": "Σου αρέσει να δουλεύεις;",
-            "english": "Do you like to work?"
-          },
-          {
-            "greek": "Τους αρέσει η πορτοκαλί πολυθρόνα.",
-            "english": "They like the orange armchair."
-          },
-          {
-            "greek": "Δε μου αρέσουν οι γάμοι",
-            "english": "I don't like weddings."
-          },
-          {
-            "greek": "Μου αρέσει η λιακάδα.",
-            "english": "I like the sunshine."
-          },
-          {
-            "greek": "Τι του αρέσει να κάνει;",
-            "english": "What does he like to do?"
-          },
-          {
-            "greek": "Του αρέσει να κοιμάται.",
-            "english": "He likes to sleep."
-          },
-          {
-            "greek": "Του αρέσει να πηγαίνει στον κινηματογράφο.",
-            "english": "He likes to go to the cinema."
-          },
-          {
-            "greek": "Τι άλλο του αρέσει να κάνει;",
-            "english": "What else does he like to do?"
-          },
-          {
-            "greek": "Του αρέσει να διαβάζει βιβλία;",
-            "english": "Does he like to read books?"
-          },
-          {
-            "greek": "Του αρέσει να παίζει ποδόσφαιρο.",
-            "english": "He likes to play football."
-          },
-          {
-            "greek": "Δεν του αρέσει να παίζει ποδόσφαιρο.",
-            "english": "He does not like to play football."
-          },
-          {
-            "greek": "Σε ποιον αρέσει να κοιμάται; Σε κανέναν!",
-            "english": "Who likes to sleep? Nobody!"
-          }
-        ]
-      },
-      {
-        "id": "care-noiazo",
-        "lemma": "νοιάζει",
-        "english": "care",
-        "sentences": [
-          {
-            "greek": "Με νοιάζει πολύ.",
-            "english": "I care a lot."
-          },
-          {
-            "greek": "Δεν τους νοιάζει πολύ.",
-            "english": "They do not care much."
-          },
-          {
-            "greek": "Προσωπικά, δε με νοιάζει καθόλου.",
-            "english": "Personally, I do not care at all."
-          },
-          {
-            "greek": "Δε με νοιάζει το κάποτε, με νοιάζει το τώρα.",
-            "english": "I do not care about the past; I care about the present."
-          },
-          {
-            "greek": "Αυτό είναι το πρωτίστο πράγμα που τη νοιάζει!",
-            "english": "That is the foremost thing she cares about!"
-          }
-        ]
-      },
-      {
-        "id": "bother-peirazei",
-        "lemma": "πειράζει",
-        "english": "bother",
-        "sentences": [
-          {
-            "greek": "Δεν τον πειράζει.",
-            "english": "It does not bother him."
-          },
-          {
-            "greek": "Όχι, δε με πειράζει καθόλου.",
-            "english": "No, it doesn’t bother me at all."
-          },
-          {
-            "greek": "Δε σε πειράζει;",
-            "english": "Doesn’t it bother you?"
-          }
-        ]
-      },
-      {
-        "id": "seem-fainetai",
-        "lemma": "φαίνεται",
-        "english": "seem",
-        "sentences": [
-          {
-            "greek": "Μου φαίνεται καλός.",
-            "english": "He seems good to me."
-          },
-          {
-            "greek": "Αυτός δεν είναι όπως φαίνεται.",
-            "english": "He is not as he seems."
-          },
-          {
-            "greek": "Ο Γιώργος φαίνεται κανονικός άνθρωπος.",
-            "english": "George seems like a normal person."
-          },
-          {
-            "greek": "Δεν φαίνεται παράξενος άνθρωπος.",
-            "english": "He does not seem like a strange person."
-          },
-          {
-            "greek": "Κάτι μου φαίνεται οικείο.",
-            "english": "Something seems familiar to me."
-          },
-          {
-            "greek": "Αυτή φαίνεται νεότερη από την ηλικία της!",
-            "english": "She seems younger than her age!"
-          }
-        ]
-      },
-      {
-        "id": "can-boro",
-        "lemma": "μπορώ",
-        "english": "can / be able",
-        "sentences": [
-          {
-            "greek": "Πώς μπορούμε να πάμε στα βόρεια διαμερίσματα;",
-            "english": "How can we go to the northern apartments?"
-          },
-          {
-            "greek": "Δεν μπορώ να βρω το μονοπάτι.",
-            "english": "I cannot find the path."
-          },
-          {
-            "greek": "Πώς μπορώ να πάω στο δυτικό κομμάτι της πόλης;",
-            "english": "How can I go to the western part of the city?"
-          },
-          {
-            "greek": "Δεν μπορώ να πηγαίνω με αυτήν.",
-            "english": "I cannot go with her."
-          },
-          {
-            "greek": "Αυτός δεν μπορεί να μας βοηθάει.",
-            "english": "He cannot help us."
-          },
-          {
-            "greek": "Πώς μπορείς να τον ακούς;",
-            "english": "How can you listen to him?"
-          },
-          {
-            "greek": "Δεν μπορώ να κόψω το μήλο με αυτό το μαχαίρι.",
-            "english": "I cannot cut the apple with this knife."
-          },
-          {
-            "greek": "Μπορώ να πάω εκεί αύριο.",
-            "english": "I can go there tomorrow."
-          },
-          {
-            "greek": "Μπορεί να βρέξει αύριο.",
-            "english": "It may rain tomorrow."
-          },
-          {
-            "greek": "Μπορείς να το αγοράσεις.",
-            "english": "You can buy it."
-          },
-          {
-            "greek": "Μπορώ να πάρω ένα μεγαλύτερο κομμάτι πίτα;",
-            "english": "Can I take a bigger piece of pie?"
-          }
-        ]
-      },
-      {
-        "id": "must-prepei",
-        "lemma": "πρέπει",
-        "english": "must / should",
-        "sentences": [
-          {
-            "greek": "Πρέπει να γράψει ένα γράμμα στον πατέρα του.",
-            "english": "He must write a letter to his father."
-          },
-          {
-            "greek": "Πρέπει να σεβόμαστε τους ηλικιωμένους.",
-            "english": "We must respect the elderly."
-          },
-          {
-            "greek": "Πρέπει να αγοράζουμε εφημερίδες.",
-            "english": "We must buy newspapers."
-          },
-          {
-            "greek": "Πρέπει να το κάνω άμεσα.",
-            "english": "I must do it immediately."
-          },
-          {
-            "greek": "Πρέπει να τρως αργά.",
-            "english": "You should eat slowly."
-          },
-          {
-            "greek": "Πόση ώρα πρέπει να οδηγούμε;",
-            "english": "How long must we drive?"
+            "greek": "Δε σε συμπαθούν.",
+            "english": "They do not like you."
           }
         ]
       }
     ],
     "20": [
       {
-        "id": "go-down-katevaino",
-        "lemma": "κατεβαίνω",
-        "english": "go down",
+        "id": "hide-krivomai",
+        "lemma": "κρύβομαι",
+        "english": "hide",
         "sentences": [
           {
-            "greek": "Αυτός κατεβαίνει τη σκάλα.",
-            "english": "He goes down the stairs."
+            "greek": "Κρύβεται από ντροπή ή ενοχές;",
+            "english": "Is he hiding because of shame or guilt?"
           },
           {
-            "greek": "Κατεβαίνω από το ταξί.",
-            "english": "I get out of the taxi."
-          },
-          {
-            "greek": "Αυτές κατεβαίνουν σε λίγο.",
-            "english": "They (fem.) are coming down soon."
+            "greek": "Η φοβισμένη γάτα κρύβεται κάτω από το αυτοκίνητο.",
+            "english": "The frightened cat is hiding under the car."
           }
         ]
       },
       {
-        "id": "go-up-anevaino",
-        "lemma": "ανεβαίνω",
-        "english": "go up",
+        "id": "getup-sikonome",
+        "lemma": "σηκώνομαι",
+        "english": "get up",
         "sentences": [
           {
-            "greek": "Εγώ ανεβαίνω κι εσύ κατεβαίνεις.",
-            "english": "I go up and you go down."
+            "greek": "Γιατί δε σηκώνεστε να περπατήσετε λίγο;",
+            "english": "Why don't you get up to walk a little?"
           },
           {
-            "greek": "Ανεβαίνουν τις σκάλες.",
-            "english": "They go up the stairs."
-          },
-          {
-            "greek": "Αυτή ανεβαίνει στην καρέκλα.",
-            "english": "She climbs onto the chair."
-          },
-          {
-            "greek": "Ανεβαίνεις στην κορυφή της Ακρόπολης.",
-            "english": "You go up to the top of the Acropolis."
+            "greek": "Σηκώνεται σιγά από το παγκάκι.",
+            "english": "He gets up slowly from the bench."
           }
         ]
       },
       {
-        "id": "enter-baino",
-        "lemma": "μπαίνω",
-        "english": "enter / go in",
+        "id": "bother-enohleo",
+        "lemma": "ενοχλώ",
+        "english": "bother",
         "sentences": [
           {
-            "greek": "Η γάτα μπαίνει στο κουτί.",
-            "english": "The cat goes into the box."
-          },
-          {
-            "greek": "Μπες στο μπροστινό κτίριο.",
-            "english": "Enter the front building."
-          },
-          {
-            "greek": "Εμείς μπαίνουμε κι εσείς βγαίνετε.",
-            "english": "We go in and you go out."
-          },
-          {
-            "greek": "Πώς μπαίνω μέσα;",
-            "english": "How do I get inside?"
-          },
-          {
-            "greek": "Μπείτε στο αυτοκίνητο τώρα.",
-            "english": "Get into the car now."
+            "greek": "Δεν τον ενοχλεί ο θόρυβος.",
+            "english": "The noise does not bother him."
           }
         ]
       },
       {
-        "id": "goout-vgaino",
-        "lemma": "βγαίνω",
-        "english": "go out",
+        "id": "scare-tromazo",
+        "lemma": "τρομάζω",
+        "english": "scare",
         "sentences": [
           {
-            "greek": "Βγαίνουμε έξω το Σάββατο.",
-            "english": "We go out on Saturday."
+            "greek": "Οι αράχνες τον τρομάζουν.",
+            "english": "Spiders frighten him."
+          }
+        ]
+      },
+      {
+        "id": "feeldizzy-zalizomai",
+        "lemma": "ζαλίζομαι",
+        "english": "feel dizzy",
+        "sentences": [
+          {
+            "greek": "Πρέπει να φάω κάτι γιατί ζαλίζομαι.",
+            "english": "I must eat something because I feel dizzy."
           },
           {
-            "greek": "Εμείς μπαίνουμε κι εσείς βγαίνετε.",
-            "english": "We go in and you go out."
+            "greek": "Αν ζαλίζεσαι, σταμάτα να χορεύεις.",
+            "english": "If you feel dizzy, stop dancing."
+          }
+        ]
+      },
+      {
+        "id": "hurt-ponao",
+        "lemma": "πονάω",
+        "english": "hurt",
+        "sentences": [
+          {
+            "greek": "Πού σε πονάει;",
+            "english": "Where does it hurt you?"
+          }
+        ]
+      },
+      {
+        "id": "wipe-skoupizo",
+        "lemma": "σκουπίζω",
+        "english": "wipe",
+        "sentences": [
+          {
+            "greek": "Ο Νίκος σκουπίζει λίγο ιδρώτα.",
+            "english": "Nikos wipes a little sweat."
+          }
+        ]
+      },
+      {
+        "id": "anger-exorgizo",
+        "lemma": "εξοργίζω",
+        "english": "anger / enrage",
+        "sentences": [
+          {
+            "greek": "Αυτοί οι άνθρωποι με εξοργίζουν.",
+            "english": "These people make me furious."
           },
           {
-            "greek": "Βγαίνω με τους κολλητούς μου κάθε μέρα.",
-            "english": "I go out with my close friends every day."
+            "greek": "Τον εξοργίζει όταν τον λυπούνται.",
+            "english": "It enrages him when people pity him."
+          }
+        ]
+      },
+      {
+        "id": "smell-myrizo",
+        "lemma": "μυρίζω",
+        "english": "smell",
+        "sentences": [
+          {
+            "greek": "Μυρίζει φρέσκο ψωμί και κουλούρια.",
+            "english": "He smells fresh bread and koulouria."
           },
           {
-            "greek": "Το λάδι βγαίνει από ελιές.",
-            "english": "Oil comes from olives."
+            "greek": "Ο Δημήτρης τη μυρίζει.",
+            "english": "Dimitris smells the oregano."
           },
           {
-            "greek": "Βγείτε από το όχημα.",
-            "english": "Get out of the vehicle."
+            "greek": "Η ρίγανη μυρίζει πολύ έντονα.",
+            "english": "The oregano smells very strong."
+          },
+          {
+            "greek": "Ο Δημήτρης μυρίζει ένα σαπούνι λεβάντας.",
+            "english": "Dimitris smells a lavender soap."
+          },
+          {
+            "greek": "Το φέτα μυρίζει πολύ ωραία.",
+            "english": "The feta smells very nice."
+          }
+        ]
+      },
+      {
+        "id": "shine-lampo",
+        "lemma": "λάμπω",
+        "english": "shine",
+        "sentences": [
+          {
+            "greek": "Ένα πρωί ο ήλιος λάμπει.",
+            "english": "One morning the sun shines."
+          },
+          {
+            "greek": "Το μέλι λάμπει στο ηλιακό φως.",
+            "english": "The honey shines in the sunlight."
+          }
+        ]
+      },
+      {
+        "id": "stand-stekomai",
+        "lemma": "στέκομαι",
+        "english": "stand",
+        "sentences": [
+          {
+            "greek": "Στέκεται μπροστά στην πόρτα.",
+            "english": "He stands in front of the door."
+          }
+        ]
+      },
+      {
+        "id": "watch-parakoloutho",
+        "lemma": "παρακολουθώ",
+        "english": "watch / observe",
+        "sentences": [
+          {
+            "greek": "Ο Νίκος τα παρακολουθεί ήσυχα.",
+            "english": "Nikos watches them quietly."
           }
         ]
       }
