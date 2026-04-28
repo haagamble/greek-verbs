@@ -1,6 +1,7 @@
 let verbsData;
 let currentLevel = 1;
 let streak = 0;
+let levelStreak = 0;
 let currentVerb;
 let currentSentenceIndex = 0;
 let remainingVerbsByLevel = {};
@@ -255,7 +256,8 @@ function checkAnswer(isCorrect, selectedOption) {
         result.textContent = 'Correct!';
         sentencePrompt.style.display = 'block';
         streak++;
-        if (streak >= 3) {
+        levelStreak++;
+        if (levelStreak >= 3) {
             // Level changes are applied on "Next question" so the user can finish the feedback flow first.
             pendingLevelChange = Math.min(currentLevel + 1, finalLevel);
             if (pendingLevelChange > currentLevel) {
@@ -268,6 +270,7 @@ function checkAnswer(isCorrect, selectedOption) {
         result.textContent = `The correct answer is: ${currentVerb.english}`;
         showSampleSentence();
         streak = 0;
+        levelStreak = 0;
         pendingLevelChange = loweredLevel;
         if (loweredLevel < currentLevel) {
             document.getElementById('next-question').textContent = `Back to Level ${loweredLevel}`;
@@ -328,7 +331,7 @@ document.getElementById('show-example').onclick = () => {
 };
 
 function prepareNextQuestion() {
-    // Applies any pending level changes, resets streaks on real level transitions, then generates the next question.
+    // Applies any pending level changes, resets the per-level streak on real level transitions, then generates the next question.
     if (speechSupported) {
         window.speechSynthesis.cancel();
     }
@@ -343,7 +346,7 @@ function prepareNextQuestion() {
         pendingLevelChange = null;
 
         if (currentLevel !== previousLevel) {
-            streak = 0;
+            levelStreak = 0;
             if (currentLevel > previousLevel) {
                 showLevelChangeBanner(`Level ${currentLevel} unlocked!`, 'level-up');
             } else {
