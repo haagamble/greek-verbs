@@ -16,6 +16,9 @@ let finalLevelCelebrationTimeout = null;
 let levelChangeBannerTimeout = null;
 let questionAnswered = false;
 
+const PROGRESS_STORAGE_KEY = 'greekVerbsQuizProgress';
+const PROGRESS_STORAGE_VERSION = 1;
+
 // Final-level review avoids repeating the same recently seen verbs too often.
 const FINAL_REVIEW_NO_REPEAT_COUNT = 20;
 
@@ -26,6 +29,93 @@ async function loadVerbs() {
     const response = await fetch('verbs.json');
     verbsData = await response.json();
     finalLevel = Math.max(...Object.keys(verbsData.levels).map(Number));
+}
+
+function clampNumber(value, min, max, fallback) {
+    const number = Number(value);
+
+    if (!Number.isFinite(number)) {
+        return fallback;
+    }
+
+    return Math.min(Math.max(Math.trunc(number), min), max);
+}
+
+function saveProgress() {
+    const savedLevel = pendingLevelChange !== null ? pendingLevelChange : currentLevel;
+    const levelWillChange = pendingLevelChange !== null && pendingLevelChange !== currentLevel;
+    const savedLevelStreak = levelWillChange ? 0 : levelStreak;
+    const savedFinalQuestionsCount = savedLevel === finalLevel ? finalLevelQuestionsCount : 0;
+    const savedReviewIds = savedLevel === finalLevel ? finalReviewRecentVerbIds.slice(-FINAL_REVIEW_NO_REPEAT_COUNT) : [];
+
+    try {
+        localStorage.setItem(PROGRESS_STORAGE_KEY, JSON.stringify({
+            version: PROGRESS_STORAGE_VERSION,
+            currentLevel: savedLevel,
+            streak,
+            levelStreak: savedLevelStreak,
+            finalLevelQuestionsCount: savedFinalQuestionsCount,
+            finalReviewRecentVerbIds: savedReviewIds,
+        }));
+    } catch (error) {
+        // Some browsers block storage in private mode; the quiz still works without persistence.
+    }
+}
+
+function loadProgress() {
+    let savedProgress;
+
+    try {
+        savedProgress = JSON.parse(localStorage.getItem(PROGRESS_STORAGE_KEY));
+    } catch (error) {
+        return;
+    }
+
+    if (!savedProgress || savedProgress.version !== PROGRESS_STORAGE_VERSION) {
+        return;
+    }
+
+    currentLevel = clampNumber(savedProgress.currentLevel, 1, finalLevel, 1);
+    streak = clampNumber(savedProgress.streak, 0, 999, 0);
+    levelStreak = clampNumber(savedProgress.levelStreak, 0, 2, 0);
+    finalLevelQuestionsCount = currentLevel === finalLevel
+        ? clampNumber(savedProgress.finalLevelQuestionsCount, 0, 3, 0)
+        : 0;
+    finalReviewRecentVerbIds = currentLevel === finalLevel && Array.isArray(savedProgress.finalReviewRecentVerbIds)
+        ? savedProgress.finalReviewRecentVerbIds.slice(-FINAL_REVIEW_NO_REPEAT_COUNT)
+        : [];
+    pendingLevelChange = null;
+}
+
+function resetProgress() {
+    if (!window.confirm('Reset saved progress and start over at Level 1?')) {
+        return;
+    }
+
+    if (speechSupported) {
+        window.speechSynthesis.cancel();
+    }
+
+    try {
+        localStorage.removeItem(PROGRESS_STORAGE_KEY);
+    } catch (error) {
+        // Ignore storage failures so the visible reset still works for this session.
+    }
+
+    currentLevel = 1;
+    streak = 0;
+    levelStreak = 0;
+    pendingLevelChange = null;
+    finalLevelQuestionsCount = 0;
+    finalReviewRecentVerbIds = [];
+    remainingVerbsByLevel = {};
+    currentSampleSentence = null;
+
+    document.getElementById('feedback').style.display = 'none';
+    document.getElementById('sentence-prompt').style.display = 'none';
+    document.getElementById('sample-sentence').style.display = 'none';
+    generateQuestion();
+    saveProgress();
 }
 
 function getWeightedFinalLevelPool() {
@@ -281,6 +371,7 @@ function checkAnswer(isCorrect, selectedOption) {
         }
     }
     document.getElementById('streak').textContent = streak;
+    saveProgress();
 }
 
 function showSampleSentence() {
@@ -370,6 +461,7 @@ function prepareNextQuestion() {
     document.getElementById('current-level').textContent = currentLevel;
     document.getElementById('streak').textContent = streak;
     generateQuestion();
+    saveProgress();
 }
 
 const newSentenceButton = document.getElementById('new-sentence');
@@ -409,6 +501,9 @@ document.getElementById('close-instructions').onclick = () => {
     instructions.classList.remove('show');
 };
 
+// Clears saved progress and starts over at level 1.
+document.getElementById('reset-progress').onclick = resetProgress;
+
 document.getElementById('instructions').onclick = (e) => {
     // Close when clicking on the backdrop (outside the content box)
     if (e.target.id === 'instructions') {
@@ -420,5 +515,6 @@ document.getElementById('instructions').onclick = (e) => {
 window.onload = async () => {
     updateAudioButtonState();
     await loadVerbs();
+    loadProgress();
     generateQuestion();
 };
