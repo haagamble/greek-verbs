@@ -142,6 +142,10 @@ h1 {
     cursor: not-allowed;
 }
 
+#options.answered .option {
+    pointer-events: none;
+}
+
 #feedback {
     margin-top: 20px;
     text-align: center;

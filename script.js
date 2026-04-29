@@ -153,6 +153,7 @@ function generateQuestion() {
 
     const optionsContainer = document.getElementById('options');
     optionsContainer.innerHTML = '';
+    optionsContainer.classList.remove('answered');
 
     const correctAnswer = currentVerb.english;
     const wrongOptions = getWrongOptions(currentVerb, currentQuestionLevel);
@@ -236,9 +237,12 @@ function checkAnswer(isCorrect, selectedOption) {
     const sampleSentence = document.getElementById('sample-sentence');
 
     // Disable all options
-    const options = document.querySelectorAll('.option');
+    const optionsContainer = document.getElementById('options');
+    const options = optionsContainer.querySelectorAll('.option');
+    optionsContainer.classList.add('answered');
     options.forEach(option => {
         option.disabled = true;
+        option.onclick = null;
         if (option.textContent === currentVerb.english) {
             option.style.backgroundColor = '#4CAF50'; // Green for correct
             option.style.color = 'white';
