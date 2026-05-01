@@ -19,20 +19,16 @@
             "english": "You are tired."
           },
           {
-            "greek": "Εσύ είσαι ένα παιδί.",
-            "english": "You are a child."
-          },
-          {
-            "greek": "Φίλε, είσαι εκεί;",
-            "english": "Friend, are you there?"
-          },
-          {
             "greek": "Είσαι θετικό άτομο.",
             "english": "You are a positive person."
           },
           {
             "greek": "Δεν είσαι η μόνη.",
             "english": "You are not the only one."
+          },
+          {
+            "greek": "Πού είναι η είσοδος;",
+            "english": "Where is the entrance?"
           },
           {
             "greek": "Είσαι πάνω;",
@@ -53,10 +49,6 @@
           {
             "greek": "Πόσων χρονών είσαι;",
             "english": "How old are you?"
-          },
-          {
-            "greek": "Πώς είναι ο πατέρας σου;",
-            "english": "How is your father?"
           },
           {
             "greek": "Είναι μια αράχνη πάνω σου.",
@@ -95,10 +87,6 @@
             "english": "This skirt is expensive."
           },
           {
-            "greek": "Είναι όπως είναι.",
-            "english": "It is as it is."
-          },
-          {
             "greek": "Είμαστε χαρούμενοι.",
             "english": "We are happy."
           },
@@ -131,12 +119,12 @@
             "english": "These animals are horses."
           },
           {
-            "greek": "Αυτές είναι γάτες.",
-            "english": "They are cats."
-          },
-          {
             "greek": "Τα φρούτα είναι καλά για εσένα.",
             "english": "The fruits are good for you."
+          },
+          {
+            "greek": "Το κρασί είναι ελληνικής παραγωγής.",
+            "english": "The wine is a Greek product."
           }
         ]
       },
@@ -228,6 +216,10 @@
           {
             "greek": "Η πόλη μου έχει μεγάλο πληθυσμό.",
             "english": "My city has a large population."
+          },
+          {
+            "greek": "Έχεις τρεις ευχές.",
+            "english": "You have three wishes."
           },
           {
             "greek": "Έχουμε δυο εχθρούς.",
@@ -669,6 +661,10 @@
             "english": "Who are you speaking to?"
           },
           {
+            "greek": "Δεν ξέρω, τα λέμε αργότερα.",
+            "english": "I don’t know, we’ll talk later."
+          },
+          {
             "greek": "Μίλα λιγότερο, κάνε περισσότερα.",
             "english": "Speak less, do more."
           }
@@ -774,6 +770,14 @@
           {
             "greek": "Θέλω να αγοράσω ένα φθηνότερο βιβλίο.",
             "english": "I want to buy a cheaper book."
+          },
+          {
+            "greek": "Θέλω ξεκούραση.",
+            "english": "I want rest."
+          },
+          {
+            "greek": "Θέλω απόδειξη.",
+            "english": "I want proof."
           }
         ]
       }
@@ -791,6 +795,10 @@
           {
             "greek": "Η γυναίκα βλέπει το παιδί.",
             "english": "The woman sees the child."
+          },
+          {
+            "greek": "Εγώ δε βλέπω καμία λύση.",
+            "english": "I don’t see any solution."
           },
           {
             "greek": "Βλέπω τον ήλιο.",
@@ -839,6 +847,10 @@
           {
             "greek": "Λέμε πως τον βλέπουμε.",
             "english": "We say that we see him."
+          },
+          {
+            "greek": "Δε βλέπεις το πρόβλημα;",
+            "english": "Don’t you see the problem?"
           }
         ]
       },
@@ -1352,6 +1364,14 @@
           {
             "greek": "Μίλα λιγότερο, κάνε περισσότερα.",
             "english": "Speak less, do more."
+          },
+          {
+            "greek": "Κάνε μια ευχή!",
+            "english": "Make a wish!"
+          },
+          {
+            "greek": "Κάνε το τώρα.",
+            "english": "Do it now."
           }
         ]
       }
@@ -1471,6 +1491,14 @@
           {
             "greek": "Μπορείς να μου δείξεις πώς το κάνεις;",
             "english": "Can you show me how you do it?"
+          },
+          {
+            "greek": "Δείξε το ταλέντο σου.",
+            "english": "Show your talent."
+          },
+          {
+            "greek": "Δείξε λίγη ευγένεια!",
+            "english": "Show some politeness!"
           }
         ]
       },
@@ -1559,6 +1587,10 @@
             "english": "I take the bus every day."
           },
           {
+            "greek": "Η παραγωγή ελαιόλαδου παίρνει πολύ χρόνο.",
+            "english": "Olive oil production takes a long time."
+          },
+          {
             "greek": "Πάρε αυτήν την τσάντα, είναι ελαφρύτερη.",
             "english": "Take this bag, it is lighter."
           },
@@ -1600,6 +1632,14 @@
           {
             "greek": "Δίνω το πουκάμισο στις γυναίκες.",
             "english": "I give the shirt to the women."
+          },
+          {
+            "greek": "Μπορείς να δώσεις μια ακριβέστερη περιγραφή;",
+            "english": "Can you give a more precise description?"
+          },
+          {
+            "greek": "Δώσε προσοχή σε ό,τι λέω!",
+            "english": "Pay attention to what I say!"
           }
         ]
       },
@@ -1726,6 +1766,10 @@
           {
             "greek": "Σήμερα το πρωί δουλεύω.",
             "english": "This morning I work."
+          },
+          {
+            "greek": "Δουλεύουμε χωρίς σύστημα.",
+            "english": "We work without a system."
           }
         ]
       }
@@ -2263,6 +2307,10 @@
             "english": "How much does a trip by train cost?"
           },
           {
+            "greek": "Η εισαγωγή φρούτων από άλλες χώρες κοστίζει πολύ.",
+            "english": "Importing fruit from other countries costs a lot."
+          },
+          {
             "greek": "Πόσο κοστίζει ένα λίτρο βενζίνης;",
             "english": "How much does a litre of petrol cost?"
           }
@@ -2406,6 +2454,10 @@
           {
             "greek": "Αυτοί πουλάνε φρούτα.",
             "english": "They sell fruit."
+          },
+          {
+            "greek": "Τι αγαθά πουλάει αυτό το μαγαζί;",
+            "english": "What goods does this shop sell?"
           }
         ]
       },
@@ -2495,6 +2547,18 @@
           {
             "greek": "Χρησιμοποιούμε κουβέρτες τον χειμώνα.",
             "english": "We use blankets in the winter."
+          },
+          {
+            "greek": "Χρησιμοποίησε τη φαντασία σου.",
+            "english": "Use your imagination."
+          },
+          {
+            "greek": "Χρησιμοποίησε τη φαντασία σου!",
+            "english": "Use your imagination!"
+          },
+          {
+            "greek": "Το σύστημα που χρησιμοποιούμε είναι πολύ αποδοτικό.",
+            "english": "The system we use is very efficient."
           }
         ]
       }
@@ -2566,7 +2630,7 @@
           },
           {
             "greek": "Εγώ τρώω αν και δε μαγειρεύω.",
-            "english": "I eat even though I don't cook."
+            "english": "I eat although I do not cook."
           }
         ]
       },
@@ -2873,6 +2937,10 @@
           {
             "greek": "Κόβουμε το γλυκό σε τέσσερα κομμάτια.",
             "english": "We cut the sweet into four pieces."
+          },
+          {
+            "greek": "Δεν μπορώ να κόψω το μήλο με αυτό το μαχαίρι.",
+            "english": "I cannot cut the apple with this knife."
           }
         ]
       },
@@ -3018,6 +3086,10 @@
           {
             "greek": "Ελπίζω να μη σας απογοητεύσω.",
             "english": "I hope I don’t disappoint you."
+          },
+          {
+            "greek": "Ευχόμαστε τα αποτελέσματα να είναι καλά.",
+            "english": "We hope the results are good."
           }
         ]
       },
@@ -3114,6 +3186,10 @@
           {
             "greek": "Μερικά σύννεφα περνούν αργά.",
             "english": "Some clouds pass slowly."
+          },
+          {
+            "greek": "Οι μέρες περνούν γρηγορότερα και το καλοκαίρι έρχεται.",
+            "english": "The days pass more quickly and summer is coming."
           },
           {
             "greek": "Περνάει μπροστά από ένα μικρό μαγαζί.",
@@ -3247,6 +3323,10 @@
           {
             "greek": "Δεν μπορείς να το κάνεις γρηγορότερα;",
             "english": "Can't you do it faster?"
+          },
+          {
+            "greek": "Μπορείς να δώσεις μια ακριβέστερη περιγραφή;",
+            "english": "Can you give a more precise description?"
           },
           {
             "greek": "Μπορώ να τρέξω γρηγορότερα και μακρύτερα από αυτόν!",
@@ -3599,8 +3679,8 @@
             "english": "We like to travel by airplane."
           },
           {
-            "greek": "Πρόσεχε τα φορτηγά όταν ταξιδεύεις με αυτοκίνητο.",
-            "english": "Watch out for trucks when you travel by car."
+            "greek": "Πρόσεχε τα φορτηγά όταν ταξιδεύεις με αυτοκίνητο!",
+            "english": "Watch out for trucks when you travel by car!"
           },
           {
             "greek": "Γιατί ταξιδεύεις με τρένο κι όχι με αυτοκίνητο;",
@@ -3960,6 +4040,10 @@
             "english": "They meet their siblings."
           },
           {
+            "greek": "Ποιον συναντάς;",
+            "english": "Who are you meeting?"
+          },
+          {
             "greek": "Όταν συναντώ ξένους αγχώνομαι.",
             "english": "When I meet strangers, I get anxious."
           }
@@ -4045,6 +4129,10 @@
           {
             "greek": "Συμφωνείς;",
             "english": "Do you agree?"
+          },
+          {
+            "greek": "Πόσα μέλη συμφωνούν με εμένα;",
+            "english": "How many members agree with me?"
           }
         ]
       }
@@ -4058,6 +4146,10 @@
           {
             "greek": "Αυτές κερδίζουν στο παιχνίδι.",
             "english": "They (feminine) win in the game."
+          },
+          {
+            "greek": "Εγώ κερδίζω κι εσύ χάνεις!",
+            "english": "I win and you lose!"
           }
         ]
       },
@@ -4184,6 +4276,10 @@
           {
             "greek": "Το χάνουμε!",
             "english": "We're missing it!"
+          },
+          {
+            "greek": "Εγώ κερδίζω κι εσύ χάνεις!",
+            "english": "I win and you lose!"
           }
         ]
       },
@@ -4203,6 +4299,10 @@
           {
             "greek": "Ποιος σε εμποδίζει;",
             "english": "Who is stopping you?"
+          },
+          {
+            "greek": "Εμείς εμποδίζουμε τη δραστηριότητά τους.",
+            "english": "We prevent their activity."
           }
         ]
       }
@@ -4320,6 +4420,10 @@
             "english": "Great, I’m glad."
           },
           {
+            "greek": "Τέλεια νέα, χαίρομαι πολύ.",
+            "english": "Great news, I’m very happy."
+          },
+          {
             "greek": "Χαίρεσαι που πήγαμε στον κινηματογράφο χθες;",
             "english": "Are you glad we went to the movies yesterday?"
           }
@@ -4337,6 +4441,10 @@
           {
             "greek": "Ο αδερφός μου φοβάται τους σκύλους.",
             "english": "My brother is afraid of dogs."
+          },
+          {
+            "greek": "Τα μικρά παιδιά φοβούνται πολύ το σκοτάδι.",
+            "english": "The little children are very afraid of the dark."
           }
         ]
       }
@@ -4457,6 +4565,10 @@
           {
             "greek": "Μου αρέσει, οπότε το αγοράζω.",
             "english": "I like it, so I buy it."
+          },
+          {
+            "greek": "Σου αρέσει ο ελληνικός τρόπος ζωής;",
+            "english": "Do you like the Greek way of life?"
           }
         ]
       },
@@ -4518,6 +4630,10 @@
             "english": "The children dream."
           },
           {
+            "greek": "Τον χειμώνα ονειρευόμαστε το καλοκαίρι.",
+            "english": "In winter we dream of summer."
+          },
+          {
             "greek": "Το αγόρι ονειρεύεται.",
             "english": "The boy dreams."
           }
@@ -4554,6 +4670,10 @@
           {
             "greek": "Αυτός φαντάζεται ότι είναι διάσημος.",
             "english": "He imagines that he is famous."
+          },
+          {
+            "greek": "Τα παιδιά φαντάζονται το βιβλίο.",
+            "english": "The children imagine the book."
           },
           {
             "greek": "Φαντάζομαι ότι είμαι μία πεταλούδα.",
@@ -4786,6 +4906,10 @@
           {
             "greek": "Θέλω να προσέξετε ενώ κατεβαίνετε τη σκάλα!",
             "english": "I want you to be careful while going down the stairs!"
+          },
+          {
+            "greek": "Πρόσεχε τα φορτηγά όταν ταξιδεύεις με αυτοκίνητο!",
+            "english": "Watch out for trucks when you travel by car!"
           }
         ]
       },
@@ -4805,6 +4929,10 @@
           {
             "greek": "Σέβομαι τον πατέρα μου.",
             "english": "I respect my father."
+          },
+          {
+            "greek": "Εγώ σέβομαι τους γονείς μου.",
+            "english": "I respect my parents."
           },
           {
             "greek": "Υπόσχομαι ότι θα τον αγαπώ και θα τον σέβομαι!",
@@ -4846,7 +4974,7 @@
           },
           {
             "greek": "Όλοι τον αποδέχονται.",
-            "english": "Everyone accepts him."
+            "english": "They all accept him."
           }
         ]
       },
@@ -4890,8 +5018,8 @@
         "english": "wish",
         "sentences": [
           {
-            "greek": "Μου εύχεσαι καλό βράδυ.",
-            "english": "You wish me a good evening."
+            "greek": "Μου εύχεσαι καλό βράδυ;",
+            "english": "Do you wish me a good evening?"
           },
           {
             "greek": "Σου ευχόμαστε καληνύχτα.",
@@ -4963,6 +5091,18 @@
           {
             "greek": "Χρειαζόμαστε περισσότερα δεδομένα.",
             "english": "We need more data."
+          },
+          {
+            "greek": "Οι γονείς σου χρειάζονται ξεκούραση, δε νομίζεις;",
+            "english": "Your parents need rest, don’t you think?"
+          },
+          {
+            "greek": "Το μωρό χρειάζεται προστασία.",
+            "english": "The baby needs protection."
+          },
+          {
+            "greek": "Χρειάζομαι κούρεμα.",
+            "english": "I need a haircut."
           }
         ]
       }
@@ -4980,10 +5120,6 @@
           {
             "greek": "Υπάρχουν πολλές διαφορετικές διαδρομές για το κέντρο της πόλης.",
             "english": "There are many different routes to the city center."
-          },
-          {
-            "greek": "Υπάρχουν μεγάλα μαγαζιά στο κέντρο της πόλης.",
-            "english": "There are big shops in the city center."
           },
           {
             "greek": "Υπάρχουν ξενοδοχεία στο νησί;",
@@ -5012,10 +5148,6 @@
           {
             "greek": "Έξω από το κάστρο υπάρχει μια καφετέρια.",
             "english": "Outside the castle there is a café."
-          },
-          {
-            "greek": "Σκέφτομαι, άρα υπάρχω.",
-            "english": "I think, therefore I am."
           },
           {
             "greek": "Υπάρχει μικρό ενδιαφέρον.",
@@ -5054,6 +5186,10 @@
             "english": "There is no light and our house is dark."
           },
           {
+            "greek": "Δεν υπάρχει περίπτωση.",
+            "english": "There is no chance."
+          },
+          {
             "greek": "Υπάρχει κάτι φτηνό εδώ μέσα;",
             "english": "Is there anything cheap in here?"
           },
@@ -5076,6 +5212,26 @@
           {
             "greek": "Υπάρχει σοκολάτα;",
             "english": "Is there chocolate?"
+          },
+          {
+            "greek": "Υπάρχει ένα υποκείμενο και δύο αντικείμενα.",
+            "english": "There is one subject and two objects."
+          },
+          {
+            "greek": "Δεν υπάρχει απόδειξη ότι το έκανε.",
+            "english": "There is no proof that he did it."
+          },
+          {
+            "greek": "Δεν υπάρχει καμία ελπίδα για εμάς.",
+            "english": "There is no hope for us."
+          },
+          {
+            "greek": "Υπάρχει ελπίδα!",
+            "english": "There is hope!"
+          },
+          {
+            "greek": "Υπάρχει χρέωση για την είσοδο στο μουσείο.",
+            "english": "There is a fee for entry to the museum."
           }
         ]
       },
@@ -5095,6 +5251,10 @@
           {
             "greek": "Αν συμβεί κάτι είναι αυτοί υπεύθυνοι.",
             "english": "If something happens, they are responsible."
+          },
+          {
+            "greek": "Μην έχεις πολλές ελπίδες ότι αυτό θα συμβεί.",
+            "english": "Don’t have too many hopes that this will happen."
           }
         ]
       },
@@ -5216,6 +5376,18 @@
           {
             "greek": "Ο κόσμος γίνεται πιο πολύς.",
             "english": "The crowd becomes larger."
+          },
+          {
+            "greek": "Η διανομή γίνεται τα απογεύματα.",
+            "english": "Delivery takes place in the afternoons."
+          },
+          {
+            "greek": "Πώς κάποιος γίνεται μέλος εδώ;",
+            "english": "How does someone become a member here?"
+          },
+          {
+            "greek": "Τι γίνεται;",
+            "english": "What’s happening?"
           }
         ]
       },
@@ -5243,6 +5415,14 @@
           {
             "greek": "Εμείς ανήκουμε στην οικογένειά μας.",
             "english": "We belong to our family."
+          },
+          {
+            "greek": "Το ζώο ανήκει στην κατηγορία των θηλαστικών.",
+            "english": "The animal belongs to the category of mammals."
+          },
+          {
+            "greek": "Αυτοί ανήκουν στην ένωση εργατών.",
+            "english": "They belong to the workers' union."
           }
         ]
       },
@@ -5322,6 +5502,10 @@
             "english": "We order food."
           },
           {
+            "greek": "Τι παραγγέλνεις;",
+            "english": "What are you ordering?"
+          },
+          {
             "greek": "Αυτός παραγγέλνει βιβλία.",
             "english": "He orders books."
           }
@@ -5343,6 +5527,10 @@
           {
             "greek": "Εγώ το στέλνω.",
             "english": "I send it."
+          },
+          {
+            "greek": "Στέλνουμε τις ευχές μας.",
+            "english": "We send our wishes."
           },
           {
             "greek": "Στείλ’ το μου σε λίγο.",
@@ -5415,6 +5603,10 @@
           {
             "greek": "Αυτοί συμπεριλαμβάνουν τα παιδιά τους στο γεύμα.",
             "english": "They include their children in the meal."
+          },
+          {
+            "greek": "Η λίστα συμπεριλαμβάνει όλα τα ονόματα.",
+            "english": "The list includes all the names."
           }
         ]
       },
@@ -5500,6 +5692,10 @@
           {
             "greek": "Πόσο καλά τον γνωρίζεις;",
             "english": "How well do you know him?"
+          },
+          {
+            "greek": "Αυτοί δε γνωρίζουν την έννοια της αγάπης;",
+            "english": "Do they not understand the concept of love?"
           }
         ]
       },

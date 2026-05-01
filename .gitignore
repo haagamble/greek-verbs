@@ -29,5 +29,6 @@ Thumbs.db
 *.temp
 
 # Local staging data
-verbsnew.json
-verbs-to-sort.json
+verbs-new-entries.json
+verbs-new-sentences.json
+verbs-extra-sentences.json
