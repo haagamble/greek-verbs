@@ -495,6 +495,10 @@
             "english": "You read the letters easily."
           },
           {
+            "greek": "Ο πατέρας του διαβάζει την ιστορία.",
+            "english": "His father reads the story."
+          },
+          {
             "greek": "Τι είναι ευκολότερο; Να γράφεις ή να διαβάζεις;",
             "english": "What is easier? To write or to read?"
           }
@@ -560,6 +564,14 @@
           {
             "greek": "Τι είναι ευκολότερο; Να γράφεις ή να διαβάζεις;",
             "english": "What is easier? To write or to read?"
+          },
+          {
+            "greek": "Εμείς γράφουμε ένα ποίημα.",
+            "english": "We are writing a poem."
+          },
+          {
+            "greek": "Πρόκειται να γράψω ένα ποίημα.",
+            "english": "I am going to write a poem."
           },
           {
             "greek": "Αυτή γράφει γρηγορότερα από εμένα.",
@@ -776,6 +788,14 @@
             "english": "I want rest."
           },
           {
+            "greek": "Θέλω φως!",
+            "english": "I want light!"
+          },
+          {
+            "greek": "Δε θέλω τίποτα άλλο από εσένα!",
+            "english": "I don't want anything else from you!"
+          },
+          {
             "greek": "Θέλω απόδειξη.",
             "english": "I want proof."
           }
@@ -900,6 +920,18 @@
             "english": "He hears the birds that are singing."
           },
           {
+            "greek": "Μου αρέσει να ακούω τη βροχή.",
+            "english": "I like to listen to the rain."
+          },
+          {
+            "greek": "Οι μαθητές ακούνε τον δάσκαλο.",
+            "english": "The students listen to the teacher."
+          },
+          {
+            "greek": "Κάτσε κάτω και άκου με!",
+            "english": "Sit down and listen to me!"
+          },
+          {
             "greek": "Ο Δημήτρης σταματά να ακούσει.",
             "english": "Dimitris stops to listen."
           }
@@ -995,6 +1027,14 @@
             "english": "I am always available and you know it."
           },
           {
+            "greek": "Δεν ξέρουμε ολόκληρο το σύμπαν.",
+            "english": "We do not know the entire universe."
+          },
+          {
+            "greek": "Ξέρεις το όνομα αυτού του αστεριού;",
+            "english": "Do you know the name of this star?"
+          },
+          {
             "greek": "Είμαστε ερωτευμένες και το ξέρουμε.",
             "english": "We are in love and we know it."
           }
@@ -1052,6 +1092,10 @@
           {
             "greek": "Η εικόνα μένει στο μυαλό του.",
             "english": "The image remains in his mind."
+          },
+          {
+            "greek": "Δε μένω πια εκεί.",
+            "english": "I don't live there anymore."
           },
           {
             "greek": "Σκέφτεται να μείνει κι άλλο.",
@@ -1115,6 +1159,10 @@
           {
             "greek": "Λένε «γεια σου!» και γελούν.",
             "english": "They say 'hello!' and laugh."
+          },
+          {
+            "greek": "Όποιος λέει αυτά τα πράγματα δεν ξέρει τι λέει.",
+            "english": "Whoever says these things does not know what they are saying."
           },
           {
             "greek": "Λέμε πως τον βλέπουμε.",
@@ -1230,6 +1278,10 @@
           {
             "greek": "Αυτός συνήθως πηγαίνει αργότερα.",
             "english": "He usually goes later."
+          },
+          {
+            "greek": "Πήγαινε σπίτι και κοιμήσου.",
+            "english": "Go home and sleep."
           },
           {
             "greek": "Οι φίλοι μου πηγαίνουν οπουδήποτε.",
@@ -1548,6 +1600,10 @@
             "english": "He looks at them with interest."
           },
           {
+            "greek": "Κοιτάζω τα αστέρια κάθε νύχτα.",
+            "english": "I look at the stars every night."
+          },
+          {
             "greek": "Κοιτάζει δεξιά και αριστερά.",
             "english": "He looks right and left."
           }
@@ -1766,6 +1822,10 @@
           {
             "greek": "Σήμερα το πρωί δουλεύω.",
             "english": "This morning I work."
+          },
+          {
+            "greek": "Ο δάσκαλος δουλεύει στο σχολείο.",
+            "english": "The teacher works at the school."
           },
           {
             "greek": "Δουλεύουμε χωρίς σύστημα.",
@@ -2061,6 +2121,10 @@
           {
             "greek": "Πέφτω και χτυπάω το χέρι μου.",
             "english": "I fall and hit my hand."
+          },
+          {
+            "greek": "Πέστε στο έδαφος.",
+            "english": "Fall on the ground."
           }
         ]
       },
@@ -2194,6 +2258,10 @@
           {
             "greek": "Τα δελφίνια κολυμπούν μαζί μας.",
             "english": "The dolphins swim with us."
+          },
+          {
+            "greek": "Ο άντρας της κολυμπά σε αυτή τη λίμνη.",
+            "english": "Her husband swims in this lake."
           },
           {
             "greek": "Εμείς κολυμπάμε μέχρι τη βάρκα.",
@@ -2346,6 +2414,10 @@
             "english": "He brings the juice."
           },
           {
+            "greek": "Τα σύννεφα φέρνουν βροχή.",
+            "english": "Clouds bring rain."
+          },
+          {
             "greek": "Το παιδί μου τα φέρνει.",
             "english": "My child brings them."
           }
@@ -2359,6 +2431,10 @@
           {
             "greek": "Γιατί το αγγίζετε;",
             "english": "Why are you touching it?"
+          },
+          {
+            "greek": "Εγώ αγγίζω το φυτό.",
+            "english": "I touch the plant."
           },
           {
             "greek": "Αυτός αγγίζει το νερό.",
@@ -2631,6 +2707,10 @@
           {
             "greek": "Εγώ τρώω αν και δε μαγειρεύω.",
             "english": "I eat although I do not cook."
+          },
+          {
+            "greek": "Κάποιες φορές μαγειρεύω.",
+            "english": "Sometimes I cook."
           }
         ]
       },
@@ -2740,6 +2820,10 @@
           {
             "greek": "Περιμένω από το πρωί.",
             "english": "I have been waiting since the morning."
+          },
+          {
+            "greek": "Θα σας περιμένω.",
+            "english": "I will wait for you."
           },
           {
             "greek": "Περιμένετέ με!",
@@ -3088,6 +3172,10 @@
             "english": "I hope I don’t disappoint you."
           },
           {
+            "greek": "Ελπίζω να μη ζήσω μια πυρηνική καταστροφή.",
+            "english": "I hope I never experience a nuclear disaster."
+          },
+          {
             "greek": "Ευχόμαστε τα αποτελέσματα να είναι καλά.",
             "english": "We hope the results are good."
           }
@@ -3327,6 +3415,18 @@
           {
             "greek": "Μπορείς να δώσεις μια ακριβέστερη περιγραφή;",
             "english": "Can you give a more precise description?"
+          },
+          {
+            "greek": "Δεν μπορώ να δω εξαιτίας του καπνού.",
+            "english": "I can't see because of the smoke."
+          },
+          {
+            "greek": "Μπορούμε να δούμε το φεγγάρι στον ουρανό.",
+            "english": "We can see the moon in the sky."
+          },
+          {
+            "greek": "Δεν μπορούν να δουν το φεγγάρι.",
+            "english": "They cannot see the moon."
           },
           {
             "greek": "Μπορώ να τρέξω γρηγορότερα και μακρύτερα από αυτόν!",
@@ -3721,6 +3821,10 @@
           {
             "greek": "Ανοίγει την πόρτα του σπιτιού του.",
             "english": "He opens the door of his house."
+          },
+          {
+            "greek": "Ανοίγουμε τα βιβλία μας στη σελίδα εννέα.",
+            "english": "We open our books to page nine."
           },
           {
             "greek": "Ανοίγει την πόρτα και μπαίνει μέσα.",
@@ -4179,6 +4283,10 @@
             "english": "Which do you prefer?"
           },
           {
+            "greek": "Προτιμώ τη βιολογική καλλιέργεια.",
+            "english": "I prefer organic farming."
+          },
+          {
             "greek": "Προτιμώ την αγάπη από το μίσος.",
             "english": "I prefer love over hate."
           }
@@ -4476,6 +4584,10 @@
             "english": "He sits in his room."
           },
           {
+            "greek": "Κάτσε κάτω και άκου με!",
+            "english": "Sit down and listen to me!"
+          },
+          {
             "greek": "Ο Νίκος κάθεται σε ένα παγκάκι.",
             "english": "Nikos sits on a bench."
           }
@@ -4672,6 +4784,10 @@
             "english": "He imagines that he is famous."
           },
           {
+            "greek": "Απλώς φαντάσου το.",
+            "english": "Just imagine it."
+          },
+          {
             "greek": "Τα παιδιά φαντάζονται το βιβλίο.",
             "english": "The children imagine the book."
           },
@@ -4763,6 +4879,10 @@
           {
             "greek": "Του αρέσει να κοιμάται.",
             "english": "He likes to sleep."
+          },
+          {
+            "greek": "Πήγαινε σπίτι και κοιμήσου.",
+            "english": "Go home and sleep."
           },
           {
             "greek": "Είναι πολύ κουρασμένος και κοιμάται.",
@@ -4956,6 +5076,10 @@
           {
             "greek": "Γιατί τον εμπιστεύεστε;",
             "english": "Why do you trust him?"
+          },
+          {
+            "greek": "Εμπιστευτείτε την.",
+            "english": "Trust her."
           },
           {
             "greek": "Δε σε εμπιστεύομαι.",
@@ -5210,10 +5334,6 @@
             "english": "There are books in the shop window."
           },
           {
-            "greek": "Υπάρχει σοκολάτα;",
-            "english": "Is there chocolate?"
-          },
-          {
             "greek": "Υπάρχει ένα υποκείμενο και δύο αντικείμενα.",
             "english": "There is one subject and two objects."
           },
@@ -5222,12 +5342,16 @@
             "english": "There is no proof that he did it."
           },
           {
-            "greek": "Δεν υπάρχει καμία ελπίδα για εμάς.",
-            "english": "There is no hope for us."
-          },
-          {
             "greek": "Υπάρχει ελπίδα!",
             "english": "There is hope!"
+          },
+          {
+            "greek": "Υπάρχει σκόνη στο σπίτι.",
+            "english": "There is dust in the house."
+          },
+          {
+            "greek": "Υπάρχουν πολλά βιβλία σε αυτήν τη βιβλιοθήκη.",
+            "english": "There are many books in this library."
           },
           {
             "greek": "Υπάρχει χρέωση για την είσοδο στο μουσείο.",
@@ -5288,6 +5412,10 @@
             "english": "She seems younger than her age!"
           },
           {
+            "greek": "Αυτή φαίνεται πεσμένη, τι της συνέβη;",
+            "english": "She seems down, what happened to her?"
+          },
+          {
             "greek": "Δε φαίνεται να είσαι εγγεγραμμένος.",
             "english": "You don't seem to be registered."
           }
@@ -5333,6 +5461,14 @@
           {
             "greek": "Ζει στην πόλη με την οικογένειά του.",
             "english": "He lives in the city with his family."
+          },
+          {
+            "greek": "Οι αρκούδες ζουν στο δάσος.",
+            "english": "Bears live in the forest."
+          },
+          {
+            "greek": "Ο λύκος ζει στο δάσος.",
+            "english": "The wolf lives in the forest."
           },
           {
             "greek": "Τα παιδιά ζουν σε μια πολύ αγαπημένη οικογένεια.",
@@ -5384,6 +5520,10 @@
           {
             "greek": "Πώς κάποιος γίνεται μέλος εδώ;",
             "english": "How does someone become a member here?"
+          },
+          {
+            "greek": "Η ανακύκλωση χαρτιού γίνεται εδώ.",
+            "english": "Paper recycling happens here."
           },
           {
             "greek": "Τι γίνεται;",
@@ -5531,6 +5671,10 @@
           {
             "greek": "Στέλνουμε τις ευχές μας.",
             "english": "We send our wishes."
+          },
+          {
+            "greek": "Της τα στέλνω γραπτώς.",
+            "english": "I send them to her in writing."
           },
           {
             "greek": "Στείλ’ το μου σε λίγο.",
