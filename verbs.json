@@ -323,10 +323,6 @@
           {
             "greek": "Δίπλα, ένα παιδί τρώει παγωτό.",
             "english": "Nearby, a child eats ice cream."
-          },
-          {
-            "greek": "Τρώω τα πάντα.",
-            "english": "I eat everything."
           }
         ]
       },
@@ -572,6 +568,10 @@
           {
             "greek": "Πρόκειται να γράψω ένα ποίημα.",
             "english": "I am going to write a poem."
+          },
+          {
+            "greek": "Αυτός γράφει τρεις σελίδες.",
+            "english": "He writes three pages."
           },
           {
             "greek": "Αυτή γράφει γρηγορότερα από εμένα.",
@@ -932,6 +932,10 @@
             "english": "Sit down and listen to me!"
           },
           {
+            "greek": "Μπορούμε να ακούσουμε τη βροχή.",
+            "english": "We can hear the rain."
+          },
+          {
             "greek": "Ο Δημήτρης σταματά να ακούσει.",
             "english": "Dimitris stops to listen."
           }
@@ -1167,6 +1171,11 @@
           {
             "greek": "Λέμε πως τον βλέπουμε.",
             "english": "We say that we see him."
+          },
+          {
+            "greek": "Θα πούμε την ιστορία.",
+            "english": "We will tell the story.",
+            "notes": "Future forms use the stem π- (θα πω, θα πεις, θα πούμε)."
           }
         ]
       },
@@ -1284,6 +1293,14 @@
             "english": "Go home and sleep."
           },
           {
+            "greek": "Σε ποιο γυμνάσιο πάει ο αδελφός σου;",
+            "english": "Which middle school does your brother go to?"
+          },
+          {
+            "greek": "Ο αδελφός μου δεν πηγαίνει σχολείο.",
+            "english": "My brother does not go to school."
+          },
+          {
             "greek": "Οι φίλοι μου πηγαίνουν οπουδήποτε.",
             "english": "My friends go anywhere."
           }
@@ -1317,6 +1334,22 @@
           {
             "greek": "Μην έρχεσαι κοντύτερα!",
             "english": "Don't come closer!"
+          },
+          {
+            "greek": "Έλα ξανά αύριο το πρωί!",
+            "english": "Come again tomorrow morning!"
+          },
+          {
+            "greek": "Έλα, δες με.",
+            "english": "Come, look at me."
+          },
+          {
+            "greek": "Ελάτε σπίτι νωρίς απόψε.",
+            "english": "Come home early tonight."
+          },
+          {
+            "greek": "Έλα μέσα!",
+            "english": "Come inside!"
           }
         ]
       },
@@ -1474,6 +1507,10 @@
             "english": "I find the dishes."
           },
           {
+            "greek": "Εμείς βρίσκουμε γνώσεις στα βιβλία.",
+            "english": "We find knowledge in books."
+          },
+          {
             "greek": "Πού μπορώ να βρω φθηνότερα εισιτήρια;",
             "english": "Where can I find cheaper tickets?"
           }
@@ -1604,6 +1641,10 @@
             "english": "I look at the stars every night."
           },
           {
+            "greek": "Κοίτα το φεγγάρι!",
+            "english": "Look at the moon!"
+          },
+          {
             "greek": "Κοιτάζει δεξιά και αριστερά.",
             "english": "He looks right and left."
           }
@@ -1692,6 +1733,10 @@
           {
             "greek": "Μπορείς να δώσεις μια ακριβέστερη περιγραφή;",
             "english": "Can you give a more precise description?"
+          },
+          {
+            "greek": "Δώσε μου ένα παράδειγμα.",
+            "english": "Give me an example."
           },
           {
             "greek": "Δώσε προσοχή σε ό,τι λέω!",
@@ -1830,6 +1875,56 @@
           {
             "greek": "Δουλεύουμε χωρίς σύστημα.",
             "english": "We work without a system."
+          }
+        ]
+      },
+      {
+        "id": "hold-kratao",
+        "lemma": "κρατάω",
+        "english": "hold / keep",
+        "sentences": [
+          {
+            "greek": "Τι κρατάτε;",
+            "english": "What are you holding?"
+          },
+          {
+            "greek": "Αυτή κρατάει την τσάντα της.",
+            "english": "She holds her bag."
+          },
+          {
+            "greek": "Δεν κρατάμε τίποτα.",
+            "english": "We don’t keep anything."
+          }
+        ]
+      },
+      {
+        "id": "learn-mathaino",
+        "lemma": "μαθαίνω",
+        "english": "learn",
+        "sentences": [
+          {
+            "greek": "Μάθε την ιστορία.",
+            "english": "Learn the story."
+          },
+          {
+            "greek": "Αυτός θα μάθει γαλλικά.",
+            "english": "He will learn French."
+          },
+          {
+            "greek": "Εμείς θα μάθουμε κινέζικα.",
+            "english": "We will learn Chinese."
+          },
+          {
+            "greek": "Εγώ πρέπει να μάθω.",
+            "english": "I must learn."
+          },
+          {
+            "greek": "Αυτή θα μάθει.",
+            "english": "She will learn."
+          },
+          {
+            "greek": "Πηγαίνουμε σχολείο επειδή θέλουμε να μάθουμε.",
+            "english": "We go to school because we want to learn."
           }
         ]
       }
@@ -2227,6 +2322,10 @@
           {
             "greek": "Ο Νίκος περπατάει με ήρεμο ρυθμό.",
             "english": "Nikos walks at a calm pace."
+          },
+          {
+            "greek": "Δεν περπατάω πάνω στους βράχους.",
+            "english": "I do not walk on the rocks."
           },
           {
             "greek": "Περπατά προς το σπίτι και σκέφτεται τη μέρα του.",
@@ -2830,6 +2929,14 @@
             "english": "Wait for me!"
           },
           {
+            "greek": "Κάτσε εδώ και περίμενέ με.",
+            "english": "Sit here and wait for me."
+          },
+          {
+            "greek": "Σε περιμένω βλέποντας τον ωκεανό.",
+            "english": "I wait for you while looking at the ocean."
+          },
+          {
             "greek": "Εμείς περιμένουμε την άφιξή τους σε δύο μέρες.",
             "english": "We are expecting their arrival in two days."
           }
@@ -2922,6 +3029,10 @@
           {
             "greek": "Φοράω χοντρά ρούχα γιατί είναι χειμώνας.",
             "english": "I wear thick clothes because it is winter."
+          },
+          {
+            "greek": "Αυτή συνήθως φοράει καθημερινά ρούχα στη δουλειά.",
+            "english": "She usually wears casual clothes at work."
           },
           {
             "greek": "Φοράει το αγαπημένο του μπλουζάκι.",
@@ -3110,6 +3221,10 @@
             "english": "Honestly, I don't think Daphne is taller than me!"
           },
           {
+            "greek": "Νομίζω πως δεν κατάλαβες τίποτα.",
+            "english": "I think that you did not understand anything."
+          },
+          {
             "greek": "Νομίζω ότι αυτό είναι το ασχημότερο κτίριο της πόλης μας.",
             "english": "I think that is the ugliest building in our city."
           }
@@ -3118,7 +3233,7 @@
       {
         "id": "try-dokimazo",
         "lemma": "δοκιμάζω",
-        "english": "try",
+        "english": "try / test",
         "sentences": [
           {
             "greek": "Τι δοκιμάζετε;",
@@ -3199,6 +3314,10 @@
             "english": "We understand very well."
           },
           {
+            "greek": "Καταλάβαμε πολύ καλά.",
+            "english": "We understood very well."
+          },
+          {
             "greek": "Ξέρω ότι καταλαβαίνεις.",
             "english": "I know that you understand."
           },
@@ -3213,6 +3332,14 @@
           {
             "greek": "Πραγματικά δεν το καταλαβαίνω.",
             "english": "I really do not understand it."
+          },
+          {
+            "greek": "Νομίζω πως δεν κατάλαβες τίποτα.",
+            "english": "I think that you did not understand anything."
+          },
+          {
+            "greek": "Κατάλαβα!",
+            "english": "I understood!"
           },
           {
             "greek": "Δεν καταλαβαίνω.",
@@ -3240,21 +3367,6 @@
         ]
       },
       {
-        "id": "study-meletao",
-        "lemma": "μελετάω",
-        "english": "study",
-        "sentences": [
-          {
-            "greek": "Μελετάτε ελληνικά;",
-            "english": "Do you study Greek?"
-          },
-          {
-            "greek": "Μελετάμε αγγλικά.",
-            "english": "We study English."
-          }
-        ]
-      },
-      {
         "id": "pass-pernao",
         "lemma": "περνάω",
         "english": "pass",
@@ -3278,6 +3390,10 @@
           {
             "greek": "Οι μέρες περνούν γρηγορότερα και το καλοκαίρι έρχεται.",
             "english": "The days pass more quickly and summer is coming."
+          },
+          {
+            "greek": "Ο πιο σύντομος δρόμος περνάει μέσα από το δάσος.",
+            "english": "The shortest road passes through the forest."
           },
           {
             "greek": "Περνάει μπροστά από ένα μικρό μαγαζί.",
@@ -3326,6 +3442,21 @@
             "english": "Nikos answers with a smile."
           }
         ]
+      },
+      {
+        "id": "solve-lyno",
+        "lemma": "λύνω",
+        "english": "solve",
+        "sentences": [
+          {
+            "greek": "Λύσατε το πρόβλημα;",
+            "english": "Did you solve the problem?"
+          },
+          {
+            "greek": "Πρόκειται να λύσω το πρόβλημα.",
+            "english": "I am going to solve the problem."
+          }
+        ]
       }
     ],
     "8": [
@@ -3347,7 +3478,7 @@
       {
         "id": "try-prospatho",
         "lemma": "προσπαθώ",
-        "english": "try",
+        "english": "try / make an effort",
         "sentences": [
           {
             "greek": "Εμείς προσπαθούμε αλλά είναι δύσκολο.",
@@ -3427,6 +3558,10 @@
           {
             "greek": "Δεν μπορούν να δουν το φεγγάρι.",
             "english": "They cannot see the moon."
+          },
+          {
+            "greek": "Μπορούμε να ακούσουμε τη βροχή.",
+            "english": "We can hear the rain."
           },
           {
             "greek": "Μπορώ να τρέξω γρηγορότερα και μακρύτερα από αυτόν!",
@@ -3586,6 +3721,25 @@
           {
             "greek": "Ωραιότατα! Συνέχισε έτσι!",
             "english": "Excellent! Keep going like that!"
+          }
+        ]
+      },
+      {
+        "id": "study-spoudazo",
+        "lemma": "σπουδάζω",
+        "english": "study",
+        "sentences": [
+          {
+            "greek": "Ο γιος μου σπουδάζει στο πανεπιστήμιο.",
+            "english": "My son studies at the university."
+          },
+          {
+            "greek": "Σπουδάζουμε μαζί.",
+            "english": "We study together."
+          },
+          {
+            "greek": "Σπουδάζω στη χώρα μου.",
+            "english": "I study in my country."
           }
         ]
       }
@@ -3877,6 +4031,10 @@
             "english": "What does the small box contain?"
           },
           {
+            "greek": "Το παγωτό περιέχει υπερβολική ζάχαρη.",
+            "english": "The ice cream contains too much sugar."
+          },
+          {
             "greek": "Τι περιέχει το αγγλικό πρωινό;",
             "english": "What does the English breakfast contain?"
           }
@@ -3981,6 +4139,10 @@
             "english": "Follow me!"
           },
           {
+            "greek": "Η αστυνομία ακολουθεί τον ύποπτο.",
+            "english": "The police are following the suspect."
+          },
+          {
             "greek": "Αυτοί ακολουθούν τους γονείς τους.",
             "english": "They follow their parents."
           }
@@ -4041,6 +4203,10 @@
           {
             "greek": "Δεν ξέρω πού βρίσκομαι, μπορείς να με βοηθήσεις;",
             "english": "I do not know where I am, can you help me?"
+          },
+          {
+            "greek": "Ποιες χώρες βρίσκονται στην κεντρική Ασία;",
+            "english": "Which countries are located in Central Asia?"
           },
           {
             "greek": "Βρίσκομαι στη νότια κορυφή.",
@@ -4132,7 +4298,7 @@
       },
       {
         "id": "meet-synanto",
-        "lemma": "συναντώ",
+        "lemma": "συναντάω",
         "english": "meet",
         "sentences": [
           {
@@ -4150,6 +4316,14 @@
           {
             "greek": "Όταν συναντώ ξένους αγχώνομαι.",
             "english": "When I meet strangers, I get anxious."
+          },
+          {
+            "greek": "Συναντάει έναν φίλο από το σχολείο.",
+            "english": "He meets a friend from school."
+          },
+          {
+            "greek": "Συναντάει μια γειτόνισσα.",
+            "english": "He meets a neighbor woman."
           }
         ]
       },
@@ -4203,6 +4377,41 @@
         ]
       },
       {
+        "id": "accept-dechomai",
+        "lemma": "δέχομαι",
+        "english": "accept / receive",
+        "sentences": [
+          {
+            "greek": "Δεχόμαστε πολλά δώρα.",
+            "english": "We accept many gifts."
+          },
+          {
+            "greek": "Αυτός δε δέχεται τις κατηγορίες και αρνείται τα πάντα.",
+            "english": "He doesn't accept the accusations and denies everything."
+          },
+          {
+            "greek": "Δεχτείτε το!",
+            "english": "Accept it!"
+          },
+          {
+            "greek": "Απλώς το δέξου.",
+            "english": "Just accept it."
+          },
+          {
+            "greek": "Δέξου το και ξέχνα το.",
+            "english": "Accept it and forget it."
+          },
+          {
+            "greek": "Δεχτείτε αυτό το δώρο από εμάς.",
+            "english": "Accept this gift from us."
+          },
+          {
+            "greek": "Το μαγαζί δε δέχεται αλλαγές ρούχων χωρίς απόδειξη.",
+            "english": "The shop does not accept clothing returns without a receipt."
+          }
+        ]
+      },
+      {
         "id": "support-ypostirizo",
         "lemma": "υποστηρίζω",
         "english": "support",
@@ -4239,6 +4448,21 @@
             "english": "How many members agree with me?"
           }
         ]
+      },
+      {
+        "id": "study-meletao",
+        "lemma": "μελετάω",
+        "english": "study",
+        "sentences": [
+          {
+            "greek": "Μελετάτε ελληνικά;",
+            "english": "Do you study Greek?"
+          },
+          {
+            "greek": "Μελετάμε αγγλικά.",
+            "english": "We study English."
+          }
+        ]
       }
     ],
     "12": [
@@ -4250,6 +4474,10 @@
           {
             "greek": "Αυτές κερδίζουν στο παιχνίδι.",
             "english": "They (feminine) win in the game."
+          },
+          {
+            "greek": "Οι υπομονετικοί άνθρωποι πάντα κερδίζουν.",
+            "english": "Patient people always win."
           },
           {
             "greek": "Εγώ κερδίζω κι εσύ χάνεις!",
@@ -4413,6 +4641,25 @@
             "english": "We prevent their activity."
           }
         ]
+      },
+      {
+        "id": "destroy-katastrefo",
+        "lemma": "καταστρέφω",
+        "english": "destroy",
+        "sentences": [
+          {
+            "greek": "Τα απόβλητα καταστρέφουν το περιβάλλον.",
+            "english": "Waste destroys the environment."
+          },
+          {
+            "greek": "Η φωτιά καταστρέφει το δάσος.",
+            "english": "The fire destroys the forest."
+          },
+          {
+            "greek": "Κατάστρεψέ το τώρα!",
+            "english": "Destroy it now!"
+          }
+        ]
       }
     ],
     "13": [
@@ -4524,6 +4771,10 @@
             "english": "I am glad that you like my gift."
           },
           {
+            "greek": "Χαίρομαι που έχεις τόσο φιλόδοξες ιδέες!",
+            "english": "I am glad that you have such ambitious ideas!"
+          },
+          {
             "greek": "Ωραία, χαίρομαι.",
             "english": "Great, I’m glad."
           },
@@ -4586,6 +4837,14 @@
           {
             "greek": "Κάτσε κάτω και άκου με!",
             "english": "Sit down and listen to me!"
+          },
+          {
+            "greek": "Καθίστε δίπλα τους.",
+            "english": "Sit next to them."
+          },
+          {
+            "greek": "Κάτσε εδώ και περίμενέ με.",
+            "english": "Sit here and wait for me."
           },
           {
             "greek": "Ο Νίκος κάθεται σε ένα παγκάκι.",
@@ -4677,6 +4936,10 @@
           {
             "greek": "Μου αρέσει, οπότε το αγοράζω.",
             "english": "I like it, so I buy it."
+          },
+          {
+            "greek": "Μου αρέσουν τα κόκκινα τριαντάφυλλα.",
+            "english": "I like red roses."
           },
           {
             "greek": "Σου αρέσει ο ελληνικός τρόπος ζωής;",
@@ -4792,6 +5055,14 @@
             "english": "The children imagine the book."
           },
           {
+            "greek": "Φαντάσου όλους τους ανθρώπους.",
+            "english": "Imagine all the people."
+          },
+          {
+            "greek": "Φανταστείτε πόσο όμορφο θα είναι.",
+            "english": "Imagine how beautiful it will be."
+          },
+          {
             "greek": "Φαντάζομαι ότι είμαι μία πεταλούδα.",
             "english": "I imagine that I am a butterfly."
           }
@@ -4839,6 +5110,14 @@
             "english": "He thinks about his city."
           },
           {
+            "greek": "Σκέψου τα παιδιά!",
+            "english": "Think about the children!"
+          },
+          {
+            "greek": "Σκέψου το.",
+            "english": "Think about it."
+          },
+          {
             "greek": "Περπατά προς το σπίτι και σκέφτεται τη μέρα του.",
             "english": "He walks toward home and thinks about his day."
           }
@@ -4860,6 +5139,10 @@
           {
             "greek": "Ναι, θυμάμαι.",
             "english": "Yes, I remember."
+          },
+          {
+            "greek": "Θυμήσου με.",
+            "english": "Remember me."
           },
           {
             "greek": "Τι θυμάσαι;",
@@ -4906,6 +5189,10 @@
           {
             "greek": "Φυσικά ξεκουράζομαι τα Σάββατα.",
             "english": "Of course I rest on Saturdays."
+          },
+          {
+            "greek": "Είσαι κουρασμένος, ξεκουράσου.",
+            "english": "You are tired, rest."
           },
           {
             "greek": "Ξεκουράζεται λίγο και κοιτάζει γύρω.",
@@ -5003,6 +5290,25 @@
             "english": "How do you feel?"
           }
         ]
+      },
+      {
+        "id": "worry-ahono",
+        "lemma": "αγχώνω",
+        "english": "stress / worry",
+        "sentences": [
+          {
+            "greek": "Σταμάτα να με αγχώνεις.",
+            "english": "Stop stressing me out."
+          },
+          {
+            "greek": "Όταν συναντώ ξένους αγχώνομαι.",
+            "english": "When I meet strangers, I get anxious."
+          },
+          {
+            "greek": "Οι μαθητές δεν αγχώνονται γιατί μελετούν κάθε μέρα.",
+            "english": "The students are not stressed because they study every day."
+          }
+        ]
       }
     ],
     "16": [
@@ -5082,6 +5388,14 @@
             "english": "Trust her."
           },
           {
+            "greek": "Εμπιστεύσου με, ξέρω.",
+            "english": "Trust me, I know."
+          },
+          {
+            "greek": "Εμπιστεύσου τον, είναι γιατρός.",
+            "english": "Trust him, he is a doctor."
+          },
+          {
             "greek": "Δε σε εμπιστεύομαι.",
             "english": "I don't trust you."
           }
@@ -5090,7 +5404,7 @@
       {
         "id": "accept-apodechomai",
         "lemma": "αποδέχομαι",
-        "english": "accept",
+        "english": "accept / admit",
         "sentences": [
           {
             "greek": "Το αποδέχομαι και συνεχίζω.",
@@ -5129,6 +5443,14 @@
           {
             "greek": "Υποσχόμαστε να σας βοηθάμε!",
             "english": "We promise to help you!"
+          },
+          {
+            "greek": "Υποσχεθείτε μας πως θα είστε εδώ για πάντα.",
+            "english": "Promise us that you will be here forever."
+          },
+          {
+            "greek": "Υποσχέσου μου ότι θα προσέχεις!",
+            "english": "Promise me that you will be careful!"
           },
           {
             "greek": "Υπόσχομαι ότι θα τον αγαπώ και θα τον σέβομαι!",
@@ -5612,6 +5934,10 @@
           {
             "greek": "Η απάντησή μου εξαρτάται από την ερώτησή σου.",
             "english": "My answer depends on your question."
+          },
+          {
+            "greek": "Το να είσαι δραστήριος δεν εξαρτάται πάντα από την ηλικία!",
+            "english": "Being active does not always depend on age!"
           }
         ]
       }
@@ -5976,6 +6302,10 @@
             "english": "Is he hiding because of shame or guilt?"
           },
           {
+            "greek": "Ο ντροπαλός σκύλος κρύβεται κάτω από την κουβέρτα του.",
+            "english": "The shy dog hides under its blanket."
+          },
+          {
             "greek": "Η φοβισμένη γάτα κρύβεται κάτω από το αυτοκίνητο.",
             "english": "The frightened cat is hiding under the car."
           }
@@ -5993,6 +6323,18 @@
           {
             "greek": "Σηκώνεται σιγά από το παγκάκι.",
             "english": "He gets up slowly from the bench."
+          },
+          {
+            "greek": "Σήκω, πρέπει να πας στη δουλειά.",
+            "english": "Get up, you need to go to work."
+          },
+          {
+            "greek": "Σηκωθείτε και ντυθείτε.",
+            "english": "Get up and get dressed."
+          },
+          {
+            "greek": "Σήκω, είναι αργά!",
+            "english": "Get up, it's late!"
           }
         ]
       },
