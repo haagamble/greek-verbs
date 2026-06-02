@@ -1420,6 +1420,10 @@
             "english": "Winter is coming."
           },
           {
+            "greek": "Έρχεται καταιγίδα!",
+            "english": "A storm is coming!"
+          },
+          {
             "greek": "Ακριβώς, ο πόνος έρχεται και φεύγει.",
             "english": "Exactly, the pain comes and goes."
           },
@@ -1533,6 +1537,10 @@
           {
             "greek": "Άρα τι κάνουμε;",
             "english": "So what do we do?"
+          },
+          {
+            "greek": "Ας κάνουμε ένα επιστημονικό πείραμα.",
+            "english": "Let's do a scientific experiment."
           },
           {
             "greek": "Αυτοί κάνουν το φαγητό.",
@@ -1997,6 +2005,10 @@
             "english": "This morning I work."
           },
           {
+            "greek": "Για ποια επιχείρηση δουλεύεις;",
+            "english": "Which company do you work for?"
+          },
+          {
             "greek": "Ο δάσκαλος δουλεύει στο σχολείο.",
             "english": "The teacher works at the school."
           },
@@ -2023,6 +2035,10 @@
           {
             "greek": "Δεκαπέντε οικοδόμοι δουλεύουν ημέρα και νύχτα.",
             "english": "Fifteen builders work day and night."
+          },
+          {
+            "greek": "Είκοσι υπάλληλοι δουλεύουν στην τράπεζα.",
+            "english": "Twenty employees work at the bank."
           },
           {
             "greek": "Οι αστυνομικοί δουλεύουν στο αστυνομικό τμήμα.",
@@ -2083,8 +2099,24 @@
             "english": "We will learn Chinese."
           },
           {
+            "greek": "Μαθαίνουμε για το φαινόμενο του θερμοκηπίου.",
+            "english": "We are learning about the greenhouse effect."
+          },
+          {
+            "greek": "Στο μάθημα της γεωμετρίας μαθαίνουμε για τις γωνίες.",
+            "english": "In geometry class, we learn about angles."
+          },
+          {
+            "greek": "Τα παιδιά μαθαίνουν πρόσθεση και αφαίρεση.",
+            "english": "The children are learning addition and subtraction."
+          },
+          {
             "greek": "Πηγαίνουμε σχολείο επειδή θέλουμε να μάθουμε.",
             "english": "We go to school because we want to learn."
+          },
+          {
+            "greek": "Είμαστε ανυπόμονοι να μάθουμε τα αποτελέσματα των εξετάσεων.",
+            "english": "We are eager to learn the exam results."
           },
           {
             "greek": "Μάθε την ιστορία.",
@@ -2226,6 +2258,10 @@
         "lemma": "τραγουδάω",
         "english": "sing",
         "sentences": [
+          {
+            "greek": "Τραγουδάω στη βροχή.",
+            "english": "I sing in the rain."
+          },
           {
             "greek": "Εγώ τραγουδώ και αυτοί χορεύουν.",
             "english": "I sing and they dance."
@@ -2643,16 +2679,20 @@
             "english": "He pays for the food."
           },
           {
-            "greek": "Ποιος πληρώνει;",
-            "english": "Who pays?"
-          },
-          {
             "greek": "Με πληρώνει.",
             "english": "She pays me."
           },
           {
             "greek": "Η γυναίκα μας πληρώνει.",
             "english": "The woman pays us."
+          },
+          {
+            "greek": "Ποιος πληρώνει;",
+            "english": "Who pays?"
+          },
+          {
+            "greek": "Ποιος πληρώνει τα δικαστικά έξοδα;",
+            "english": "Who pays the legal expenses?"
           },
           {
             "greek": "Εμείς αγοράζουμε και εσείς πληρώνετε.",
@@ -3496,6 +3536,10 @@
         "english": "try / test",
         "sentences": [
           {
+            "greek": "Δοκιμάζω τα τοπικά προϊόντα.",
+            "english": "I try the local products."
+          },
+          {
             "greek": "Ο Δημήτρης δοκιμάζει ένα καπέλο.",
             "english": "Dimitris tries on a hat."
           },
@@ -4056,6 +4100,10 @@
           {
             "greek": "Σπουδάζουμε μαζί.",
             "english": "We study together."
+          },
+          {
+            "greek": "Σπουδάζουμε μουσική στο πανεπιστήμιο.",
+            "english": "We study music at the university."
           }
         ]
       }
@@ -4255,6 +4303,10 @@
           {
             "greek": "Δεν μπορείτε να ταξιδέψετε χωρίς διαβατήριο.",
             "english": "You cannot travel without a passport."
+          },
+          {
+            "greek": "Οι επιχειρηματίες ταξιδεύουν στην Κίνα.",
+            "english": "The businesspeople travel to China."
           }
         ]
       },
@@ -4684,6 +4736,10 @@
             "english": "I sign the book."
           },
           {
+            "greek": "Αυτός υπογράφει το συμβόλαιο.",
+            "english": "He signs the contract."
+          },
+          {
             "greek": "Ποιος υπογράφει το γράμμα;",
             "english": "Who signs the letter?"
           },
@@ -4859,8 +4915,16 @@
             "english": "I prefer sweet foods to salty foods."
           },
           {
+            "greek": "Προτιμώ τις έξυπνες διαφημίσεις.",
+            "english": "I prefer clever advertisements."
+          },
+          {
             "greek": "Προτιμώ την αγάπη από το μίσος.",
             "english": "I prefer love over hate."
+          },
+          {
+            "greek": "Δεν το προτιμώ.",
+            "english": "I do not prefer it."
           },
           {
             "greek": "Ποιο προτιμάς;",
@@ -4883,16 +4947,16 @@
             "english": "Do you prefer defense or offense?"
           },
           {
+            "greek": "Δε μας αρέσει η πετοσφαίριση, προτιμάμε την καλαθοσφαίριση.",
+            "english": "We do not like volleyball; we prefer basketball."
+          },
+          {
             "greek": "Ποιο προτιμάτε;",
             "english": "Which do you prefer?"
           },
           {
-            "greek": "Δεν το προτιμώ.",
-            "english": "I do not prefer it."
-          },
-          {
-            "greek": "Δε μας αρέσει η πετοσφαίριση, προτιμάμε την καλαθοσφαίριση.",
-            "english": "We do not like volleyball; we prefer basketball."
+            "greek": "Οι μαθητές συνήθως προτιμούν τη γεωμετρία από την άλγεβρα.",
+            "english": "Students usually prefer geometry to algebra."
           }
         ]
       },
@@ -4906,16 +4970,20 @@
             "english": "I hate sugar."
           },
           {
-            "greek": "Μισούμε τις Κυριακές.",
-            "english": "We hate Sundays."
-          },
-          {
             "greek": "Εγώ δε μισώ κανένα.",
             "english": "I do not hate anyone."
           },
           {
+            "greek": "Μισεί την αρνητική διαφήμιση.",
+            "english": "He hates negative advertising."
+          },
+          {
             "greek": "Ο γιος μου δε σε μισεί.",
             "english": "My son does not hate you."
+          },
+          {
+            "greek": "Μισούμε τις Κυριακές.",
+            "english": "We hate Sundays."
           }
         ]
       },
@@ -5143,6 +5211,10 @@
             "english": "I do not feel pain."
           },
           {
+            "greek": "Δε νιώθω ποτέ άγχος.",
+            "english": "I never feel stress."
+          },
+          {
             "greek": "Τι νιώθεις;",
             "english": "What do you feel?"
           },
@@ -5153,6 +5225,10 @@
           {
             "greek": "Νιώθει φιλικό το κλίμα.",
             "english": "He feels the atmosphere is friendly."
+          },
+          {
+            "greek": "Νιώθει περήφανος γι' αυτήν.",
+            "english": "He feels proud of it."
           },
           {
             "greek": "Νιώθει γαλήνη και χαρά.",
@@ -5167,16 +5243,12 @@
             "english": "We feel bad because we arrived late."
           },
           {
-            "greek": "Πώς νιώθουν αυτοί;",
-            "english": "How do they feel?"
-          },
-          {
-            "greek": "Δε νιώθω ποτέ άγχος.",
-            "english": "I never feel stress."
-          },
-          {
             "greek": "Εσείς δε νιώθετε οργή;",
             "english": "Don’t you feel anger?"
+          },
+          {
+            "greek": "Πώς νιώθουν αυτοί;",
+            "english": "How do they feel?"
           },
           {
             "greek": "Θα έπρεπε να νιώθεις περήφανος.",
@@ -5185,6 +5257,33 @@
           {
             "greek": "Μη νιώθεις απογοήτευση, συνέχισε να προσπαθείς.",
             "english": "Don’t feel disappointment; keep trying."
+          }
+        ]
+      },
+      {
+        "id": "work-ergazomai",
+        "lemma": "εργάζομαι",
+        "english": "work",
+        "sentences": [
+          {
+            "greek": "Δεν εργάζομαι τα Σάββατα.",
+            "english": "I don’t work on Saturdays."
+          },
+          {
+            "greek": "Η αδελφή μου εργάζεται στο ταχυδρομείο.",
+            "english": "My sister works at the post office."
+          },
+          {
+            "greek": "Εργάζεται για τη διοίκηση.",
+            "english": "He works for the administration."
+          },
+          {
+            "greek": "Εργαζόμαστε από το πρωί μέχρι το βράδυ.",
+            "english": "We work from morning until night."
+          },
+          {
+            "greek": "Πόσοι επιστήμονες εργάζονται σε αυτό τον οργανισμό;",
+            "english": "How many scientists work in this organization?"
           }
         ]
       },
@@ -5316,6 +5415,29 @@
           {
             "greek": "Κάτσε εδώ και περίμεσέ με.",
             "english": "Sit here and wait for me."
+          }
+        ]
+      },
+      {
+        "id": "dress-dynomai",
+        "lemma": "ντύνομαι",
+        "english": "get dressed / dress oneself",
+        "sentences": [
+          {
+            "greek": "Ντύσου!",
+            "english": "Get dressed!"
+          },
+          {
+            "greek": "Ντύσου και πήγαινε σπίτι.",
+            "english": "Get dressed and go home."
+          },
+          {
+            "greek": "Ντύσου ζεστά για να μην κρυώσεις.",
+            "english": "Dress warmly so that you do not get cold."
+          },
+          {
+            "greek": "Σηκωθείτε και ντυθείτε.",
+            "english": "Get up and get dressed."
           }
         ]
       },
@@ -6338,6 +6460,10 @@
             "english": "These things do not happen."
           },
           {
+            "greek": "Πού συμβαίνουν οι χιονοθύελλες;",
+            "english": "Where do snowstorms occur?"
+          },
+          {
             "greek": "Αν συμβεί κάτι είναι αυτοί υπεύθυνοι.",
             "english": "If something happens, they are responsible."
           },
@@ -6521,6 +6647,10 @@
           {
             "greek": "Θέλω να γίνω γιατρός!",
             "english": "I want to become a doctor!"
+          },
+          {
+            "greek": "Το παιδί θέλει να γίνει αστροναύτης.",
+            "english": "The child wants to become an astronaut."
           }
         ]
       },
@@ -6548,6 +6678,10 @@
           {
             "greek": "Εμείς ανήκουμε στην οικογένειά μας.",
             "english": "We belong to our family."
+          },
+          {
+            "greek": "Σε ποιο κόμμα ανήκετε;",
+            "english": "Which party do you belong to?"
           },
           {
             "greek": "Αυτοί ανήκουν στην ένωση εργατών.",
@@ -6865,6 +6999,10 @@
           {
             "greek": "Γνωρίζετε την απάντηση;",
             "english": "Do you know the answer?"
+          },
+          {
+            "greek": "Γνωρίζουν το φαινόμενο του θερμοκηπίου.",
+            "english": "They know about the greenhouse effect."
           },
           {
             "greek": "Αυτοί δε γνωρίζουν την έννοια της αγάπης.",
