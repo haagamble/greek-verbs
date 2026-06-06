@@ -940,6 +940,10 @@
             "english": "I hear a noise."
           },
           {
+            "greek": "Με πιάνει πονοκέφαλος όποτε ακούω αυτά τα τραγούδια.",
+            "english": "I get a headache whenever I hear these songs."
+          },
+          {
             "greek": "Εγώ δεν ακούω.",
             "english": "I do not hear."
           },
@@ -1686,6 +1690,10 @@
             "english": "My daughter shows interest in sports."
           },
           {
+            "greek": "Τι δείχνει το δελτίο καιρού για αύριο;",
+            "english": "What does the weather forecast show for tomorrow?"
+          },
+          {
             "greek": "Εσείς δείχνετε τα καπέλα.",
             "english": "You show the hats."
           },
@@ -1765,16 +1773,20 @@
             "english": "He looks right and left."
           },
           {
-            "greek": "Κοιτάξτε το δελφίνι.",
-            "english": "Look at the dolphin."
-          },
-          {
             "greek": "Κοίτα το φεγγάρι!",
             "english": "Look at the moon!"
           },
           {
+            "greek": "Κοίταξέ με!",
+            "english": "Look at me!"
+          },
+          {
             "greek": "Κοίταξε τους μυς μου!",
             "english": "Look at my muscles!"
+          },
+          {
+            "greek": "Κοιτάξτε το δελφίνι.",
+            "english": "Look at the dolphin."
           }
         ]
       },
@@ -1796,24 +1808,28 @@
             "english": "I take the bus every day."
           },
           {
-            "greek": "Αυτή παίρνει το φαγητό και τρώει.",
-            "english": "She takes the food and eats."
+            "greek": "Γιατί δεν παίρνεις το μετρό να πας στο λιμάνι;",
+            "english": "Why don’t you take the metro to go to the port?"
           },
           {
-            "greek": "Η παραγωγή ελαιόλαδου παίρνει πολύ χρόνο.",
-            "english": "Olive oil production takes a long time."
+            "greek": "Αυτή παίρνει το φαγητό και τρώει.",
+            "english": "She takes the food and eats."
           },
           {
             "greek": "Ο Νίκος παίρνει μια βαθιά ανάσα.",
             "english": "Nikos takes a deep breath."
           },
           {
-            "greek": "Εμείς παίρνουμε εφημερίδες.",
-            "english": "We take newspapers."
+            "greek": "Η παραγωγή ελαιόλαδου παίρνει πολύ χρόνο.",
+            "english": "Olive oil production takes a long time."
           },
           {
-            "greek": "Γιατί δεν παίρνεις το μετρό να πας στο λιμάνι;",
-            "english": "Why don’t you take the metro to go to the port?"
+            "greek": "Παίρνει χρόνο αλλά τα αποτελέσματα αξίζουν την προσπάθεια.",
+            "english": "It takes time, but the results are worth the effort."
+          },
+          {
+            "greek": "Εμείς παίρνουμε εφημερίδες.",
+            "english": "We take newspapers."
           },
           {
             "greek": "Πάρε αυτήν την τσάντα, είναι ελαφρύτερη.",
@@ -2068,12 +2084,16 @@
             "english": "She holds her bag."
           },
           {
-            "greek": "Τι κρατάτε;",
-            "english": "What are you holding?"
+            "greek": "Πόση ώρα κρατάει η εγχείρηση;",
+            "english": "How long does the operation last?"
           },
           {
             "greek": "Δεν κρατάμε τίποτα.",
             "english": "We don’t keep anything."
+          },
+          {
+            "greek": "Τι κρατάτε;",
+            "english": "What are you holding?"
           }
         ]
       },
@@ -2880,6 +2900,10 @@
         "english": "spend",
         "sentences": [
           {
+            "greek": "Πόση ενέργεια ξοδεύει ένας υπολογιστής;",
+            "english": "How much energy does a computer use?"
+          },
+          {
             "greek": "Κάθε μέρα ξοδεύουμε πολλά.",
             "english": "Every day we spend a lot."
           }
@@ -3472,8 +3496,16 @@
             "english": "Do you measure the height or the length?"
           },
           {
+            "greek": "Κάθε λεπτομέρεια μετράει.",
+            "english": "Every detail matters."
+          },
+          {
             "greek": "Μετράτε τα πράγματά σας;",
             "english": "Do you count your things?"
+          },
+          {
+            "greek": "Οι γυναίκες μετρούν εκείνες τις γωνίες.",
+            "english": "The women measure those angles."
           }
         ]
       }
@@ -4825,12 +4857,16 @@
             "english": "I support you and you know it."
           },
           {
+            "greek": "Γιατί δεν τον υποστηρίζεις;",
+            "english": "Why don’t you support him?"
+          },
+          {
             "greek": "Οι γονείς μου με υποστηρίζουν.",
             "english": "My parents support me."
           },
           {
-            "greek": "Γιατί δεν τον υποστηρίζεις;",
-            "english": "Why don’t you support him?"
+            "greek": "Οι συνάδελφοί του τον υποστηρίζουν.",
+            "english": "His colleagues support him."
           }
         ]
       },
@@ -4862,6 +4898,10 @@
         "lemma": "μελετάω",
         "english": "study",
         "sentences": [
+          {
+            "greek": "Η γιατρός μελετά τον εγκέφαλο του ασθενή.",
+            "english": "The doctor studies the patient's brain."
+          },
           {
             "greek": "Μελετάμε αγγλικά.",
             "english": "We study English."
@@ -5274,6 +5314,10 @@
             "english": "My sister works at the post office."
           },
           {
+            "greek": "Εργάζεται για ξένη βιομηχανία.",
+            "english": "He works for a foreign industry."
+          },
+          {
             "greek": "Εργάζεται για τη διοίκηση.",
             "english": "He works for the administration."
           },
@@ -5656,6 +5700,14 @@
             "english": "I can imagine how difficult it is for you."
           },
           {
+            "greek": "Δεν μπορείς να φανταστείς.",
+            "english": "You cannot imagine it."
+          },
+          {
+            "greek": "Μπορείτε να το φανταστείτε;",
+            "english": "Can you imagine it?"
+          },
+          {
             "greek": "Απλώς φαντάσου το.",
             "english": "Just imagine it."
           },
@@ -5668,16 +5720,8 @@
             "english": "Imagine how beautiful it will be."
           },
           {
-            "greek": "Μπορείτε να το φανταστείτε;",
-            "english": "Can you imagine it?"
-          },
-          {
             "greek": "Φανταστείτε ένα επιδόρπιο χωρίς σοκολάτα.",
             "english": "Imagine a dessert without chocolate."
-          },
-          {
-            "greek": "Δεν μπορείς να φανταστείς.",
-            "english": "You cannot imagine it."
           }
         ]
       },
@@ -6340,10 +6384,7 @@
             "greek": "Υπάρχει πιθανότητα.",
             "english": "There is a possibility."
           },
-          {
-            "greek": "Έξω από το κάστρο υπάρχει μια καφετέρια.",
-            "english": "Outside the castle there is a café."
-          },
+   
           {
             "greek": "Υπάρχει μικρό ενδιαφέρον.",
             "english": "There is little interest."
@@ -6409,20 +6450,12 @@
             "english": "There are many castles in Germany."
           },
           {
-            "greek": "Υπάρχουν φανάρια στην Ελλάδα;",
-            "english": "Are there traffic lights in Greece?"
-          },
-          {
             "greek": "Υπάρχουν πολλά αεροδρόμια στην Ελλάδα.",
             "english": "There are many airports in Greece."
           },
           {
             "greek": "Έξω από τις αφίξεις υπάρχουν πολλά ταξί.",
             "english": "Outside arrivals there are many taxis."
-          },
-          {
-            "greek": "Γιατί υπάρχουν φορτηγά στη λεωφόρο;",
-            "english": "Why are there trucks on the avenue?"
           },
           {
             "greek": "Υπάρχουν ωραιότατα σπίτια σε αυτή τη γειτονιά.",
@@ -6437,12 +6470,24 @@
             "english": "There are many books in this library."
           },
           {
-            "greek": "Πόσα κόκκαλα υπάρχουν στο σώμα μας;",
-            "english": "How many bones are there in our body?"
-          },
-          {
             "greek": "Δεν υπάρχουν μαγαζιά σε αυτόν τον δρόμο.",
             "english": "There are no shops on this street."
+          },
+          {
+            "greek": "Γιατί υπάρχουν φορτηγά στη λεωφόρο;",
+            "english": "Why are there trucks on the avenue?"
+          },
+          {
+            "greek": "Υπάρχουν φανάρια στην Ελλάδα;",
+            "english": "Are there traffic lights in Greece?"
+          },
+          {
+            "greek": "Πόσες πυραμίδες υπάρχουν στην Αίγυπτο;",
+            "english": "How many pyramids are there in Egypt?"
+          },
+          {
+            "greek": "Πόσα κόκκαλα υπάρχουν στο σώμα μας;",
+            "english": "How many bones are there in our body?"
           }
         ]
       },
@@ -6534,6 +6579,10 @@
             "english": "I live a life full of action."
           },
           {
+            "greek": "Δε ζω χωρίς αγάπη.",
+            "english": "I don’t live without love."
+          },
+          {
             "greek": "Πού ζεις;",
             "english": "Where do you live?"
           },
@@ -6542,16 +6591,12 @@
             "english": "You only live once."
           },
           {
-            "greek": "Ζει στην πόλη με την οικογένειά του.",
-            "english": "He lives in the city with his family."
-          },
-          {
-            "greek": "Όλοι ζούμε σε ένα κίτρινο υποβρύχιο.",
-            "english": "We all live in a yellow submarine."
-          },
-          {
             "greek": "Σε ποια περιοχή της πόλης ζεις;",
             "english": "In which area of the city do you live?"
+          },
+          {
+            "greek": "Ζει στην πόλη με την οικογένειά του.",
+            "english": "He lives in the city with his family."
           },
           {
             "greek": "Ο αδερφός μου ζει στην Αφρική.",
@@ -6560,6 +6605,10 @@
           {
             "greek": "Ο λύκος ζει στο δάσος.",
             "english": "The wolf lives in the forest."
+          },
+          {
+            "greek": "Όλοι ζούμε σε ένα κίτρινο υποβρύχιο.",
+            "english": "We all live in a yellow submarine."
           },
           {
             "greek": "Πολλοί Έλληνες ζουν στη Γερμανία.",
@@ -6578,8 +6627,8 @@
             "english": "The children live in a very loving family."
           },
           {
-            "greek": "Δε ζω χωρίς αγάπη.",
-            "english": "I don’t live without love."
+            "greek": "Θέλω να ζήσω σε ζεστό κλίμα.",
+            "english": "I want to live in a warm climate."
           }
         ]
       },
@@ -6883,6 +6932,10 @@
           {
             "greek": "Παρουσιάζουν το μενού.",
             "english": "They present the menu."
+          },
+          {
+            "greek": "Αυτοί παρουσιάζουν τα αποτελέσματα.",
+            "english": "They present the results."
           }
         ]
       },
@@ -6925,6 +6978,10 @@
           {
             "greek": "Μου προσφέρει καφέ.",
             "english": "He is offering me coffee."
+          },
+          {
+            "greek": "Η ομπρέλα προσφέρει προστασία από τον ήλιο.",
+            "english": "The umbrella provides protection from the sun."
           },
           {
             "greek": "Αυτοί προσφέρουν καφέ.",
@@ -6995,6 +7052,10 @@
           {
             "greek": "Γνωρίζεις την προέλευση;",
             "english": "Do you know the origin?"
+          },
+          {
+            "greek": "Γνωρίζει κανείς τι ώρα η συνάντηση θα τελειώσει;",
+            "english": "Does anyone know what time the meeting will end?"
           },
           {
             "greek": "Γνωρίζετε την απάντηση;",
@@ -7354,6 +7415,10 @@
           {
             "greek": "Ο Νίκος τα παρακολουθεί ήσυχα.",
             "english": "Nikos watches them quietly."
+          },
+          {
+            "greek": "Εκείνος ο φλάρος με παρακολουθεί.",
+            "english": "That seagull is watching me."
           }
         ]
       }
