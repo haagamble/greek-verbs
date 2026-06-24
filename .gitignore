@@ -28,6 +28,9 @@ Thumbs.db
 *.tmp
 *.temp
 
+# Local helper scripts
+local-tools/
+
 # Local staging data
 verbs-new-entries.json
 verbs-new-sentences.json

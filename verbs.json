@@ -424,6 +424,10 @@
             "english": "They drink water."
           },
           {
+            "greek": "Πίνουν καφέ μαζί.",
+            "english": "They are drinking coffee together."
+          },
+          {
             "greek": "Όλες οι γάτες πίνουν γάλα.",
             "english": "All the cats drink milk."
           }
@@ -517,6 +521,10 @@
           {
             "greek": "Ο πατέρας του διαβάζει την ιστορία.",
             "english": "His father reads the story."
+          },
+          {
+            "greek": "Ένας ηλικιωμένος διαβάζει εφημερίδα.",
+            "english": "An elderly man is reading a newspaper."
           },
           {
             "greek": "Εμείς τρώμε πρωινό και διαβάζουμε εφημερίδα.",
@@ -931,6 +939,10 @@
           {
             "greek": "Η γυναίκα βλέπει το παιδί.",
             "english": "The woman sees the child."
+          },
+          {
+            "greek": "Η Δήμητρα βλέπει δύο φίλες να μιλούν.",
+            "english": "Dimitra sees two friends talking."
           },
           {
             "greek": "Γιώργος βλέπει πολλούς ανθρώπους.",
@@ -1877,6 +1889,10 @@
             "english": "He looks right and left."
           },
           {
+            "greek": "Κοιτάζει τους ανθρώπους γύρω της.",
+            "english": "She looks at the people around her."
+          },
+          {
             "greek": "Κοίτα το φεγγάρι!",
             "english": "Look at the moon!"
           },
@@ -1922,6 +1938,10 @@
           {
             "greek": "Αυτή παίρνει το φαγητό και τρώει.",
             "english": "She takes the food and eats."
+          },
+          {
+            "greek": "Παίρνει το μικρό σακίδιό της.",
+            "english": "She takes her small backpack."
           },
           {
             "greek": "Ο Νίκος παίρνει μια βαθιά ανάσα.",
@@ -2312,10 +2332,6 @@
             "english": "I love you because you are my friend."
           },
           {
-            "greek": "Αγαπάω όλα τα ζώα.",
-            "english": "I love all the animals."
-          },
-          {
             "greek": "Σε αγαπάω πάρα πολύ.",
             "english": "I love you very much."
           },
@@ -2350,6 +2366,10 @@
           {
             "greek": "Ο Νίκος αγαπάει τα βιβλία.",
             "english": "Nikos loves books."
+          },
+          {
+            "greek": "Η Δήμητρα αγαπά αυτή την ήρεμη ατμόσφαιρα.",
+            "english": "Dimitra loves this peaceful atmosphere."
           },
           {
             "greek": "Όποιος αγαπάει τον Θεό πρέπει ν’ αγαπάει και τον αδερφό του.",
@@ -2494,6 +2514,10 @@
             "english": "I sing and they dance."
           },
           {
+            "greek": "Μερικοί άνθρωποι χορεύουν αργά.",
+            "english": "Some people dance slowly."
+          },
+          {
             "greek": "Όποτε χαίρονται χορεύουν.",
             "english": "Whenever they are happy, they dance."
           }
@@ -2550,6 +2574,10 @@
           {
             "greek": "Γελάει δυνατά με τη μαμά του.",
             "english": "He laughs loudly with his mother."
+          },
+          {
+            "greek": "Η Δήμητρα γελά σιγά.",
+            "english": "Dimitra laughs quietly."
           },
           {
             "greek": "Είναι πολύ σοβαρός, δε γελάει ποτέ.",
@@ -2661,6 +2689,10 @@
             "english": "He runs for pleasure."
           },
           {
+            "greek": "Μια γυναίκα τρέχει γρήγορα.",
+            "english": "A woman runs quickly."
+          },
+          {
             "greek": "Τι τρέχει;",
             "english": "What is the matter?"
           },
@@ -2728,8 +2760,20 @@
             "english": "He walks slowly toward the road."
           },
           {
+            "greek": "Περπατά αργά προς το πάρκο.",
+            "english": "She walks slowly toward the park."
+          },
+          {
+            "greek": "Περπατά κοντά σε μεγάλα δέντρα.",
+            "english": "She walks near large trees."
+          },
+          {
             "greek": "Ο Νίκος περπατάει με ήρεμο ρυθμό.",
             "english": "Nikos walks at a calm pace."
+          },
+          {
+            "greek": "Η Δήμητρα περπατά αργά προς την έξοδο.",
+            "english": "Dimitra walks slowly toward the exit."
           },
           {
             "greek": "Η γάτα περπατάει στον διάδρομο.",
@@ -4376,6 +4420,10 @@
         "english": "finish",
         "sentences": [
           {
+            "greek": "Μετά τελειώνει το τσάι της.",
+            "english": "Afterward she finishes her tea."
+          },
+          {
             "greek": "Πότε τελειώνει;",
             "english": "When does it finish?"
           },
@@ -4420,6 +4468,10 @@
           {
             "greek": "Ο Νίκος σταματάει λίγο.",
             "english": "Nikos stops for a moment."
+          },
+          {
+            "greek": "Η Δήμητρα σταματά για λίγο.",
+            "english": "Dimitra stops for a moment."
           },
           {
             "greek": "Τρέχουμε και σταματάμε.",
@@ -4628,6 +4680,10 @@
           {
             "greek": "Όταν βγαίνω έξω, είμαι πάντα βαμμένη.",
             "english": "When I go out, I am always wearing makeup."
+          },
+          {
+            "greek": "Η Δήμητρα βγαίνει από το σπίτι της.",
+            "english": "Dimitra leaves her house."
           },
           {
             "greek": "Το λάδι βγαίνει από ελιές.",
@@ -5365,6 +5421,10 @@
         "english": "forget",
         "sentences": [
           {
+            "greek": "Ξεχνά το άγχος της.",
+            "english": "She forgets her stress."
+          },
+          {
             "greek": "Δε θέλουμε να το ξεχάσουμε!",
             "english": "We do not want to forget it!"
           },
@@ -5708,6 +5768,10 @@
             "english": "Do you ever feel pain?"
           },
           {
+            "greek": "Νιώθει πολύ ήρεμη.",
+            "english": "She feels very calm."
+          },
+          {
             "greek": "Νιώθει φιλικό το κλίμα.",
             "english": "He feels the atmosphere is friendly."
           },
@@ -5870,8 +5934,16 @@
             "english": "He sits in his room."
           },
           {
+            "greek": "Κάθεται στον καναπέ.",
+            "english": "She sits on the sofa."
+          },
+          {
             "greek": "Ο Νίκος κάθεται σε ένα παγκάκι.",
             "english": "Nikos sits on a bench."
+          },
+          {
+            "greek": "Κάθεται πάλι σε ένα παγκάκι.",
+            "english": "She sits on a bench again."
           },
           {
             "greek": "Το παιδί δεν κάθεται.",
@@ -6224,6 +6296,10 @@
             "english": "He thinks about his city."
           },
           {
+            "greek": "Σκέφτεται την όμορφη μέρα.",
+            "english": "She thinks about the beautiful day."
+          },
+          {
             "greek": "Περπατά προς το σπίτι και σκέφτεται τη μέρα του.",
             "english": "He walks toward home and thinks about his day."
           },
@@ -6293,6 +6369,10 @@
           {
             "greek": "Δεν μπορεί να θυμηθεί.",
             "english": "He cannot remember."
+          },
+          {
+            "greek": "Θέλει να θυμάται αυτή τη μέρα.",
+            "english": "She wants to remember this day."
           },
           {
             "greek": "Θυμάστε το φόρεμά της;",
@@ -7109,6 +7189,10 @@
             "english": "George seems like a normal person."
           },
           {
+            "greek": "Η λίμνη φαίνεται πολύ όμορφη το βράδυ.",
+            "english": "The lake looks very beautiful in the evening."
+          },
+          {
             "greek": "Κάτι μου φαίνεται οικείο.",
             "english": "Something seems familiar to me."
           },
@@ -7139,6 +7223,10 @@
           {
             "greek": "Αυτή φαίνεται πεσμένη, τι της συνέβη;",
             "english": "She seems down, what happened to her?"
+          },
+          {
+            "greek": "Όλοι φαίνονται χαρούμενοι.",
+            "english": "Everyone looks happy."
           }
         ]
       },
@@ -7218,6 +7306,25 @@
         ]
       },
       {
+        "id": "die-pethaino",
+        "lemma": "πεθαίνω",
+        "english": "die",
+        "sentences": [
+          {
+            "greek": "Η ελπίδα πεθαίνει τελευταία.",
+            "english": "Hope dies last."
+          },
+          {
+            "greek": "Δεν πεθαίνει στο μυθιστόρημα.",
+            "english": "He does not die in the novel."
+          },
+          {
+            "greek": "Αλλά εκείνος που πεθαίνει γίνεται να ξανάρθει στη ζωή;",
+            "english": "But can someone who dies come back to life?"
+          }
+        ]
+      },
+      {
         "id": "become-ginomai",
         "lemma": "γίνομαι",
         "english": "become",
@@ -7225,6 +7332,10 @@
           {
             "greek": "Θέλω να γίνω γιατρός!",
             "english": "I want to become a doctor!"
+          },
+          {
+            "greek": "Ο ουρανός γίνεται πορτοκαλί.",
+            "english": "The sky turns orange."
           },
           {
             "greek": "Να γίνεις η πρώτη, τότε!",
@@ -7241,6 +7352,10 @@
           {
             "greek": "Ο κόσμος γίνεται πιο πολύς.",
             "english": "The crowd becomes larger."
+          },
+          {
+            "greek": "Ο αέρας γίνεται λίγο πιο κρύος.",
+            "english": "The air becomes a little colder."
           },
           {
             "greek": "Η διανομή γίνεται τα απογεύματα.",
@@ -7347,6 +7462,29 @@
           {
             "greek": "Συγγνώμη, τι εννοείτε;",
             "english": "Sorry, what do you mean?"
+          }
+        ]
+      },
+      {
+        "id": "concern-aforo",
+        "lemma": "αφορώ",
+        "english": "concern",
+        "sentences": [
+          {
+            "greek": "Αυτό δε σε αφορά.",
+            "english": "That does not concern you."
+          },
+          {
+            "greek": "Ο νέος νόμος αφορά τη βία στα σχολεία.",
+            "english": "The new law concerns violence in schools."
+          },
+          {
+            "greek": "Η κλιματική αλλαγή μάς αφορά όλους.",
+            "english": "Climate change concerns all of us."
+          },
+          {
+            "greek": "Τα κοινά μάς αφορούν όλους.",
+            "english": "Public affairs concern all of us."
           }
         ]
       },
@@ -7742,6 +7880,10 @@
             "english": "He decides to return home."
           },
           {
+            "greek": "Αποφασίζει να αγοράσει τσάι.",
+            "english": "She decides to buy tea."
+          },
+          {
             "greek": "Ο Δημήτρης αποφασίζει να γυρίσει σπίτι.",
             "english": "Dimitris decides to return home."
           },
@@ -7976,6 +8118,10 @@
             "english": "He smells fresh bread and koulouria."
           },
           {
+            "greek": "Μυρίζει ένα κόκκινο τριαντάφυλλο.",
+            "english": "She smells a red rose."
+          },
+          {
             "greek": "Ο Δημήτρης μυρίζει τη ρίγανη.",
             "english": "Dimitris smells the oregano."
           },
@@ -7997,6 +8143,10 @@
           {
             "greek": "Ένα πρωί ο ήλιος λάμπει.",
             "english": "One morning the sun shines."
+          },
+          {
+            "greek": "Ο ήλιος λάμπει στον ουρανό.",
+            "english": "The sun shines in the sky."
           },
           {
             "greek": "Το μέλι λάμπει στο ηλιακό φως.",
